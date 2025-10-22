@@ -1,0 +1,10 @@
+# .gitignore for text repository
+
+# Ignore everything
+*
+
+# Allow gitignore, obsidian, and markdown files
+!.gitignore
+!.obsidian
+.obsidian/workspace*.json
+!*.md
