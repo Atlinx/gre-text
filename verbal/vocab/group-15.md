@@ -8,6 +8,7 @@ alienate
 	- **Ex.** His behavior began to alienate his friends and family.
 	- Synonyms
 		- sever, drive a wedge, disunite
+<!--SR:!2025-10-26,4,270-->
 
 apathy
 ?
@@ -16,6 +17,7 @@ apathy
 	- **Ex.** The team's losing streak led to apathy among the fans.
 	- Synonyms
 		- indifference, passivity, phlegm
+<!--SR:!2025-10-26,4,270-->
 
 apropos
 ?
@@ -114,6 +116,7 @@ exploitative
 	- **Ex.** The company was criticized for its exploitative practices.
 	- Synonyms
 		- predatory, opportunistic, extortionate
+<!--SR:!2025-10-25,3,250-->
 
 foreseeable
 ?
@@ -194,6 +197,7 @@ sensational
 	- **Ex.** The magazine is known for its sensational headlines.
 	- Synonyms
 		- overdramatized, lurid, melodramatic
+<!--SR:!2025-10-25,3,250-->
 
 sophisticated
 ?
@@ -215,6 +219,7 @@ strife
 	- **Ex.** The political strife in the country was concerning.
 	- Synonyms
 		- friction, discord, dissension
+<!--SR:!2025-10-26,4,270-->
 
 understated
 ?
@@ -231,6 +236,7 @@ unscrupulous
 	- **Ex.** The unscrupulous merchant was known to overcharge unsuspecting tourists.
 	- Synonyms
 		- amoral, reprobate, shameless
+<!--SR:!2025-10-26,4,270-->
 
 veracity
 ?

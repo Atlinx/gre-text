@@ -13,6 +13,7 @@ affinity
 	- **Ex.** There's a natural affinity between math and physics.
 	- Synonyms
 		- resemblance, kinship, parallelism
+<!--SR:!2025-10-25,3,250-->
 
 altruistic
 ?
@@ -21,6 +22,7 @@ altruistic
 	- **Ex.** The altruistic volunteer spent weekends helping at the homeless shelter.
 	- Synonyms
 		- compassionate, benevolent, magnanimous
+<!--SR:!2025-10-26,4,270-->
 
 baroque
 ?
@@ -29,6 +31,7 @@ baroque
 	- **Ex.** The dress she wore to the event was decidedly baroque, with frills and embroideries everywhere.
 	- Synonyms
 		- overelaborate, extravagant, rococo
+<!--SR:!2025-10-25,3,250-->
 
 byzantine
 ?
@@ -37,6 +40,7 @@ byzantine
 	- **Ex.** Navigating the byzantine regulations required the help of an expert.
 	- Synonyms
 		- convoluted, involved, serpentine
+<!--SR:!2025-10-26,4,270-->
 
 compromise
 ?
@@ -45,6 +49,7 @@ compromise
 	- **Ex.** Using low-quality ingredients can compromise the dish's flavor.
 	- Synonyms
 		- undermine, jeopardize, imperil
+<!--SR:!2025-10-26,4,270-->
 
 conciliatory
 ?
@@ -53,6 +58,7 @@ conciliatory
 	- **Ex.** His conciliatory gesture helped to resolve the argument.
 	- Synonyms
 		- placatory, pacifying, mollifying
+<!--SR:!2025-10-26,4,270-->
 
 countenance
 ?
@@ -64,8 +70,10 @@ countenance
 - noun
 	- the look of a person's face or expression
 	- **Ex.** Her countenance fell when she heard the bad news.
-	- Synonyms
-		- No great synonyms really.
+- noun
+	- support
+	- **Ex.** She was giving her specific countenance to the occasion.
+<!--SR:!2025-10-23,1,230-->
 
 covert
 ?
@@ -74,6 +82,7 @@ covert
 	- **Ex.** The spy was involved in several covert missions.
 	- Synonyms
 		- furtive, surreptitious, clandestine
+<!--SR:!2025-10-26,4,270-->
 
 credible
 ?
@@ -82,6 +91,7 @@ credible
 	- **Ex.** The evidence was credible enough to support her case.
 	- Synonyms
 		- valid, tenable, compelling
+<!--SR:!2025-10-26,4,270-->
 
 diffuse
 ?
@@ -95,6 +105,7 @@ diffuse
 	- **Ex.** The light was diffuse, casting soft shadows across the room.
 	- Synonyms
 		- dispersed, spread out, distributed
+<!--SR:!2025-10-26,4,270-->
 
 documentary
 ?
@@ -103,6 +114,7 @@ documentary
 	- **Ex.** The film was documentary in nature, capturing the reality of life in that region.
 	- Synonyms
 		- recorded, chronicled, archived
+<!--SR:!2025-10-26,4,270-->
 
 exhaustive
 ?
@@ -111,6 +123,7 @@ exhaustive
 	- **Ex.** She conducted an exhaustive review of the literature on the topic.
 	- Synonyms
 		- all-inclusive, all-encompassing, encyclopedic
+<!--SR:!2025-10-26,4,270-->
 
 exhilarating
 ?
@@ -119,6 +132,7 @@ exhilarating
 	- **Ex.** The roller coaster ride was an exhilarating experience.
 	- Synonyms
 		- thrilling, intoxicating, invigorating
+<!--SR:!2025-10-26,4,270-->
 
 extraneous
 ?
@@ -127,6 +141,7 @@ extraneous
 	- **Ex.** Please remove any extraneous information from the report.
 	- Synonyms
 		- immaterial, inapposite, incidental
+<!--SR:!2025-10-26,4,270-->
 
 fervor
 ?
@@ -135,6 +150,7 @@ fervor
 	- **Ex.** The crowd's fervor was evident during the final match.
 	- Synonyms
 		- ardor, zeal, keenness
+<!--SR:!2025-10-26,4,270-->
 
 futile
 ?
@@ -143,6 +159,7 @@ futile
 	- **Ex.** Despite their efforts, the search proved futile.
 	- Synonyms
 		- fruitless, ineffectual, vain
+<!--SR:!2025-10-26,4,270-->
 
 illusory
 ?
@@ -151,6 +168,7 @@ illusory
 	- **Ex.** His sense of victory was illusory, as new challenges awaited.
 	- Synonyms
 		- delusional, bogus, sham
+<!--SR:!2025-10-26,4,270-->
 
 invidious
 ?
@@ -164,6 +182,7 @@ invidious
 	- **Ex.** The invidious policy discriminated against certain groups, causing widespread resentment.
 	- Synonyms
 		- unjust, discriminatory, iniquitous
+<!--SR:!2025-10-23,1,230-->
 
 lethargic
 ?
@@ -172,6 +191,7 @@ lethargic
 	- **Ex.** After the heavy meal, he felt lethargic and drowsy.
 	- Synonyms
 		- torpid, inert, languid
+<!--SR:!2025-10-26,4,270-->
 
 metaphorical
 ?
@@ -180,6 +200,7 @@ metaphorical
 	- **Ex.** "A sea of troubles" is a metaphorical expression.
 	- Synonyms
 		- figurative, allegorical, allusive
+<!--SR:!2025-10-26,4,270-->
 
 mimic
 ?
@@ -188,6 +209,7 @@ mimic
 	- **Ex.** He could mimic his favorite actors perfectly.
 	- Synonyms
 		- emulate, caricature, satirize
+<!--SR:!2025-10-26,4,270-->
 
 numinous
 ?
@@ -196,6 +218,7 @@ numinous
 	- **Ex.** The church had a numinous aura that calmed the visitors.
 	- Synonyms
 		- sacred, otherworldly, transcendent
+<!--SR:!2025-10-23,1,230-->
 
 obscure
 ?
@@ -209,6 +232,7 @@ obscure
 	- **Ex.** The author intentionally obscures the true meaning of his books.
 	- Synonyms
 		- obfuscate, cloud, muddy
+<!--SR:!2025-10-26,4,270-->
 
 overt
 ?
@@ -217,6 +241,7 @@ overt
 	- **Ex.** Her overt criticism was surprising to many.
 	- Synonyms
 		- plain, manifest, patent
+<!--SR:!2025-10-26,4,270-->
 
 pellucid
 ?
@@ -226,10 +251,11 @@ pellucid
 	- Synonyms
 		- lucid, unambiguous, straightforward
 - adjective
-	- (of a body of water or substance) transparent and clear
+	- (of a body of water or substance) transparent or translucent
 	- **Ex.** Lake Tahoe is famous for its pellucid water.
 	- Synonyms
 		- limpid, translucent, crystalline
+<!--SR:!2025-10-26,4,270-->
 
 perpetuate
 ?
@@ -238,6 +264,7 @@ perpetuate
 	- **Ex.** The movie served to perpetuate the myth of the noble outlaw.
 	- Synonyms
 		- sustain, maintain, prolong
+<!--SR:!2025-10-26,4,270-->
 
 rational
 ?
@@ -246,6 +273,7 @@ rational
 	- **Ex.** He made a rational decision after considering all options.
 	- Synonyms
 		- cogent, coherent, judicious
+<!--SR:!2025-10-26,4,270-->
 
 scathing
 ?
@@ -254,6 +282,7 @@ scathing
 	- **Ex.** The review was scathing, criticizing every aspect of the product.
 	- Synonyms
 		- mordant, blistering, caustic
+<!--SR:!2025-10-26,4,270-->
 
 subtle
 ?
@@ -262,6 +291,7 @@ subtle
 	- **Ex.** The dish had a subtle hint of rosemary.
 	- Synonyms
 		- minute, understated, subdued
+<!--SR:!2025-10-26,4,270-->
 
 superficial
 ?
@@ -275,3 +305,4 @@ superficial
 	- **Ex.** Sarah gave the car merely a superficial cleaning.
 	- Synonyms
 		- cursory, desultory, perfunctory
+<!--SR:!2025-10-25,3,250-->
