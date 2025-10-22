@@ -1,6 +1,7 @@
 {
   "pinned": [
     "obsidian-git:commit-push-specified-message",
+    "obsidian-git:pull",
     "obsidian-spaced-repetition:srs-cram-flashcards-in-note"
   ]
 }
