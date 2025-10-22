@@ -28,10 +28,12 @@ jobs:
     - name: Publish changes
       run: |
         cd main
+        rm -rf .obsidian
         find . -name "*.md" -type f -delete
         cd ../text
         COMMIT_MESSAGE=$(git log -1 --pretty=%B)
         echo "COMMIT_MESSAGE=${COMMIT_MESSAGE}" >> $GITHUB_ENV
+        cp -r .obsidian ../main/
         find . -name '*.md' -exec cp --parents \{\} ../main \;
         cd ../main
         git config user.name "${{ github.actor }}"
