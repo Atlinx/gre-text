@@ -7,4 +7,4 @@
 !.gitignore
 !.obsidian
 .obsidian/workspace*.json
-!*.md
+!**.md
