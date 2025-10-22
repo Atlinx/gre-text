@@ -39,9 +39,9 @@ jobs:
         git status
         if [[ $(git status --porcelain) ]]; then
           echo "There are uncommitted changes in the repository, committing changes."
-          # git add .
-          # git commit -m "${{ env.COMMIT_MESSAGE }} — See https://github.com/${{ env.TEXT_REPO }}/commit/${{ github.sha }}"
-          # git push
+          git add .
+          git commit -m "${COMMIT_MESSAGE} — See https://github.com/${{ env.TEXT_REPO }}/commit/${{ github.sha }}"
+          git push
         else
           echo "The repository is clean; no uncommitted changes."
         fi
