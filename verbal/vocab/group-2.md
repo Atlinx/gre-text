@@ -8,6 +8,7 @@ adulterate
 	- **Ex.** Chemical runoff regularly adulterates our water supply.
 	- Synonyms
 		- defile, taint, debase
+<!--SR:!2025-10-26,4,270-->
 
 advocate
 ?
@@ -21,6 +22,7 @@ advocate
 	- **Ex.** John is an advocate for many progressive causes.
 	- Synonyms
 		- proponent, champion, crusader
+<!--SR:!2025-10-26,4,270-->
 
 aggrandize
 ?
@@ -29,6 +31,7 @@ aggrandize
 	- **Ex.** Roman leading men never passed on an opportunity to aggrandize themselves.
 	- Synonyms
 		- embellish, augment, magnify
+<!--SR:!2025-10-26,4,270-->
 
 alacrity
 ?
@@ -37,6 +40,7 @@ alacrity
 	- **Ex.** The children completed their chores with surprising alacrity.
 	- Synonyms
 		- zeal, haste, ardor
+<!--SR:!2025-10-26,4,270-->
 
 ambivalent
 ?
@@ -45,6 +49,7 @@ ambivalent
 	- **Ex.** It's normal to feel ambivalent when moving to a new place.
 	- Synonyms
 		- equivocal, irresolute, vacillating
+<!--SR:!2025-10-26,4,270-->
 
 ameliorate
 ?
@@ -53,6 +58,7 @@ ameliorate
 	- **Ex.** Strong service and timely support can ameliorate customer anger.
 	- Synonyms
 		- ease, mitigate, relieve
+<!--SR:!2025-10-26,4,270-->
 
 amenable
 ?
@@ -66,6 +72,7 @@ amenable
 	- **Ex.** The software is amenable to customization, and we can tailor it to our needs.
 	- Synonyms
 		- susceptible, receptive, reactive
+<!--SR:!2025-10-26,4,270-->
 
 anachronistic
 ?
@@ -74,6 +81,7 @@ anachronistic
 	- **Ex.** Dreams of colonial conquest are anachronistic in today's modern world.
 	- Synonyms
 		- archaic, outmoded, antiquated
+<!--SR:!2025-10-26,4,270-->
 
 audacious
 ?
@@ -87,6 +95,7 @@ audacious
 	- **Ex.** His audacious remark during the meeting caught everyone off guard and was seen by many as downright disrespectful.
 	- Synonyms
 		- impudent, presumptuous, impertinent
+<!--SR:!2025-10-26,4,270-->
 
 avaricious
 ?
@@ -95,6 +104,7 @@ avaricious
 	- **Ex.** Free market economies not only tolerate but reward avaricious behavior.
 	- Synonyms
 		- acquisitive, rapacious, grasping
+<!--SR:!2025-10-26,4,270-->
 
 banal
 ?
@@ -103,6 +113,7 @@ banal
 	- **Ex.** The reviewer grew weary of banal, by-the-book action movies.
 	- Synonyms
 		- trite, platitudinous, vapid
+<!--SR:!2025-10-26,4,270-->
 
 benign
 ?
@@ -116,6 +127,7 @@ benign
 	- **Ex.** Despite his imposing stature, he had a benign smile.
 	- Synonyms
 		- amiable, congenial, cordial
+<!--SR:!2025-10-26,4,270-->
 
 brazen
 ?
@@ -124,6 +136,7 @@ brazen
 	- **Ex.** John's brazen interruptions of his boss' speech were not received well.
 	- Synonyms
 		- presumptuous, brash, unabashed
+<!--SR:!2025-10-26,4,270-->
 
 calumny
 ?
@@ -132,6 +145,7 @@ calumny
 	- **Ex.** The tabloid had an axe to grind and thus spread calumny daily.
 	- Synonyms
 		- libel, obloquy, denigration
+<!--SR:!2025-10-26,4,270-->
 
 candid
 ?
@@ -140,6 +154,7 @@ candid
 	- **Ex.** Honesty is important, but don't be too candid in job interviews.
 	- Synonyms
 		- blunt, forthright, frank
+<!--SR:!2025-10-26,4,270-->
 
 castigate
 ?
@@ -148,6 +163,7 @@ castigate
 	- **Ex.** The entire country castigated the governor for his ill-timed statement.
 	- Synonyms
 		- rebuke, lambast, berate
+<!--SR:!2025-10-26,4,270-->
 
 caustic
 ?
@@ -161,6 +177,7 @@ caustic
 	- **Ex.** Care should be taken when handling the caustic substance.
 	- Synonyms
 		- stinging, mordant, acrid
+<!--SR:!2025-10-26,4,270-->
 
 construe
 ?
@@ -169,6 +186,7 @@ construe
 	- **Ex.** It was difficult to construe the retreat as anything but a massive defeat.
 	- Synonyms
 		- read, parse, decode
+<!--SR:!2025-10-26,4,270-->
 
 contrite
 ?
@@ -177,6 +195,7 @@ contrite
 	- **Ex.** Genuinely contrite, the man accepted his sentence without protest.
 	- Synonyms
 		- repentant, rueful, chastened
+<!--SR:!2025-10-26,4,270-->
 
 convoluted
 ?
@@ -185,6 +204,7 @@ convoluted
 	- **Ex.** Rome's roads are a convoluted mess.
 	- Synonyms
 		- serpentine, tortuous, Byzantine
+<!--SR:!2025-10-26,4,270-->
 
 covet
 ?
@@ -193,6 +213,7 @@ covet
 	- **Ex.** To improve our mental health, let's try to not covet the possessions of others.
 	- Synonyms
 		- long for, hanker for, ache for
+<!--SR:!2025-10-26,4,270-->
 
 craven
 ?
@@ -201,6 +222,7 @@ craven
 	- **Ex.** The army surrendered but not because the soldiers were craven.
 	- Synonyms
 		- quaking, timid, lily-livered
+<!--SR:!2025-10-26,4,270-->
 
 decorum
 ?
@@ -209,6 +231,7 @@ decorum
 	- **Ex.** The mother encouraged her son to have decorum.
 	- Synonyms
 		- propriety, decency, deportment
+<!--SR:!2025-10-26,4,270-->
 
 deft
 ?
@@ -217,6 +240,7 @@ deft
 	- **Ex.** Jane's deft fingers navigate the 88 piano keys effortlessly.
 	- Synonyms
 		- adroit, artful, dexterous
+<!--SR:!2025-10-26,4,270-->
 
 demur
 ?
@@ -230,6 +254,7 @@ demur
 	- **Ex.** The judge asked if there were any objections, and there was a brief demur from the defense attorney before proceeding.
 	- Synonyms
 		- protestation, dispute, disinclination
+<!--SR:!2025-10-26,4,270-->
 
 derivative
 ?
@@ -238,6 +263,7 @@ derivative
 	- **Ex.** The film is derivative, but proudly so.
 	- Synonyms
 		- trite, imitative, hackneyed
+<!--SR:!2025-10-26,4,270-->
 
 desiccate
 ?
@@ -246,6 +272,7 @@ desiccate
 	- **Ex.** The land was thoroughly desiccated.
 	- Synonyms
 		- dehydrate, drain, parch
+<!--SR:!2025-10-26,4,270-->
 
 diatribe
 ?
@@ -254,6 +281,7 @@ diatribe
 	- **Ex.** Her diatribe on the ills of society was too hostile to persuade anyone.
 	- Synonyms
 		- tirade, harangue, denunciation
+<!--SR:!2025-10-26,4,270-->
 
 incredulous
 ?
@@ -262,6 +290,7 @@ incredulous
 	- **Ex.** People are understandably incredulous at the prospect of intergalactic travel.
 	- Synonyms
 		- dubious, unconvinced, suspicious
+<!--SR:!2025-10-26,4,270-->
 
 ingenuous
 ?
@@ -270,3 +299,4 @@ ingenuous
 	- **Ex.** We long for the ingenuous days of our youth.
 	- Synonyms
 		- unguarded, green, unworldly
+<!--SR:!2025-10-26,4,270-->
