@@ -8,6 +8,7 @@ abet
 	- **Ex.** He was not directly involved, but he did abet the thief in escaping.
 	- Synonyms
 		- back, collude with, connive with
+<!--SR:!2025-10-23,1,230-->
 
 accessible
 ?
@@ -16,6 +17,7 @@ accessible
 	- **Ex.** The author's writing style is accessible to many readers.
 	- Synonyms
 		- comprehensible, penetrable, fathomable
+<!--SR:!2025-10-25,3,250-->
 
 acquisitive
 ?
@@ -24,6 +26,7 @@ acquisitive
 	- **Ex.** The company has an acquisitive nature, always looking to buy out smaller businesses.
 	- Synonyms
 		- greed, covetous, avaricious
+<!--SR:!2025-10-25,3,250-->
 
 amalgamate
 ?
@@ -32,6 +35,7 @@ amalgamate
 	- **Ex.** Several companies amalgamated to form a corporate giant.
 	- Synonyms
 		- fuse, coalesce, meld
+<!--SR:!2025-10-25,3,250-->
 
 attenuate
 ?
@@ -40,6 +44,7 @@ attenuate
 	- **Ex.** The drug helps to attenuate the symptoms of the illness.
 	- Synonyms
 		- diminish, dampen, erode
+<!--SR:!2025-10-23,1,230-->
 
 augment
 ?
@@ -48,6 +53,7 @@ augment
 	- **Ex.** He augmented his income by freelancing on the side.
 	- Synonyms
 		- supplement, swell, amplify
+<!--SR:!2025-10-26,4,270-->
 
 aversion
 ?
@@ -56,6 +62,7 @@ aversion
 	- **Ex.** She has an aversion to loud noises.
 	- Synonyms
 		- abhorrence, loathing, antipathy
+<!--SR:!2025-10-25,3,250-->
 
 blithe
 ?
@@ -64,6 +71,7 @@ blithe
 	- **Ex.** His blithe attitude towards missing deadlines was infuriating.
 	- Synonyms
 		- heedless, nonchalant, blasé
+<!--SR:!2025-10-23,1,230-->
 
 contempt
 ?
@@ -72,6 +80,7 @@ contempt
 	- **Ex.** The judge viewed the defendant's lies with contempt.
 	- Synonyms
 		- scorn, denigration, opprobrium
+<!--SR:!2025-10-23,1,230-->
 
 dawdle
 ?
@@ -80,6 +89,7 @@ dawdle
 	- **Ex.** If we dawdle, we'll miss the beginning of the movie.
 	- Synonyms
 		- linger, amble, dally
+<!--SR:!2025-10-26,4,270-->
 
 deflect
 ?
@@ -88,6 +98,7 @@ deflect
 	- **Ex.** His compliment was an attempt to deflect her from asking more questions.
 	- Synonyms
 		- sidetrack, divert, swerve
+<!--SR:!2025-10-26,4,270-->
 
 discount
 ?
@@ -104,6 +115,7 @@ dissident
 	- **Ex.** The dissident was arrested for speaking out against the government.
 	- Synonyms
 		- nonconformist, renegade, subversive
+<!--SR:!2025-10-25,3,250-->
 
 efficacious
 ?
@@ -112,6 +124,7 @@ efficacious
 	- **Ex.** The new software proved to be efficacious in managing our financial records.
 	- Synonyms
 		- effectual, fruitful, constructive
+<!--SR:!2025-10-25,3,250-->
 
 equitable
 ?
@@ -120,6 +133,7 @@ equitable
 	- **Ex.** The new policies aimed for a more equitable distribution of resources.
 	- Synonyms
 		- just, impartial, egalitarian
+<!--SR:!2025-10-26,4,270-->
 
 erratic
 ?
@@ -128,6 +142,7 @@ erratic
 	- **Ex.** His erratic behavior made it hard to understand his intentions.
 	- Synonyms
 		- turbulent, volatile, wayward
+<!--SR:!2025-10-25,3,250-->
 
 industrious
 ?
@@ -136,6 +151,7 @@ industrious
 	- **Ex.** Sarah was the most industrious member of the team, often staying late to finish tasks.
 	- Synonyms
 		- diligent, sedulous, assiduous
+<!--SR:!2025-10-23,1,230-->
 
 inform
 ?
@@ -144,6 +160,7 @@ inform
 	- **Ex.** Her upbringing in a musical family informs her unique approach to composing songs.
 	- Synonyms
 		- characterize, imbue, infuse
+<!--SR:!2025-10-25,3,250-->
 
 irksome
 ?
@@ -152,6 +169,7 @@ irksome
 	- **Ex.** The constant noise from the construction site was irksome to the residents.
 	- Synonyms
 		- vexing, exasperating, grating
+<!--SR:!2025-10-25,3,250-->
 
 manacle
 ?
@@ -160,6 +178,7 @@ manacle
 	- **Ex.** Fear of failure can manacle your creativity.
 	- Synonyms
 		- stifle, impede, hamper
+<!--SR:!2025-10-25,3,250-->
 
 modest
 ?
@@ -168,6 +187,7 @@ modest
 	- **Ex.** John was able to live on a modest income because of his inexpensive habits.
 	- Synonyms
 		- tolerable, unexceptional, scanty
+<!--SR:!2025-10-25,3,250-->
 
 noxious
 ?
@@ -176,6 +196,7 @@ noxious
 	- **Ex.** They were advised to stay indoors due to the noxious fumes.
 	- Synonyms
 		- virulent, pernicious, vile
+<!--SR:!2025-10-25,3,250-->
 
 pernicious
 ?
@@ -184,6 +205,7 @@ pernicious
 	- **Ex.** The spread of misinformation has a pernicious effect on society.
 	- Synonyms
 		- injurious, detrimental, deleterious
+<!--SR:!2025-10-23,1,230-->
 
 predicament
 ?
@@ -192,6 +214,7 @@ predicament
 	- **Ex.** The sudden rainstorm left us in a predicament, as we had no umbrella.
 	- Synonyms
 		- plight, quandary, pickle
+<!--SR:!2025-10-26,4,270-->
 
 proficient
 ?
@@ -200,6 +223,7 @@ proficient
 	- **Ex.** With years of practice, she became proficient in the violin.
 	- Synonyms
 		- seasoned, adroit, dexterous
+<!--SR:!2025-10-26,4,270-->
 
 prolix
 ?
@@ -208,6 +232,7 @@ prolix
 	- **Ex.** The speaker's prolix explanation was tiresome for the audience.
 	- Synonyms
 		- protracted, verbose, ponderous
+<!--SR:!2025-10-23,1,230-->
 
 scorn
 ?
@@ -221,6 +246,7 @@ scorn
 	- **Ex.** He looked at the broken toy with scorn, disappointed in its quality.
 	- Synonyms
 		- derision, mockery, scoffing
+<!--SR:!2025-10-25,3,250-->
 
 subordinate
 ?
@@ -239,6 +265,7 @@ subordinate
 	- **Ex.** The manager gave instructions to her subordinates.
 	- Synonyms
 		- deputy, adjutant, underling
+<!--SR:!2025-10-25,3,250-->
 
 unseemly
 ?
@@ -247,6 +274,7 @@ unseemly
 	- **Ex.** He made an unseemly joke during the formal event.
 	- Synonyms
 		- indecorous, unbecoming, coarse
+<!--SR:!2025-10-25,3,250-->
 
 veritable
 ?
@@ -255,3 +283,4 @@ veritable
 	- **Ex.** The forest was a veritable paradise for nature lovers.
 	- Synonyms
 		- legitimate, undeniable, indisputable
+<!--SR:!2025-10-23,1,230-->

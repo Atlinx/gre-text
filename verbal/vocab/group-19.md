@@ -8,6 +8,7 @@ acolyte
 	- **Ex.** James maintained power in the organization through his acolytes.
 	- Synonyms
 		- lackey, disciple, minion
+<!--SR:!2025-10-26,4,270-->
 
 anoint
 ?
@@ -16,6 +17,7 @@ anoint
 	- **Ex.** He was anointed as the next CEO of the company.
 	- Synonyms
 		- ordain, install, crown
+<!--SR:!2025-10-26,4,270-->
 
 base
 ?
@@ -24,6 +26,7 @@ base
 	- **Ex.** Using someone's vulnerability for personal gain is a base act.
 	- Synonyms
 		- sordid, wicked, iniquitous
+<!--SR:!2025-10-25,3,250-->
 
 coercion
 ?
@@ -32,6 +35,7 @@ coercion
 	- **Ex.** The confession was extracted through coercion and is not valid.
 	- Synonyms
 		- oppression, duress, compulsion
+<!--SR:!2025-10-26,4,270-->
 
 coin
 ?
@@ -40,6 +44,7 @@ coin
 	- **Ex.** She coined the term "webinar" for online seminars.
 	- Synonyms
 		- conceive of, originate, formulate
+<!--SR:!2025-10-26,4,270-->
 
 cunning
 ?
@@ -48,6 +53,7 @@ cunning
 	- **Ex.** The fox is often portrayed as a cunning animal in fables.
 	- Synonyms
 		- devious, guileful, crafty
+<!--SR:!2025-10-26,4,270-->
 
 discomfit
 ?
@@ -56,6 +62,7 @@ discomfit
 	- **Ex.** The unexpected question seemed to discomfit the speaker.
 	- Synonyms
 		- discompose, fluster, agitate
+<!--SR:!2025-10-26,4,270-->
 
 dissent
 ?
@@ -69,6 +76,7 @@ dissent
 	- **Ex.** There was a lot of dissent about the new policy among employees.
 	- Synonyms
 		- dispute, defiance, friction
+<!--SR:!2025-10-25,3,250-->
 
 distill
 ?
@@ -77,6 +85,7 @@ distill
 	- **Ex.** The notes were distilled from a much longer report.
 	- Synonyms
 		- glean, consolidate, synthesize
+<!--SR:!2025-10-26,4,270-->
 
 dubious
 ?
@@ -90,6 +99,7 @@ dubious
 	- **Ex.** The origins of the artifact remain dubious.
 	- Synonyms
 		- suspect, unreliable, indeterminate
+<!--SR:!2025-10-25,3,250-->
 
 ebullient
 ?
@@ -98,6 +108,7 @@ ebullient
 	- **Ex.** The ebullient child was always ready to play.
 	- Synonyms
 		- buoyant, exuberant, jaunty
+<!--SR:!2025-10-23,1,230-->
 
 facetious
 ?
@@ -106,6 +117,7 @@ facetious
 	- **Ex.** His facetious remarks were not well-received at the funeral.
 	- Synonyms
 		- flippant, glib, waggish
+<!--SR:!2025-10-23,1,230-->
 
 fallible
 ?
@@ -114,6 +126,7 @@ fallible
 	- **Ex.** As humans, we are all fallible and make mistakes.
 	- Synonyms
 		- errant, flawed, error-prone
+<!--SR:!2025-10-25,3,250-->
 
 florid
 ?
@@ -122,6 +135,7 @@ florid
 	- **Ex.** The author's florid prose did not appeal to minimalist readers.
 	- Synonyms
 		- ornate, embellished, flamboyant
+<!--SR:!2025-10-26,4,270-->
 
 gawky
 ?
@@ -130,6 +144,7 @@ gawky
 	- **Ex.** The gawky teenager eventually grew into a graceful adult.
 	- Synonyms
 		- ungainly, bumbling, graceless
+<!--SR:!2025-10-26,4,270-->
 
 inveigle
 ?
@@ -138,6 +153,7 @@ inveigle
 	- **Ex.** She managed to inveigle him into doing her work for her.
 	- Synonyms
 		- coax, wheedle, cajole
+<!--SR:!2025-10-23,1,230-->
 
 jettison
 ?
@@ -146,6 +162,7 @@ jettison
 	- **Ex.** The crew jettisoned excess cargo to lighten the aircraft.
 	- Synonyms
 		- cast aside, dispose of, relinquish
+<!--SR:!2025-10-25,3,250-->
 
 mendacity
 ?
@@ -162,6 +179,7 @@ munificent
 	- **Ex.** The munificent donation allowed the hospital to build a new wing.
 	- Synonyms
 		- beneficent, philanthropic, bountiful
+<!--SR:!2025-10-23,1,230-->
 
 naive
 ?
@@ -170,6 +188,7 @@ naive
 	- **Ex.** Her naive assumption was that everyone would play fair.
 	- Synonyms
 		- callow, gullible, ingenuous
+<!--SR:!2025-10-25,3,250-->
 
 noble
 ?
@@ -178,6 +197,7 @@ noble
 	- **Ex.** He made the noble decision to donate all his winnings to charity.
 	- Synonyms
 		- virtuous, upright, righteous
+<!--SR:!2025-10-25,3,250-->
 
 parochial
 ?
@@ -186,6 +206,7 @@ parochial
 	- **Ex.** The curriculum was criticized for its parochial viewpoint.
 	- Synonyms
 		- myopic, insular, provincial
+<!--SR:!2025-10-23,1,230-->
 
 pedestrian
 ?
@@ -194,6 +215,7 @@ pedestrian
 	- **Ex.** Critics described the play as pedestrian and uninspiring.
 	- Synonyms
 		- dull, plodding, tedious
+<!--SR:!2025-10-25,3,250-->
 
 prevaricate
 ?
@@ -202,6 +224,7 @@ prevaricate
 	- **Ex.** He would always prevaricate when asked about his past.
 	- Synonyms
 		- equivocate, waver, fence
+<!--SR:!2025-10-25,3,250-->
 
 prime
 ?
@@ -215,6 +238,7 @@ prime
 	- **Ex.** Her prime worry is that we're overbudget.
 	- Synonyms
 		- chief, key, principal
+<!--SR:!2025-10-26,4,270-->
 
 radical
 ?
@@ -228,6 +252,7 @@ radical
 	- **Ex.** The radicals were demanding a complete overhaul of the system.
 	- Synonyms
 		- revolutionary, leftist, progressive
+<!--SR:!2025-10-26,4,270-->
 
 recrudescent
 ?
@@ -236,6 +261,7 @@ recrudescent
 	- **Ex.** There are fears of a recrudescent epidemic.
 	- Synonyms
 		- resurgent, renewed, rekindled
+<!--SR:!2025-10-23,1,230-->
 
 temporal
 ?
@@ -249,6 +275,7 @@ temporal
 	- **Ex.** While the church's influence was strong in many aspects of society, it had no power in the temporal affairs of the local government.
 	- Synonyms
 		- secular, profane, corporeal
+<!--SR:!2025-10-26,4,270-->
 
 transitory
 ?
@@ -257,6 +284,7 @@ transitory
 	- **Ex.** Fame is often a transitory experience.
 	- Synonyms
 		- ephemeral, evanescent, fleeting
+<!--SR:!2025-10-26,4,270-->
 
 viable
 ?
@@ -265,3 +293,4 @@ viable
 	- **Ex.** With limited funds, only a few options are viable.
 	- Synonyms
 		- attainable, realizable, practical
+<!--SR:!2025-10-25,3,250-->

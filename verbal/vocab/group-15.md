@@ -26,6 +26,7 @@ apropos
 	- **Ex.** The quote she used in her speech was apropos for the current events.
 	- Synonyms
 		- pertinent, apt, apposite
+<!--SR:!2025-10-26,4,270-->
 
 apt
 ?
@@ -44,6 +45,7 @@ apt
 	- **Ex.** The apt student solved the complex equation in mere seconds.
 	- Synonyms
 		- clever, adept, astute
+<!--SR:!2025-10-26,4,270-->
 
 cloak
 ?
@@ -52,6 +54,7 @@ cloak
 	- **Ex.** The spy used a fake identity to cloak his true intentions.
 	- Synonyms
 		- veil, shroud, mask
+<!--SR:!2025-10-26,4,270-->
 
 consensus
 ?
@@ -60,6 +63,7 @@ consensus
 	- **Ex.** The group reached a consensus after much debate.
 	- Synonyms
 		- concord, accord, harmony
+<!--SR:!2025-10-26,4,270-->
 
 distort
 ?
@@ -68,6 +72,7 @@ distort
 	- **Ex.** The article distorts the truth to push an agenda.
 	- Synonyms
 		- manipulate, skew, warp
+<!--SR:!2025-10-25,3,250-->
 
 divergent
 ?
@@ -76,6 +81,7 @@ divergent
 	- **Ex.** They held divergent opinions on the issue.
 	- Synonyms
 		- disparate, antithetical, clashing
+<!--SR:!2025-10-26,4,270-->
 
 elated
 ?
@@ -84,6 +90,7 @@ elated
 	- **Ex.** She was elated after getting the promotion.
 	- Synonyms
 		- ecstatic, jubilant, euphoric
+<!--SR:!2025-10-25,3,250-->
 
 enchant
 ?
@@ -92,6 +99,7 @@ enchant
 	- **Ex.** The music seemed to enchant her, as she lost herself in its melody.
 	- Synonyms
 		- captivate, dazzle, beguile
+<!--SR:!2025-10-26,4,270-->
 
 entrenched
 ?
@@ -100,6 +108,7 @@ entrenched
 	- **Ex.** His opinions were so entrenched that no one could change his mind.
 	- Synonyms
 		- rooted, indelible, immutable
+<!--SR:!2025-10-26,4,270-->
 
 exotic
 ?
@@ -108,6 +117,7 @@ exotic
 	- **Ex.** The garden was filled with exotic flowers.
 	- Synonyms
 		- striking, unconventional, peculiar
+<!--SR:!2025-10-26,4,270-->
 
 exploitative
 ?
@@ -116,7 +126,7 @@ exploitative
 	- **Ex.** The company was criticized for its exploitative practices.
 	- Synonyms
 		- predatory, opportunistic, extortionate
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 foreseeable
 ?
@@ -125,6 +135,7 @@ foreseeable
 	- **Ex.** No solution was in the foreseeable future, so they decided to pause and reconsider.
 	- Synonyms
 		- anticipated, projected, presumable
+<!--SR:!2025-10-26,4,270-->
 
 forsake
 ?
@@ -133,6 +144,7 @@ forsake
 	- **Ex.** He decided to forsake his old habits.
 	- Synonyms
 		- shun, renounce, forgo
+<!--SR:!2025-10-26,4,270-->
 
 gratify
 ?
@@ -141,6 +153,7 @@ gratify
 	- **Ex.** Seeing his students succeed was enough to gratify the old teacher.
 	- Synonyms
 		- gladden, indulge, quench
+<!--SR:!2025-10-26,4,270-->
 
 heed
 ?
@@ -149,6 +162,7 @@ heed
 	- **Ex.** The hiker failed to heed warnings about the dangerous trail.
 	- Synonyms
 		- mind, follow, consider
+<!--SR:!2025-10-26,4,270-->
 
 judicious
 ?
@@ -157,6 +171,7 @@ judicious
 	- **Ex.** In handling the dispute, her judicious approach was appreciated by all parties involved.
 	- Synonyms
 		- prudent, shrewd, canny
+<!--SR:!2025-10-26,4,270-->
 
 lucid
 ?
@@ -165,6 +180,7 @@ lucid
 	- **Ex.** The explanation was lucid and concise.
 	- Synonyms
 		- intelligible, cogent, articulate
+<!--SR:!2025-10-26,4,270-->
 
 pertinent
 ?
@@ -173,6 +189,7 @@ pertinent
 	- **Ex.** She provided data pertinent to the case, shedding light on the mystery.
 	- Synonyms
 		- material, apt, germane
+<!--SR:!2025-10-26,4,270-->
 
 propriety
 ?
@@ -181,6 +198,7 @@ propriety
 	- **Ex.** In the royal court, one had to act with the utmost propriety.
 	- Synonyms
 		- decorum, etiquette, discretion
+<!--SR:!2025-10-23,1,230-->
 
 scintillating
 ?
@@ -189,6 +207,7 @@ scintillating
 	- **Ex.** She gave a scintillating performance on stage.
 	- Synonyms
 		- vivacious, dazzling, coruscating
+<!--SR:!2025-10-25,3,250-->
 
 sensational
 ?
@@ -197,7 +216,7 @@ sensational
 	- **Ex.** The magazine is known for its sensational headlines.
 	- Synonyms
 		- overdramatized, lurid, melodramatic
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 sophisticated
 ?
@@ -211,6 +230,7 @@ sophisticated
 	- **Ex.** The laboratory uses sophisticated equipment to analyze DNA samples.
 	- Synonyms
 		- revolutionary, elaborate, trailblazing
+<!--SR:!2025-10-25,3,250-->
 
 strife
 ?
@@ -228,6 +248,7 @@ understated
 	- **Ex.** His understated charm was often more appealing than overt gestures.
 	- Synonyms
 		- reserved, modest, discreet
+<!--SR:!2025-10-23,1,230-->
 
 unscrupulous
 ?
@@ -245,6 +266,7 @@ veracity
 	- **Ex.** The journalist questioned the veracity of the politician's claims.
 	- Synonyms
 		- exactness, authenticity, fidelity
+<!--SR:!2025-10-26,4,270-->
 
 virulent
 ?
@@ -253,6 +275,7 @@ virulent
 	- **Ex.** The article had a virulent tone, attacking everyone with a differing opinion.
 	- Synonyms
 		- vitriolic, malevolent, spiteful
+<!--SR:!2025-10-25,3,250-->
 
 volatile
 ?
@@ -261,3 +284,4 @@ volatile
 	- **Ex.** The situation at the border remained volatile, with tensions rising daily.
 	- Synonyms
 		- explosive, fraught, turbulent
+<!--SR:!2025-10-26,4,270-->

@@ -26,7 +26,7 @@ amend
 	- **Ex.** The company decided to amend its policies to be more environmentally friendly.
 	- Synonyms
 		- revise, alter, revamp
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 animus
 ?
@@ -35,7 +35,7 @@ animus
 	- **Ex.** There was clear animus between the two rival politicians.
 	- Synonyms
 		- animosity, malice, enmity
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 apologist
 ?
@@ -44,7 +44,7 @@ apologist
 	- **Ex.** As an apologist for the movement, he spent time explaining its principles.
 	- Synonyms
 		- advocate, proponent, apostle
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 astringent
 ?
@@ -53,7 +53,7 @@ astringent
 	- **Ex.** Her critique was astringent but fair.
 	- Synonyms
 		- trenchant, acerbic, caustic
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-23,1,230-->
 
 collaborate
 ?
@@ -67,7 +67,7 @@ collaborate
 	- **Ex.** In War for the Planet of the Apes, some of the gorillas collaborated with the humans.
 	- Synonyms
 		- fraternize, conspire, collude
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 competent
 ?
@@ -85,7 +85,7 @@ correlate
 	- **Ex.** The study aimed to correlate income levels with educational attainment.
 	- Synonyms
 		- correspond, harmonize, square
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-26,4,281-->
 
 deride
 ?
@@ -112,7 +112,7 @@ discreet
 	- **Ex.** He made a discreet inquiry about the job opening.
 	- Synonyms
 		- chary, circumspect, unobtrusive
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 divorced
 ?
@@ -135,7 +135,7 @@ elitist
 	- **Ex.** His elitist views were unpopular among the working class.
 	- Synonyms
 		- discriminatory, pretentious, haughty
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 exacting
 ?
@@ -144,7 +144,7 @@ exacting
 	- **Ex.** The exacting task required precision and patience.
 	- Synonyms
 		- stringent, demanding, onerous
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 flummoxed
 ?
@@ -212,7 +212,7 @@ subservient
 	- **Ex.** The marketing team was often viewed as subservient to the sales department.
 	- Synonyms
 		- secondary, incidental, ancillary
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,3,261-->
 
 surreptitious
 ?
@@ -221,7 +221,7 @@ surreptitious
 	- **Ex.** He took a surreptitious glance at his watch during the meeting.
 	- Synonyms
 		- clandestine, furtive, covert
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 tantalizing
 ?
@@ -230,7 +230,7 @@ tantalizing
 	- **Ex.** The smell of freshly baked cookies was tantalizing.
 	- Synonyms
 		- teasing, tormenting, enticing
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->
 
 tantamount
 ?
@@ -248,7 +248,7 @@ torpor
 	- **Ex.** The long, hot summer days led to a general torpor among the town's residents.
 	- Synonyms
 		- inertia, languor, idleness
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-23,1,230-->
 
 trenchant
 ?
@@ -266,7 +266,7 @@ umbrage
 	- **Ex.** She took umbrage at his rude comment.
 	- Synonyms
 		- indignation, vexation, chagrin
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-23,1,241-->
 
 versatile
 ?
@@ -284,4 +284,4 @@ wayward
 	- **Ex.** The wayward child often disobeyed and wandered off on his own.
 	- Synonyms
 		- bullheaded, capricious, recalcitrant
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,4,270-->

@@ -21,6 +21,7 @@ abstract
 	- **Ex.** She managed to abstract the main idea from the lengthy article.
 	- Synonyms
 		- extricate, disengage, segregate
+<!--SR:!2025-10-23,1,230-->
 
 affront
 ?
@@ -37,6 +38,7 @@ agitate
 	- **Ex.** The thought of speaking in public really agitates her.
 	- Synonyms
 		- ruffle, incite, faze
+<!--SR:!2025-10-25,3,250-->
 
 august
 ?
@@ -77,6 +79,7 @@ disdain
 	- **Ex.** He looked at the broken watch with disdain, wondering why anyone would keep it.
 	- Synonyms
 		- contempt, scorn, hauteur
+<!--SR:!2025-10-25,3,250-->
 
 disperse
 ?
@@ -157,6 +160,7 @@ quandary
 	- **Ex.** Choosing between the two job offers left her in a quandary.
 	- Synonyms
 		- plight, conundrum, predicament
+<!--SR:!2025-10-23,1,230-->
 
 quarantine
 ?
@@ -181,6 +185,7 @@ quibble
 	- **Ex.** Let's not quibble over such minor details.
 	- Synonyms
 		- nitpick, pettifog, cavil
+<!--SR:!2025-10-25,3,250-->
 
 ravage
 ?
@@ -221,6 +226,7 @@ shrill
 	- **Ex.** The shrill ring of the telephone startled him.
 	- Synonyms
 		- shrieking, strident, squawky
+<!--SR:!2025-10-26,4,270-->
 
 sophistry
 ?

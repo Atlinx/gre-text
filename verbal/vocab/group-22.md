@@ -8,6 +8,7 @@ arresting
 	- **Ex.** The painting had an arresting quality that captivated everyone in the room.
 	- Synonyms
 		- conspicuous, breathtaking, notable
+<!--SR:!2025-10-26,4,270-->
 
 chastise
 ?
@@ -16,6 +17,7 @@ chastise
 	- **Ex.** The teacher had to chastise the student for repeated disruptions.
 	- Synonyms
 		- scold, reprove, reprimand
+<!--SR:!2025-10-26,4,270-->
 
 economy
 ?
@@ -24,6 +26,7 @@ economy
 	- **Ex.** Her economy of words made the speech concise yet impactful.
 	- Synonyms
 		- thriftiness, prudence, conciseness
+<!--SR:!2025-10-26,4,270-->
 
 elementary
 ?
@@ -32,6 +35,7 @@ elementary
 	- **Ex.** The math problems were elementary and easy for the advanced students.
 	- Synonyms
 		- rudimentary, basal, uncomplicated
+<!--SR:!2025-10-26,4,270-->
 
 embellish
 ?
@@ -45,6 +49,7 @@ embellish
 	- **Ex.** John has a terrible habit of embellishing his stories with improbable details.
 	- Synonyms
 		- exaggerate, embroider, color
+<!--SR:!2025-10-26,4,270-->
 
 euphoric
 ?
@@ -53,6 +58,7 @@ euphoric
 	- **Ex.** The athlete felt euphoric after winning the gold medal.
 	- Synonyms
 		- elated, gleeful, jubilant
+<!--SR:!2025-10-26,4,270-->
 
 exonerate
 ?
@@ -61,6 +67,7 @@ exonerate
 	- **Ex.** The evidence served to exonerate the accused man.
 	- Synonyms
 		- absolve, vindicate, exculpate
+<!--SR:!2025-10-26,4,270-->
 
 extrapolate
 ?
@@ -69,6 +76,7 @@ extrapolate
 	- **Ex.** Based on current trends, we can extrapolate future sales.
 	- Synonyms
 		- project, deduce, generalize
+<!--SR:!2025-10-26,4,270-->
 
 falter
 ?
@@ -77,6 +85,7 @@ falter
 	- **Ex.** Her confidence began to falter when she missed the first question.
 	- Synonyms
 		- oscillate, stumble, flounder
+<!--SR:!2025-10-26,4,270-->
 
 fervent
 ?
@@ -85,6 +94,7 @@ fervent
 	- **Ex.** His fervent desire to succeed drove him to work hard every day.
 	- Synonyms
 		- impassioned, ardent, fervid
+<!--SR:!2025-10-26,4,270-->
 
 foment
 ?
@@ -93,6 +103,7 @@ foment
 	- **Ex.** The rebel leaders tried to foment a revolution.
 	- Synonyms
 		- instigate, agitate, prompt
+<!--SR:!2025-10-23,1,230-->
 
 gaffe
 ?
@@ -101,6 +112,7 @@ gaffe
 	- **Ex.** The actor's gaffe during the live performance became viral.
 	- Synonyms
 		- blunder, slip, faux pas
+<!--SR:!2025-10-23,1,230-->
 
 heterodox
 ?
@@ -109,6 +121,7 @@ heterodox
 	- **Ex.** His heterodox views on the subject raised a few eyebrows.
 	- Synonyms
 		- unorthodox, heretical, iconoclastic
+<!--SR:!2025-10-26,4,270-->
 
 histrionic
 ?
@@ -117,6 +130,7 @@ histrionic
 	- **Ex.** The child's histrionic response was amusing to the adults.
 	- Synonyms
 		- melodramatic, theatrical, exaggerated
+<!--SR:!2025-10-25,3,250-->
 
 implicit
 ?
@@ -125,6 +139,7 @@ implicit
 	- **Ex.** His trust was implicit, not requiring any proof.
 	- Synonyms
 		- implied, tacit, insinuated
+<!--SR:!2025-10-26,4,270-->
 
 inviolate
 ?
@@ -133,6 +148,7 @@ inviolate
 	- **Ex.** The ancient temple remained inviolate for centuries.
 	- Synonyms
 		- unmarred, pristine, undefiled
+<!--SR:!2025-10-25,3,250-->
 
 liability
 ?
@@ -141,6 +157,7 @@ liability
 	- **Ex.** Due to his unpredictable behavior, he's often seen as a team liability.
 	- Synonyms
 		- hindrance, burden, nuisance
+<!--SR:!2025-10-26,4,270-->
 
 obstinate
 ?
@@ -149,6 +166,7 @@ obstinate
 	- **Ex.** The obstinate child refused to wear his jacket.
 	- Synonyms
 		- headstrong, willful, intransigent
+<!--SR:!2025-10-26,4,270-->
 
 painstaking
 ?
@@ -157,6 +175,7 @@ painstaking
 	- **Ex.** The artist's painstaking attention to detail was evident in his work.
 	- Synonyms
 		- meticulous, assiduous, sedulous
+<!--SR:!2025-10-26,4,270-->
 
 phlegmatic
 ?
@@ -165,6 +184,7 @@ phlegmatic
 	- **Ex.** Her phlegmatic response was unexpected given the situation.
 	- Synonyms
 		- composed, self-possessed, stolid
+<!--SR:!2025-10-23,1,230-->
 
 prodigious
 ?
@@ -173,6 +193,7 @@ prodigious
 	- **Ex.** The author's prodigious output included over fifty novels.
 	- Synonyms
 		- enormous, mammoth, colossal
+<!--SR:!2025-10-23,1,230-->
 
 propensity
 ?
@@ -181,6 +202,7 @@ propensity
 	- **Ex.** He has a propensity for overeating when stressed.
 	- Synonyms
 		- proclivity, disposition, penchant
+<!--SR:!2025-10-26,4,270-->
 
 qualm
 ?
@@ -189,6 +211,7 @@ qualm
 	- **Ex.** She had no qualms about borrowing the dress without asking.
 	- Synonyms
 		- misgiving, reservation, hesitation
+<!--SR:!2025-10-26,4,270-->
 
 renege
 ?
@@ -197,6 +220,7 @@ renege
 	- **Ex.** He reneged on his promise to help her move.
 	- Synonyms
 		- go back on, retract, default on
+<!--SR:!2025-10-26,4,270-->
 
 stint
 ?
@@ -205,6 +229,7 @@ stint
 	- **Ex.** As the owner, he's notorious for stinting on the food and facilities.
 	- Synonyms
 		- skimp on, scrimp on, restrict
+<!--SR:!2025-10-23,1,230-->
 
 temper
 ?
@@ -213,6 +238,7 @@ temper
 	- **Ex.** You need to temper your expectations, and be more realistic.
 	- Synonyms
 		- mitigate, palliate, alleviate
+<!--SR:!2025-10-26,4,270-->
 
 tentative
 ?
@@ -221,6 +247,7 @@ tentative
 	- **Ex.** They made a tentative agreement to meet next week.
 	- Synonyms
 		- provisional, unsettled, preliminary
+<!--SR:!2025-10-26,4,270-->
 
 unprecedented
 ?
@@ -229,6 +256,7 @@ unprecedented
 	- **Ex.** The athlete's performance was unprecedented in Olympic history.
 	- Synonyms
 		- unparalleled, unrivaled, extraordinary
+<!--SR:!2025-10-26,4,270-->
 
 vivacious
 ?
@@ -237,3 +265,4 @@ vivacious
 	- **Ex.** Her vivacious personality lit up the room.
 	- Synonyms
 		- bubbly, ebullient, buoyant
+<!--SR:!2025-10-26,4,270-->

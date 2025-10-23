@@ -8,6 +8,7 @@ antedate
 	- **Ex.** His journal entry antedates the official records.
 	- Synonyms
 		- precede, predate, come before
+<!--SR:!2025-10-26,4,270-->
 
 banish
 ?
@@ -16,6 +17,7 @@ banish
 	- **Ex.** She worked hard to banish those negative thoughts from her mind.
 	- Synonyms
 		- extradite, exile, dispel
+<!--SR:!2025-10-26,4,270-->
 
 bridle
 ?
@@ -24,6 +26,7 @@ bridle
 	- **Ex.** She bridled her anger and responded calmly.
 	- Synonyms
 		- curb, check, stifle
+<!--SR:!2025-10-26,4,270-->
 
 comply
 ?
@@ -32,6 +35,7 @@ comply
 	- **Ex.** The toys do not comply with safety guidelines.
 	- Synonyms
 		- abide by, adhere to, consent to
+<!--SR:!2025-10-25,3,250-->
 
 crestfallen
 ?
@@ -40,6 +44,7 @@ crestfallen
 	- **Ex.** He looked crestfallen after hearing the results.
 	- Synonyms
 		- downhearted, dejected, glum
+<!--SR:!2025-10-26,4,270-->
 
 curtail
 ?
@@ -48,6 +53,7 @@ curtail
 	- **Ex.** She had to curtail her shopping habits due to financial constraints.
 	- Synonyms
 		- curb, rein in, truncate
+<!--SR:!2025-10-26,4,270-->
 
 elucidate
 ?
@@ -56,6 +62,7 @@ elucidate
 	- **Ex.** He provided examples to elucidate his point.
 	- Synonyms
 		- illuminate, explicate, unravel
+<!--SR:!2025-10-26,4,270-->
 
 evade
 ?
@@ -69,6 +76,7 @@ evade
 	- **Ex.** He was a master at evading uncomfortable questions.
 	- Synonyms
 		- hedge, be evasive about, be equivocal about
+<!--SR:!2025-10-25,3,250-->
 
 feckless
 ?
@@ -77,6 +85,7 @@ feckless
 	- **Ex.** Despite his talents, his feckless attitude led to missed opportunities.
 	- Synonyms
 		- hopeless, ineffectual, inept
+<!--SR:!2025-10-23,1,230-->
 
 fester
 ?
@@ -85,6 +94,7 @@ fester
 	- **Ex.** Old wounds can fester if not addressed.
 	- Synonyms
 		- rankle, chafe, smolder
+<!--SR:!2025-10-26,4,270-->
 
 iconoclastic
 ?
@@ -93,6 +103,7 @@ iconoclastic
 	- **Ex.** His iconoclastic views were both criticized and praised.
 	- Synonyms
 		- renegade, heretical, nonconformist
+<!--SR:!2025-10-26,4,270-->
 
 immure
 ?
@@ -101,6 +112,7 @@ immure
 	- **Ex.** The princess was immured in the castle.
 	- Synonyms
 		- confine, incarcerate, detain
+<!--SR:!2025-10-23,1,230-->
 
 improvise
 ?
@@ -109,6 +121,7 @@ improvise
 	- **Ex.** When the script was lost, the actor decided to improvise.
 	- Synonyms
 		- extemporize, ad lib, contrive
+<!--SR:!2025-10-26,4,270-->
 
 inhibit
 ?
@@ -117,6 +130,7 @@ inhibit
 	- **Ex.** Fear can inhibit one from taking risks.
 	- Synonyms
 		- impede, hamper, check
+<!--SR:!2025-10-26,4,270-->
 
 inscrutable
 ?
@@ -125,6 +139,7 @@ inscrutable
 	- **Ex.** His expressions were inscrutable, making it hard to predict his next move.
 	- Synonyms
 		- enigmatic, impenetrable, cryptic
+<!--SR:!2025-10-26,4,270-->
 
 lionize
 ?
@@ -133,6 +148,7 @@ lionize
 	- **Ex.** The artist was lionized after his groundbreaking exhibition.
 	- Synonyms
 		- fete, exalt, venerate
+<!--SR:!2025-10-26,4,270-->
 
 monotonous
 ?
@@ -141,6 +157,7 @@ monotonous
 	- **Ex.** His monotonous voice put everyone to sleep.
 	- Synonyms
 		- tedious, wearisome, humdrum
+<!--SR:!2025-10-26,4,270-->
 
 peculiar
 ?
@@ -149,6 +166,7 @@ peculiar
 	- **Ex.** There's a peculiar smell coming from the kitchen.
 	- Synonyms
 		- uncanny, anomalous, idiosyncratic
+<!--SR:!2025-10-26,4,270-->
 
 premeditate
 ?
@@ -157,6 +175,7 @@ premeditate
 	- **Ex.** The theft was clearly premeditated.
 	- Synonyms
 		- conspire, scheme, orchestrate
+<!--SR:!2025-10-26,4,270-->
 
 profligate
 ?
@@ -165,6 +184,7 @@ profligate
 	- **Ex.** His profligate spending on luxury cars and lavish vacations soon left him in financial ruin.
 	- Synonyms
 		- improvident, prodigal, thriftless
+<!--SR:!2025-10-23,1,230-->
 
 reconcile
 ?
@@ -173,6 +193,7 @@ reconcile
 	- **Ex.** She tried to reconcile her siblings after their disagreement.
 	- Synonyms
 		- harmonize, square, syncretize
+<!--SR:!2025-10-25,3,250-->
 
 refine
 ?
@@ -186,6 +207,7 @@ refine
 	- **Ex.** She refined her skills by practicing daily.
 	- Synonyms
 		- revise, fine-tune, hone
+<!--SR:!2025-10-25,3,250-->
 
 relinquish
 ?
@@ -194,6 +216,7 @@ relinquish
 	- **Ex.** He had to relinquish his control over the project.
 	- Synonyms
 		- renounce, cede, forsake
+<!--SR:!2025-10-26,4,270-->
 
 ruminate
 ?
@@ -202,6 +225,7 @@ ruminate
 	- **Ex.** She ruminated on the feedback she received.
 	- Synonyms
 		- contemplate, mull over, deliberate about
+<!--SR:!2025-10-26,4,270-->
 
 skittish
 ?
@@ -210,6 +234,7 @@ skittish
 	- **Ex.** The skittish kitten darted under the couch at the slightest sound.
 	- Synonyms
 		- restive, fidgety, anxious
+<!--SR:!2025-10-26,4,270-->
 
 superfluous
 ?
@@ -218,6 +243,7 @@ superfluous
 	- **Ex.** Cutting out superfluous information made the report more coherent.
 	- Synonyms
 		- redundant, expendable, surplus
+<!--SR:!2025-10-23,1,230-->
 
 synoptic
 ?
@@ -226,6 +252,7 @@ synoptic
 	- **Ex.** The synoptic report highlighted the main points of the project.
 	- Synonyms
 		- abridged, condensed, epitomized
+<!--SR:!2025-10-25,3,250-->
 
 thorough
 ?
@@ -234,6 +261,7 @@ thorough
 	- **Ex.** A thorough analysis of the data was conducted.
 	- Synonyms
 		- rigorous, exhaustive, scrupulous
+<!--SR:!2025-10-26,4,270-->
 
 visionary
 ?
@@ -242,6 +270,7 @@ visionary
 	- **Ex.** His visionary ideas often challenged the status quo.
 	- Synonyms
 		- inventive, utopian, quixotic
+<!--SR:!2025-10-26,4,270-->
 
 vociferous
 ?
@@ -250,3 +279,4 @@ vociferous
 	- **Ex.** The vociferous debate continued for hours.
 	- Synonyms
 		- vehement, uninhibited, outspoken
+<!--SR:!2025-10-26,4,270-->
