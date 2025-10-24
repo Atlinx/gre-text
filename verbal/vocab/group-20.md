@@ -98,7 +98,7 @@ largesse
 	- **Ex.** The university was built largely due to the largesse of its benefactors.
 	- Synonyms
 		- benevolence, munificence, magnanimity
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 libertine
 ?

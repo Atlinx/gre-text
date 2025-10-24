@@ -8,7 +8,7 @@ abet
 	- **Ex.** He was not directly involved, but he did abet the thief in escaping.
 	- Synonyms
 		- back, collude with, connive with
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 accessible
 ?
@@ -44,7 +44,7 @@ attenuate
 	- **Ex.** The drug helps to attenuate the symptoms of the illness.
 	- Synonyms
 		- diminish, dampen, erode
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 augment
 ?
@@ -71,7 +71,7 @@ blithe
 	- **Ex.** His blithe attitude towards missing deadlines was infuriating.
 	- Synonyms
 		- heedless, nonchalant, blasé
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,230-->
 
 contempt
 ?
@@ -80,7 +80,7 @@ contempt
 	- **Ex.** The judge viewed the defendant's lies with contempt.
 	- Synonyms
 		- scorn, denigration, opprobrium
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 dawdle
 ?
@@ -107,6 +107,7 @@ discount
 	- **Ex.** He discounted the rumors as mere gossip.
 	- Synonyms
 		- disregard, overlook, give no credence
+<!--SR:!2025-10-25,2,249-->
 
 dissident
 ?
@@ -151,7 +152,7 @@ industrious
 	- **Ex.** Sarah was the most industrious member of the team, often staying late to finish tasks.
 	- Synonyms
 		- diligent, sedulous, assiduous
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 inform
 ?
@@ -205,7 +206,7 @@ pernicious
 	- **Ex.** The spread of misinformation has a pernicious effect on society.
 	- Synonyms
 		- injurious, detrimental, deleterious
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,230-->
 
 predicament
 ?
@@ -232,7 +233,7 @@ prolix
 	- **Ex.** The speaker's prolix explanation was tiresome for the audience.
 	- Synonyms
 		- protracted, verbose, ponderous
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 scorn
 ?
@@ -283,4 +284,4 @@ veritable
 	- **Ex.** The forest was a veritable paradise for nature lovers.
 	- Synonyms
 		- legitimate, undeniable, indisputable
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->

@@ -53,7 +53,7 @@ astringent
 	- **Ex.** Her critique was astringent but fair.
 	- Synonyms
 		- trenchant, acerbic, caustic
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 collaborate
 ?
@@ -189,7 +189,7 @@ reticent
 	- **Ex.** Though an expert in his field, he was reticent about his own achievements.
 	- Synonyms
 		- inhibited, diffident, unassuming
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,250-->
 
 stringent
 ?
@@ -248,7 +248,7 @@ torpor
 	- **Ex.** The long, hot summer days led to a general torpor among the town's residents.
 	- Synonyms
 		- inertia, languor, idleness
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 trenchant
 ?
@@ -257,7 +257,7 @@ trenchant
 	- **Ex.** She was known for her trenchant wit and clever repartees.
 	- Synonyms
 		- cutting, penetrating, mordant
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,210-->
 
 umbrage
 ?
@@ -266,7 +266,7 @@ umbrage
 	- **Ex.** She took umbrage at his rude comment.
 	- Synonyms
 		- indignation, vexation, chagrin
-<!--SR:!2025-10-23,1,241-->
+<!--SR:!2025-10-24,1,221-->
 
 versatile
 ?

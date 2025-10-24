@@ -18,7 +18,7 @@ affinity
 altruistic
 ?
 - adjective
-	- showing generosity and concern for the welfare of others
+	- showing generosity and concern for the zwelfare of others
 	- **Ex.** The altruistic volunteer spent weekends helping at the homeless shelter.
 	- Synonyms
 		- compassionate, benevolent, magnanimous
@@ -72,7 +72,7 @@ countenance
 	- **Ex.** Her countenance fell when she heard the bad news.
 	- Synonyms
 		- No great synonyms really.
-<!--SR:!2025-10-23,1,232-->
+<!--SR:!2025-10-24,1,212-->
 
 covert
 ?
@@ -181,7 +181,7 @@ invidious
 	- **Ex.** The invidious policy discriminated against certain groups, causing widespread resentment.
 	- Synonyms
 		- unjust, discriminatory, iniquitous
-<!--SR:!2025-10-23,1,232-->
+<!--SR:!2025-10-24,1,230-->
 
 lethargic
 ?
@@ -217,7 +217,7 @@ numinous
 	- **Ex.** The church had a numinous aura that calmed the visitors.
 	- Synonyms
 		- sacred, otherworldly, transcendent
-<!--SR:!2025-10-23,1,232-->
+<!--SR:!2025-10-25,2,232-->
 
 obscure
 ?

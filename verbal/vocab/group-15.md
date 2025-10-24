@@ -198,7 +198,7 @@ propriety
 	- **Ex.** In the royal court, one had to act with the utmost propriety.
 	- Synonyms
 		- decorum, etiquette, discretion
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,210-->
 
 scintillating
 ?
@@ -248,7 +248,7 @@ understated
 	- **Ex.** His understated charm was often more appealing than overt gestures.
 	- Synonyms
 		- reserved, modest, discreet
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 unscrupulous
 ?

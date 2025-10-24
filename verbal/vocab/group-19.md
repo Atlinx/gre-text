@@ -108,7 +108,7 @@ ebullient
 	- **Ex.** The ebullient child was always ready to play.
 	- Synonyms
 		- buoyant, exuberant, jaunty
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 facetious
 ?
@@ -117,7 +117,7 @@ facetious
 	- **Ex.** His facetious remarks were not well-received at the funeral.
 	- Synonyms
 		- flippant, glib, waggish
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,250-->
 
 fallible
 ?
@@ -153,7 +153,7 @@ inveigle
 	- **Ex.** She managed to inveigle him into doing her work for her.
 	- Synonyms
 		- coax, wheedle, cajole
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 jettison
 ?
@@ -179,7 +179,7 @@ munificent
 	- **Ex.** The munificent donation allowed the hospital to build a new wing.
 	- Synonyms
 		- beneficent, philanthropic, bountiful
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 naive
 ?
@@ -206,7 +206,7 @@ parochial
 	- **Ex.** The curriculum was criticized for its parochial viewpoint.
 	- Synonyms
 		- myopic, insular, provincial
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 pedestrian
 ?
@@ -261,7 +261,7 @@ recrudescent
 	- **Ex.** There are fears of a recrudescent epidemic.
 	- Synonyms
 		- resurgent, renewed, rekindled
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 temporal
 ?

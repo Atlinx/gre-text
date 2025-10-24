@@ -85,7 +85,7 @@ feckless
 	- **Ex.** Despite his talents, his feckless attitude led to missed opportunities.
 	- Synonyms
 		- hopeless, ineffectual, inept
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,250-->
 
 fester
 ?
@@ -112,7 +112,7 @@ immure
 	- **Ex.** The princess was immured in the castle.
 	- Synonyms
 		- confine, incarcerate, detain
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 improvise
 ?
@@ -184,7 +184,7 @@ profligate
 	- **Ex.** His profligate spending on luxury cars and lavish vacations soon left him in financial ruin.
 	- Synonyms
 		- improvident, prodigal, thriftless
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-24,1,210-->
 
 reconcile
 ?
@@ -243,7 +243,7 @@ superfluous
 	- **Ex.** Cutting out superfluous information made the report more coherent.
 	- Synonyms
 		- redundant, expendable, surplus
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,2,230-->
 
 synoptic
 ?
