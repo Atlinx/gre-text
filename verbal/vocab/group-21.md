@@ -139,7 +139,7 @@ fortuitous
 	- **Ex.** The discovery of the manuscript was a fortuitous event.
 	- Synonyms
 		- providential, timely, serendipitous
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 goad
 ?
@@ -193,7 +193,7 @@ meritorious
 	- **Ex.** Her actions were deemed meritorious by the entire community.
 	- Synonyms
 		- laudable, estimable, exemplary
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 mutiny
 ?

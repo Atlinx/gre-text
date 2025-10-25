@@ -97,7 +97,7 @@ disinterested
 	- **Ex.** The judge remained disinterested and fair throughout the trial.
 	- Synonyms
 		- impartial, objective, just
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 escalate
 ?
@@ -205,7 +205,7 @@ plaintive
 	- **Ex.** The song had a plaintive melody that touched everyone's hearts.
 	- Synonyms
 		- mournful, doleful, woeful
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 poignant
 ?
@@ -223,7 +223,7 @@ quiescent
 	- **Ex.** The volcano remains quiescent for now.
 	- Synonyms
 		- latent, inert, in abeyance
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 reiterate
 ?
@@ -250,7 +250,7 @@ subsume
 	- **Ex.** Most of these phenomena can be subsumed under two broad categories.
 	- Synonyms
 		- incorporate, encompass, consolidate
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 surmount
 ?

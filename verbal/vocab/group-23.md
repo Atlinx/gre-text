@@ -35,7 +35,7 @@ convalescent
 	- **Ex.** After the surgery, she spent two weeks in a convalescent state.
 	- Synonyms
 		- recuperating, improving, on the mend
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 curb
 ?
@@ -62,7 +62,7 @@ duress
 	- **Ex.** He signed the document under duress.
 	- Synonyms
 		- coercion, intimidation, threats
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 evoke
 ?
@@ -98,7 +98,7 @@ glib
 	- **Ex.** His glib remarks failed to address the real concerns of the people.
 	- Synonyms
 		- slick, facile, smooth
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 headstrong
 ?
@@ -139,7 +139,7 @@ languid
 	- **Ex.** Her languid demeanor revealed the toll the disease had taken on her strength.
 	- Synonyms
 		- sickly, flagging, debilitated
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 lull
 ?
@@ -171,7 +171,7 @@ mollify
 	- **Ex.** He tried to mollify the angry customer with a discount.
 	- Synonyms
 		- appease, pacify, propitiate
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-27,3,250-->
 
 neutralize
 ?
@@ -189,7 +189,7 @@ nonplussed
 	- **Ex.** He was nonplussed by the sudden change of plans.
 	- Synonyms
 		- bewildered, bemused, discomposed
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 precipitous
 ?
@@ -203,7 +203,7 @@ precipitous
 	- **Ex.** His precipitous decision to quit left the team in a challenging situation.
 	- Synonyms
 		- hasty, rash, impetuous
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 pretentious
 ?
@@ -244,7 +244,7 @@ recourse
 	- **Ex.** When negotiations failed, they had no recourse but to leave.
 	- Synonyms
 		- resort, expedient, refuge
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 refute
 ?

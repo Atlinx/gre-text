@@ -8,7 +8,7 @@ acumen
 	- **Ex.** Her business acumen is evident in the company's continued growth.
 	- Synonyms
 		- shrewdness, acuity, sharpness
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-04,11,270-->
 
 antithesis
 ?
@@ -134,7 +134,7 @@ lament
 	- **Ex.** She lamented the loss of her cherished necklace.
 	- Synonyms
 		- mourn, wail, weep
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-10-31,7,250-->
 
 myopic
 ?
@@ -170,7 +170,7 @@ pensive
 	- **Ex.** She sat in a pensive mood, gazing out the window.
 	- Synonyms
 		- reflective, introspective, ruminative
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-03,10,270-->
 
 portend
 ?
@@ -215,7 +215,7 @@ sever
 	- **Ex.** He decided to sever all ties with his former colleagues.
 	- Synonyms
 		- cleave, suspend, rupture
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-02,9,250-->
 
 slight
 ?
@@ -224,7 +224,7 @@ slight
 	- **Ex.** He felt slighted when they didn't invite him to the party.
 	- Synonyms
 		- snub, disregard, rebuff
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-05,12,270-->
 
 somnolent
 ?
@@ -260,7 +260,7 @@ tout
 	- **Ex.** He was always touting the benefits of a healthy lifestyle.
 	- Synonyms
 		- commend, endorse, urge
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-04,11,270-->
 
 wane
 ?

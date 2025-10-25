@@ -72,7 +72,7 @@ countenance
 	- **Ex.** Her countenance fell when she heard the bad news.
 	- Synonyms
 		- No great synonyms really.
-<!--SR:!2025-10-24,1,212-->
+<!--SR:!2025-10-26,2,212-->
 
 covert
 ?
@@ -181,7 +181,7 @@ invidious
 	- **Ex.** The invidious policy discriminated against certain groups, causing widespread resentment.
 	- Synonyms
 		- unjust, discriminatory, iniquitous
-<!--SR:!2025-10-24,1,230-->
+<!--SR:!2025-10-25,1,250-->
 
 lethargic
 ?

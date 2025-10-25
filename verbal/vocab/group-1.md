@@ -149,7 +149,7 @@ flout
 	- **Ex.** Students flouted the classroom's "no chewing gum" rule.
 	- Synonyms
 		- defy, scorn, contravene
-<!--SR:!2025-10-24,3,252-->
+<!--SR:!2025-11-01,8,252-->
 
 homogeneous
 ?

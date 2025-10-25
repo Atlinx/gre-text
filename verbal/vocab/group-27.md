@@ -8,7 +8,7 @@ antagonize
 	- **Ex.** His confrontational manner tended to antagonize his colleagues.
 	- Synonyms
 		- rile, incite, foment
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 barren
 ?
@@ -26,7 +26,7 @@ bombastic
 	- **Ex.** The politician's speech was bombastic, full of lofty words but lacking substance.
 	- Synonyms
 		- inflated, turgid, pretentious
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-27,3,250-->
 
 cajole
 ?
@@ -35,7 +35,7 @@ cajole
 	- **Ex.** She managed to cajole him into doing his homework.
 	- Synonyms
 		- lure, wheedle, coax
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 chary
 ?
@@ -53,7 +53,7 @@ curmudgeon
 	- **Ex.** The old curmudgeon grumbled daily, resisting the village's progressive changes.
 	- Synonyms
 		- crank, sourpuss, crosspatch
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 dirge
 ?
@@ -62,7 +62,7 @@ dirge
 	- **Ex.** The choir sang a dirge to honor the deceased.
 	- Synonyms
 		- requiem, lament, elegy
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 estimable
 ?
@@ -89,7 +89,7 @@ excoriate
 	- **Ex.** The film was excoriated by critics for its shallow plot.
 	- Synonyms
 		- censure, denounce, blast
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 exigent
 ?
@@ -98,7 +98,7 @@ exigent
 	- **Ex.** The patient's condition was exigent, demanding instant medical attention.
 	- Synonyms
 		- pressing, dire, acute
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 haughty
 ?
@@ -116,7 +116,7 @@ heady
 	- **Ex.** The success brought a heady feeling of invincibility.
 	- Synonyms
 		- potent, inebriate, vinous
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 imperturbable
 ?
@@ -125,6 +125,7 @@ imperturbable
 	- **Ex.** Even during the crisis, she remained imperturbable.
 	- Synonyms
 		- unruffled, serene, composed
+<!--SR:!2025-10-25,1,226-->
 
 implacable
 ?
@@ -133,7 +134,7 @@ implacable
 	- **Ex.** Her anger towards the betrayal was implacable.
 	- Synonyms
 		- adamant, unsparing, relentless
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 lambaste
 ?
@@ -151,7 +152,7 @@ miscreant
 	- **Ex.** The security caught the miscreant trying to steal.
 	- Synonyms
 		- culprit, malefactor, delinquent
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 peccadillo
 ?
@@ -160,7 +161,7 @@ peccadillo
 	- **Ex.** Though a peccadillo in some eyes, he couldn't overlook her tardiness.
 	- Synonyms
 		- delinquency, misdeed, misdemeanor
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 philistine
 ?
@@ -169,7 +170,7 @@ philistine
 	- **Ex.** The art community considered him a philistine because of his disdain for modern art.
 	- Synonyms
 		- materialist, lowbrow, boor
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 relegate
 ?
@@ -232,7 +233,7 @@ turpitude
 	- **Ex.** The judge condemned the criminal's life of turpitude.
 	- Synonyms
 		- depravity, vice, villainy
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 unalloyed
 ?

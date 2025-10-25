@@ -198,7 +198,7 @@ propriety
 	- **Ex.** In the royal court, one had to act with the utmost propriety.
 	- Synonyms
 		- decorum, etiquette, discretion
-<!--SR:!2025-10-24,1,210-->
+<!--SR:!2025-10-25,1,190-->
 
 scintillating
 ?

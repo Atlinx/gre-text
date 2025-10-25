@@ -71,7 +71,7 @@ blithe
 	- **Ex.** His blithe attitude towards missing deadlines was infuriating.
 	- Synonyms
 		- heedless, nonchalant, blasé
-<!--SR:!2025-10-24,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 contempt
 ?
@@ -206,7 +206,7 @@ pernicious
 	- **Ex.** The spread of misinformation has a pernicious effect on society.
 	- Synonyms
 		- injurious, detrimental, deleterious
-<!--SR:!2025-10-24,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 predicament
 ?

@@ -76,7 +76,7 @@ captious
 	- **Ex.** The reviewer was captious and nitpicky.
 	- Synonyms
 		- nitpicking, caviling, carping
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,250-->
 
 conclusive
 ?
@@ -121,7 +121,7 @@ exhort
 	- **Ex.** The speaker exhorted the audience to take action.
 	- Synonyms
 		- adjure, enjoin, pressure
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 frailty
 ?
@@ -148,7 +148,7 @@ harangue
 	- **Ex.** The politician delivered a passionate harangue to his supporters.
 	- Synonyms
 		- diatribe, tirade, broadside
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 ploy
 ?
@@ -166,7 +166,7 @@ poise
 	- **Ex.** She handled the situation with great poise.
 	- Synonyms
 		- phlegm, equanimity, composure
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 pomposity
 ?
@@ -175,7 +175,7 @@ pomposity
 	- **Ex.** His speech was filled with pomposity.
 	- Synonyms
 		- imperiousness, bombast, grandiosity
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 proxy
 ?
@@ -198,7 +198,7 @@ relent
 	- **Ex.** The storm finally relented.
 	- Synonyms
 		- abate, subside, ease off
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 rhetoric
 ?

@@ -26,7 +26,7 @@ axiomatic
 	- **Ex.** It's axiomatic that the sun rises in the east.
 	- Synonyms
 		- apodictic, unquestionable, manifest
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 cease
 ?
@@ -62,7 +62,7 @@ doctrinaire
 	- **Ex.** His doctrinaire approach didn't leave room for alternative perspectives.
 	- Synonyms
 		- dogmatic, opinionated, fanatical
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 eclectic
 ?
@@ -80,7 +80,7 @@ equanimity
 	- **Ex.** She handled the crisis with remarkable equanimity.
 	- Synonyms
 		- poise, serenity, composure
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 exorbitant
 ?
@@ -116,7 +116,7 @@ flustered
 	- **Ex.** He became flustered when confronted with unexpected questions.
 	- Synonyms
 		- befuddled, perplexed, baffled
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 gullible
 ?
@@ -143,7 +143,7 @@ incidental
 	- **Ex.** Incidental expenses were added to the main bill.
 	- Synonyms
 		- auxiliary, peripheral, subordinate
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 ingrained
 ?
@@ -170,7 +170,7 @@ lampoon
 	- **Ex.** He used his comic strip to lampoon the school's rules.
 	- Synonyms
 		- ridicule, mock, deride
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 lavish
 ?
@@ -184,7 +184,7 @@ lavish
 	- **Ex.** Parents often lavish love on their children without expecting return.
 	- Synonyms
 		- expend, squander, splurge
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 lugubrious
 ?
@@ -193,7 +193,7 @@ lugubrious
 	- **Ex.** The movie had a lugubrious tone that left many in tears.
 	- Synonyms
 		- mournful, woeful, dismal
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 macabre
 ?
@@ -211,7 +211,7 @@ morose
 	- **Ex.** He was morose after hearing the bad news.
 	- Synonyms
 		- sulky, glum, peevish
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 officious
 ?
@@ -220,7 +220,7 @@ officious
 	- **Ex.** Her officious attitude constantly pushed unwanted advice on everyone nearby.
 	- Synonyms
 		- pushy, meddling, bumptious
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 ramification
 ?
@@ -274,4 +274,4 @@ treatise
 	- **Ex.** He wrote a treatise on environmental conservation.
 	- Synonyms
 		- disquisition, exposition, discourse
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->

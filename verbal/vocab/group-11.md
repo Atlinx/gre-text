@@ -26,7 +26,7 @@ chivalrous
 	- **Ex.** He displayed chivalrous behavior by holding the door open for her.
 	- Synonyms
 		- gallant, courteous, gentle
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-02,9,250-->
 
 churlish
 ?
@@ -71,7 +71,7 @@ debilitating
 	- **Ex.** The disease had a debilitating effect on him.
 	- Synonyms
 		- enervating, enfeebling, devitalizing
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-03,10,270-->
 
 deliberate
 ?
@@ -121,7 +121,7 @@ limpid
 	- **Ex.** The limpid waters of the lake reflected the clear blue sky.
 	- Synonyms
 		- lucid, coherent, comprehensible
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-01,8,250-->
 
 mawkish
 ?
@@ -130,7 +130,7 @@ mawkish
 	- **Ex.** The movie's mawkish ending left some audience members rolling their eyes.
 	- Synonyms
 		- cloying, saccharine, sickly
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-10-31,7,250-->
 
 obeisance
 ?
@@ -139,7 +139,7 @@ obeisance
 	- **Ex.** The knight paid obeisance to the queen.
 	- Synonyms
 		- homage, adoration, veneration
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-10-31,7,250-->
 
 ostentatious
 ?
@@ -229,7 +229,7 @@ satirical
 	- **Ex.** The satirical play poked fun at societal norms.
 	- Synonyms
 		- sarcastic, sardonic, scornful
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-01,8,250-->
 
 sham
 ?

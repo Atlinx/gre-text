@@ -148,7 +148,7 @@ impugn
 	- **Ex.** Critics impugn his motives for donating to charity.
 	- Synonyms
 		- dispute, take issue, contest
-<!--SR:!2025-10-24,1,230-->
+<!--SR:!2025-10-25,1,250-->
 
 incessant
 ?
@@ -193,7 +193,7 @@ patent
 	- **Ex.** It's a patent fact that smoking is harmful.
 	- Synonyms
 		- plain, manifest, self-evident
-<!--SR:!2025-10-24,1,210-->
+<!--SR:!2025-10-26,2,210-->
 
 petulant
 ?
@@ -202,7 +202,7 @@ petulant
 	- **Ex.** Her petulant behavior made her difficult to work with.
 	- Synonyms
 		- peevish, cross, irascible
-<!--SR:!2025-10-24,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 pithy
 ?
@@ -211,7 +211,7 @@ pithy
 	- **Ex.** He had a knack for pithy comments.
 	- Synonyms
 		- terse, succinct, trenchant
-<!--SR:!2025-10-24,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 pliant
 ?

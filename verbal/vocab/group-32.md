@@ -24,6 +24,7 @@ caricature
 	- **Ex.** The cartoonist caricatured the mayor with an exaggerated, oversized head.
 	- Synonyms
 		- parody, satirize, lampoon
+<!--SR:!2025-10-27,3,250-->
 
 depravity
 ?
@@ -64,6 +65,7 @@ endow
 	- **Ex.** Nature has endowed him with great athletic talent.
 	- Synonyms
 		- endue, bestow, confer
+<!--SR:!2025-10-27,3,250-->
 
 entreat
 ?
@@ -112,6 +114,7 @@ inquisitive
 	- **Ex.** Her inquisitive nature led her to explore various topics.
 	- Synonyms
 		- nosy, prying, intrigued
+<!--SR:!2025-10-27,3,250-->
 
 latitude
 ?

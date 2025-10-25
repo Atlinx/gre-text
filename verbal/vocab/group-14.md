@@ -189,7 +189,7 @@ reticent
 	- **Ex.** Though an expert in his field, he was reticent about his own achievements.
 	- Synonyms
 		- inhibited, diffident, unassuming
-<!--SR:!2025-10-24,1,250-->
+<!--SR:!2025-10-25,1,250-->
 
 stringent
 ?
@@ -257,7 +257,7 @@ trenchant
 	- **Ex.** She was known for her trenchant wit and clever repartees.
 	- Synonyms
 		- cutting, penetrating, mordant
-<!--SR:!2025-10-24,1,210-->
+<!--SR:!2025-10-26,2,210-->
 
 umbrage
 ?
@@ -266,7 +266,7 @@ umbrage
 	- **Ex.** She took umbrage at his rude comment.
 	- Synonyms
 		- indignation, vexation, chagrin
-<!--SR:!2025-10-24,1,221-->
+<!--SR:!2025-10-26,2,221-->
 
 versatile
 ?

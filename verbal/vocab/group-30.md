@@ -8,6 +8,7 @@ aberrant
 	- **Ex.** His aberrant behavior raised concerns among his friends.
 	- Synonyms
 		- deviant, anomalous, peculiar
+<!--SR:!2025-10-27,3,250-->
 
 abide
 ?
@@ -16,6 +17,7 @@ abide
 	- **Ex.** I will abide by the rules of the game.
 	- Synonyms
 		- uphold, heed, adhere to
+<!--SR:!2025-10-28,4,270-->
 
 bravado
 ?
@@ -24,6 +26,7 @@ bravado
 	- **Ex.** She showed bravado when faced with the challenge, but inside she was nervous.
 	- Synonyms
 		- swagger, bluster, machismo
+<!--SR:!2025-10-27,3,250-->
 
 callow
 ?
@@ -32,6 +35,7 @@ callow
 	- **Ex.** The callow intern made several mistakes on his first day.
 	- Synonyms
 		- jejune, guileless, artless
+<!--SR:!2025-10-25,1,230-->
 
 capitulate
 ?
@@ -40,6 +44,7 @@ capitulate
 	- **Ex.** The army capitulated after a long battle.
 	- Synonyms
 		- yield, succumb, relent
+<!--SR:!2025-10-27,3,250-->
 
 cogitate
 ?
@@ -48,6 +53,7 @@ cogitate
 	- **Ex.** He took a moment to cogitate before answering the question.
 	- Synonyms
 		- contemplate, ruminate on, mull over
+<!--SR:!2025-10-25,1,230-->
 
 deportment
 ?
@@ -56,6 +62,7 @@ deportment
 	- **Ex.** His deportment at the formal event was impeccable.
 	- Synonyms
 		- conduct, etiquette, habits
+<!--SR:!2025-10-25,1,230-->
 
 extemporize
 ?
@@ -64,6 +71,7 @@ extemporize
 	- **Ex.** The musician had to extemporize when she forgot her sheet music.
 	- Synonyms
 		- ad-lib, wing it, play it by ear
+<!--SR:!2025-10-25,1,230-->
 
 factious
 ?
@@ -72,6 +80,7 @@ factious
 	- **Ex.** The factious debate split the committee in two.
 	- Synonyms
 		- schismatic, discordant, sectarian
+<!--SR:!2025-10-25,1,230-->
 
 fallow
 ?
@@ -85,6 +94,7 @@ fallow
 	- **Ex.** Those were the fallow periods of my life when I accomplished very little.
 	- Synonyms
 		- dormant, idle, slack
+<!--SR:!2025-10-25,1,230-->
 
 feint
 ?
@@ -93,6 +103,7 @@ feint
 	- **Ex.** The boxer used a feint to distract his opponent.
 	- Synonyms
 		- pretense, sham, ruse
+<!--SR:!2025-10-27,3,250-->
 
 flagrant
 ?
@@ -101,6 +112,7 @@ flagrant
 	- **Ex.** His flagrant disregard for the rules earned him a suspension.
 	- Synonyms
 		- egregious, glaring, overt
+<!--SR:!2025-10-25,1,230-->
 
 gratuitous
 ?
@@ -109,6 +121,7 @@ gratuitous
 	- **Ex.** The movie's gratuitous violence upset many viewers.
 	- Synonyms
 		- undue, redundant, superfluous
+<!--SR:!2025-10-27,3,250-->
 
 grovel
 ?
@@ -117,6 +130,7 @@ grovel
 	- **Ex.** He refused to grovel, even when faced with adversity.
 	- Synonyms
 		- kowtow to, fawn over, curry favor with
+<!--SR:!2025-10-27,3,250-->
 
 indecorous
 ?
@@ -125,6 +139,7 @@ indecorous
 	- **Ex.** It was indecorous to make such a joke at a funeral.
 	- Synonyms
 		- unbecoming, indelicate, wanton
+<!--SR:!2025-10-25,1,230-->
 
 intrigue
 ?
@@ -138,6 +153,7 @@ intrigue
 	- **Ex.** Books use salacious titles to intrigue readers.
 	- Synonyms
 		- tempt, tantalize, lure
+<!--SR:!2025-10-25,1,230-->
 
 nominal
 ?
@@ -151,6 +167,7 @@ nominal
 	- **Ex.** Julie's parents provided her with only a nominal allowance.
 	- Synonyms
 		- minute, token, trifling
+<!--SR:!2025-10-25,1,230-->
 
 obdurate
 ?
@@ -159,6 +176,7 @@ obdurate
 	- **Ex.** His obdurate refusal to listen was frustrating.
 	- Synonyms
 		- obstinate, intransigent, intractable
+<!--SR:!2025-10-25,1,230-->
 
 obstreperous
 ?
@@ -167,6 +185,7 @@ obstreperous
 	- **Ex.** The obstreperous child disrupted the entire classroom.
 	- Synonyms
 		- boisterous, disruptive, rowdy
+<!--SR:!2025-10-25,1,230-->
 
 odious
 ?
@@ -175,6 +194,7 @@ odious
 	- **Ex.** The odious crime shocked the community.
 	- Synonyms
 		- detestable, abhorrent, revolting
+<!--SR:!2025-10-25,1,230-->
 
 plucky
 ?
@@ -183,6 +203,7 @@ plucky
 	- **Ex.** The plucky underdog team won the championship.
 	- Synonyms
 		- intrepid, valiant, spirited
+<!--SR:!2025-10-25,1,230-->
 
 precocious
 ?
@@ -191,6 +212,7 @@ precocious
 	- **Ex.** The precocious child was reading novels at age five.
 	- Synonyms
 		- gifted, brilliant, mature
+<!--SR:!2025-10-25,1,230-->
 
 remuneration
 ?
@@ -199,6 +221,7 @@ remuneration
 	- **Ex.** He received remuneration for his consulting services.
 	- Synonyms
 		- stipend, remittance, recompense
+<!--SR:!2025-10-25,1,230-->
 
 slovenly
 ?
@@ -212,6 +235,7 @@ slovenly
 	- **Ex.** Alcohol consumption made his speech slovenly.
 	- Synonyms
 		- slapdash, slipshod, haphazard
+<!--SR:!2025-10-27,3,250-->
 
 soliloquy
 ?
@@ -220,6 +244,7 @@ soliloquy
 	- **Ex.** Hamlet's "To be or not to be" is a famous soliloquy.
 	- Synonyms
 		- monologue, oration, sermon
+<!--SR:!2025-10-25,1,230-->
 
 spurn
 ?
@@ -228,6 +253,7 @@ spurn
 	- **Ex.** She spurned his advances, making her feelings clear.
 	- Synonyms
 		- repudiate, rebuff, scorn
+<!--SR:!2025-10-25,1,230-->
 
 stolid
 ?
@@ -236,6 +262,7 @@ stolid
 	- **Ex.** His stolid demeanor made it hard to read his feelings.
 	- Synonyms
 		- phlegmatic, stoic, impassive
+<!--SR:!2025-10-25,1,230-->
 
 temerity
 ?
@@ -244,6 +271,7 @@ temerity
 	- **Ex.** She had the temerity to challenge the established norms.
 	- Synonyms
 		- nerve, effrontery, cheek
+<!--SR:!2025-10-25,1,230-->
 
 tenuous
 ?
@@ -252,6 +280,7 @@ tenuous
 	- **Ex.** The evidence against him was tenuous at best.
 	- Synonyms
 		- negligible, shaky, dubious
+<!--SR:!2025-10-27,3,250-->
 
 verve
 ?
@@ -260,3 +289,4 @@ verve
 	- **Ex.** She performed the dance with unmatched verve and passion.
 	- Synonyms
 		- buoyancy, elan, vitality
+<!--SR:!2025-10-25,1,230-->

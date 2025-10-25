@@ -8,6 +8,7 @@ abscond
 	- **Ex.** After committing the crime, the thief decided to abscond before the police arrived.
 	- Synonyms
 		- flee, bolt, decamp
+<!--SR:!2025-10-25,1,230-->
 
 apogee
 ?
@@ -16,6 +17,7 @@ apogee
 	- **Ex.** The athlete's gold medal win was the apogee of her years of training.
 	- Synonyms
 		- zenith, apex, acme
+<!--SR:!2025-10-25,1,230-->
 
 aspersion
 ?
@@ -24,6 +26,7 @@ aspersion
 	- **Ex.** She was hurt by the aspersions cast on her professionalism.
 	- Synonyms
 		- vilification, smear, defamation
+<!--SR:!2025-10-25,1,230-->
 
 bawdy
 ?
@@ -32,6 +35,7 @@ bawdy
 	- **Ex.** The play was filled with bawdy jokes that made some viewers blush.
 	- Synonyms
 		- ribald, lewd, titillating
+<!--SR:!2025-10-25,1,230-->
 
 chagrin
 ?
@@ -40,6 +44,7 @@ chagrin
 	- **Ex.** To her chagrin, she realized she had been wearing mismatched shoes all day.
 	- Synonyms
 		- pique, vexation, resentment
+<!--SR:!2025-10-25,1,230-->
 
 collude
 ?
@@ -48,6 +53,7 @@ collude
 	- **Ex.** The two companies were accused of colluding to raise prices.
 	- Synonyms
 		- connive, conspire, scheme
+<!--SR:!2025-10-27,3,250-->
 
 commiserate
 ?
@@ -56,6 +62,7 @@ commiserate
 	- **Ex.** She commiserated with her friend after the loss of her job.
 	- Synonyms
 		- comfort, console, solace
+<!--SR:!2025-10-25,1,230-->
 
 conflagration
 ?
@@ -64,6 +71,7 @@ conflagration
 	- **Ex.** A conflagration in the town's center caused widespread damage.
 	- Synonyms
 		- inferno, blaze, firestorm
+<!--SR:!2025-10-27,3,250-->
 
 contretemps
 ?
@@ -72,6 +80,7 @@ contretemps
 	- **Ex.** A brief contretemps over the bill was resolved when she agreed to pay.
 	- Synonyms
 		- dissension, quarrel, squabble
+<!--SR:!2025-10-25,1,230-->
 
 conviction
 ?
@@ -80,6 +89,7 @@ conviction
 	- **Ex.** Her conviction in justice inspired many to seek change passionately.
 	- Synonyms
 		- stance, tenet, credo
+<!--SR:!2025-10-27,3,250-->
 
 croon
 ?
@@ -88,6 +98,7 @@ croon
 	- **Ex.** Under the moonlight, he'd croon love ballads.
 	- Synonyms
 		- serenade, warble, hum
+<!--SR:!2025-10-25,1,230-->
 
 depose
 ?
@@ -96,6 +107,7 @@ depose
 	- **Ex.** A plan was in place to depose the corrupt leader.
 	- Synonyms
 		- axe, oust, expel
+<!--SR:!2025-10-28,4,270-->
 
 detente
 ?
@@ -104,6 +116,7 @@ detente
 	- **Ex.** The two rival nations entered a detente after the peace talks.
 	- Synonyms
 		- thawing, pacification, conciliation
+<!--SR:!2025-10-25,1,230-->
 
 dowdy
 ?
@@ -112,6 +125,7 @@ dowdy
 	- **Ex.** His clothes were considered dowdy by modern standards.
 	- Synonyms
 		- shabby, frumpy, frumpish
+<!--SR:!2025-10-25,1,230-->
 
 echelon
 ?
@@ -120,6 +134,7 @@ echelon
 	- **Ex.** As a new recruit, he was in the lowest echelon of the company.
 	- Synonyms
 		- rank, rung, stratum
+<!--SR:!2025-10-28,4,270-->
 
 ennui
 ?
@@ -128,6 +143,7 @@ ennui
 	- **Ex.** His days were filled with ennui, as his routine never varied.
 	- Synonyms
 		- tedium, languor, lethargy
+<!--SR:!2025-10-25,1,230-->
 
 expatiate
 ?
@@ -136,6 +152,7 @@ expatiate
 	- **Ex.** The professor was known to expatiate on any subject he found interesting.
 	- Synonyms
 		- expound, embellish, dilate on
+<!--SR:!2025-10-25,1,230-->
 
 fraught
 ?
@@ -144,6 +161,7 @@ fraught
 	- **Ex.** The meeting was fraught with disagreements and shouting matches.
 	- Synonyms
 		- strained, contentious, volatile
+<!--SR:!2025-10-25,1,230-->
 
 fulcrum
 ?
@@ -152,6 +170,7 @@ fulcrum
 	- **Ex.** Trust is the fulcrum of their strong, enduring relationship together.
 	- Synonyms
 		- crux, linchpin, keystone
+<!--SR:!2025-10-27,3,250-->
 
 imbroglio
 ?
@@ -160,6 +179,7 @@ imbroglio
 	- **Ex.** The political scandal turned into an imbroglio that lasted for months.
 	- Synonyms
 		- dilemma, muddle, quandary
+<!--SR:!2025-10-25,1,230-->
 
 jocund
 ?
@@ -168,6 +188,7 @@ jocund
 	- **Ex.** The jocund melody brightened up the room.
 	- Synonyms
 		- genial, exuberant, buoyant
+<!--SR:!2025-10-25,1,230-->
 
 languish
 ?
@@ -181,6 +202,7 @@ languish
 	- **Ex.** He languished in the remote town, longing for the bustling city life he once knew.
 	- Synonyms
 		- atrophy, molder, decay
+<!--SR:!2025-10-27,3,250-->
 
 nadir
 ?
@@ -189,6 +211,7 @@ nadir
 	- **Ex.** Losing his job marked the nadir of his career.
 	- Synonyms
 		- depths, rock bottom, abyss
+<!--SR:!2025-10-25,1,230-->
 
 nimble
 ?
@@ -197,6 +220,7 @@ nimble
 	- **Ex.** The nimble cat easily jumped from one rooftop to the next.
 	- Synonyms
 		- lithe, deft, adroit
+<!--SR:!2025-10-27,3,250-->
 
 ominous
 ?
@@ -205,6 +229,7 @@ ominous
 	- **Ex.** Dark clouds on the horizon gave an ominous sign of the coming storm.
 	- Synonyms
 		- inauspicious, menacing, sinister
+<!--SR:!2025-10-28,4,270-->
 
 outlandish
 ?
@@ -213,6 +238,7 @@ outlandish
 	- **Ex.** His outfit was outlandish, with bright colors and mismatched patterns.
 	- Synonyms
 		- eccentric, quirky, anomalous
+<!--SR:!2025-10-28,4,270-->
 
 propitious
 ?
@@ -221,6 +247,7 @@ propitious
 	- **Ex.** The sunny weather was propitious for our picnic.
 	- Synonyms
 		- providential, auspicious, opportune
+<!--SR:!2025-10-25,1,230-->
 
 prurient
 ?
@@ -229,6 +256,7 @@ prurient
 	- **Ex.** The film was criticized for its prurient scenes.
 	- Synonyms
 		- salacious, lustful, lascivious
+<!--SR:!2025-10-25,1,230-->
 
 sadistic
 ?
@@ -237,6 +265,7 @@ sadistic
 	- **Ex.** The villain's sadistic tendencies made the movie quite intense.
 	- Synonyms
 		- fiendish, ruthless, bestial
+<!--SR:!2025-10-28,4,270-->
 
 zenith
 ?
@@ -245,3 +274,4 @@ zenith
 	- **Ex.** The festival is at its zenith when thousands gather for the grand parade.
 	- Synonyms
 		- apogee, acme, climax
+<!--SR:!2025-10-27,3,250-->

@@ -8,7 +8,7 @@ acrimonious
 	- **Ex.** Their divorce was acrimonious, with both parties hurling insults.
 	- Synonyms
 		- caustic, scathing, astringent
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-05,12,270-->
 
 belligerent
 ?
@@ -116,7 +116,7 @@ hackneyed
 	- **Ex.** "Love at first sight" is a hackneyed plot in romance novels.
 	- Synonyms
 		- trite, banal, pedestrian
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-10-25,1,250-->
 
 incongruous
 ?
@@ -211,7 +211,7 @@ provocative
 	- **Ex.** His provocative statements stirred up controversy.
 	- Synonyms
 		- goading, affronting, galling
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-04,11,270-->
 
 renounce
 ?

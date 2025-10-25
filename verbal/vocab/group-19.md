@@ -117,7 +117,7 @@ facetious
 	- **Ex.** His facetious remarks were not well-received at the funeral.
 	- Synonyms
 		- flippant, glib, waggish
-<!--SR:!2025-10-24,1,250-->
+<!--SR:!2025-10-25,1,230-->
 
 fallible
 ?
@@ -171,6 +171,7 @@ mendacity
 	- **Ex.** His mendacity cost him the trust of his friends.
 	- Synonyms
 		- insincerity, deceit, dissembling
+<!--SR:!2025-10-27,3,254-->
 
 munificent
 ?

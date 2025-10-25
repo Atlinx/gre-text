@@ -107,7 +107,7 @@ libertine
 	- **Ex.** The village considered him a libertine due to his unconventional beliefs.
 	- Synonyms
 		- philanderer, rake, hedonist
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 malfeasance
 ?
@@ -116,7 +116,7 @@ malfeasance
 	- **Ex.** The mayor was accused of malfeasance and misuse of city funds.
 	- Synonyms
 		- impropriety, delinquency, fraud
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 manifest
 ?
@@ -148,7 +148,7 @@ modish
 	- **Ex.** Her clothes are always modish and chic.
 	- Synonyms
 		- in vogue, a la mode, smart
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 nascent
 ?
@@ -180,7 +180,7 @@ pious
 	- **Ex.** Her pious demeanor masked a deep-seated arrogance towards less fortunate people.
 	- Synonyms
 		- sanctimonious, hypocritical, holier-than-thou
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 providential
 ?
@@ -189,7 +189,7 @@ providential
 	- **Ex.** The rain's end just before the parade was providential.
 	- Synonyms
 		- auspicious, propitious, felicitous
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 prowess
 ?

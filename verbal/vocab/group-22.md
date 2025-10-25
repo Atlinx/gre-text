@@ -103,7 +103,7 @@ foment
 	- **Ex.** The rebel leaders tried to foment a revolution.
 	- Synonyms
 		- instigate, agitate, prompt
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,230-->
 
 gaffe
 ?
@@ -112,7 +112,7 @@ gaffe
 	- **Ex.** The actor's gaffe during the live performance became viral.
 	- Synonyms
 		- blunder, slip, faux pas
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 heterodox
 ?
@@ -184,7 +184,7 @@ phlegmatic
 	- **Ex.** Her phlegmatic response was unexpected given the situation.
 	- Synonyms
 		- composed, self-possessed, stolid
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-25,1,210-->
 
 prodigious
 ?
@@ -193,7 +193,7 @@ prodigious
 	- **Ex.** The author's prodigious output included over fifty novels.
 	- Synonyms
 		- enormous, mammoth, colossal
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 propensity
 ?
@@ -229,7 +229,7 @@ stint
 	- **Ex.** As the owner, he's notorious for stinting on the food and facilities.
 	- Synonyms
 		- skimp on, scrimp on, restrict
-<!--SR:!2025-10-23,1,230-->
+<!--SR:!2025-10-26,2,230-->
 
 temper
 ?
