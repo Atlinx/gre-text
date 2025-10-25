@@ -8,6 +8,7 @@ abstruse
 	- **Ex.** Quantum physics is an abstruse topic for many.
 	- Synonyms
 		- obscure, arcane, esoteric
+<!--SR:!2025-10-26,1,230-->
 
 auxiliary
 ?
@@ -16,6 +17,7 @@ auxiliary
 	- **Ex.** The ship has an auxiliary engine in case the main one fails.
 	- Synonyms
 		- subsidiary, ancillary, fallback
+<!--SR:!2025-10-29,4,270-->
 
 caricature
 ?
@@ -33,6 +35,7 @@ depravity
 	- **Ex.** Tales of the villain's depravity were spread across the land.
 	- Synonyms
 		- perversion, turpitude, debauchery
+<!--SR:!2025-10-28,3,250-->
 
 dilettante
 ?
@@ -41,6 +44,7 @@ dilettante
 	- **Ex.** Though a passionate painter, he was dismissed as a dilettante by professionals.
 	- Synonyms
 		- layperson, dabbler, layman
+<!--SR:!2025-10-26,1,230-->
 
 effrontery
 ?
@@ -49,6 +53,7 @@ effrontery
 	- **Ex.** He had the effrontery to deny the clear evidence against him.
 	- Synonyms
 		- impudence, audacity, temerity
+<!--SR:!2025-10-26,1,230-->
 
 encroach
 ?
@@ -57,6 +62,7 @@ encroach
 	- **Ex.** Developers began to encroach upon the forested area.
 	- Synonyms
 		- invade, infringe, impinge
+<!--SR:!2025-10-28,3,250-->
 
 endow
 ?
@@ -74,6 +80,7 @@ entreat
 	- **Ex.** She entreated him to stay for one more day.
 	- Synonyms
 		- plead, implore, beseech
+<!--SR:!2025-10-26,1,230-->
 
 gregarious
 ?
@@ -82,6 +89,7 @@ gregarious
 	- **Ex.** Dolphins are known to be gregarious creatures.
 	- Synonyms
 		- convivial, affable, amiable
+<!--SR:!2025-10-28,3,250-->
 
 indictment
 ?
@@ -90,6 +98,7 @@ indictment
 	- **Ex.** The grand jury returned an indictment against the accused.
 	- Synonyms
 		- plaint, imputation, impeachment
+<!--SR:!2025-10-28,3,250-->
 
 indignant
 ?
@@ -98,6 +107,7 @@ indignant
 	- **Ex.** She was indignant at the way she was treated.
 	- Synonyms
 		- resentful, vexed, aggrieved
+<!--SR:!2025-10-28,3,250-->
 
 ineluctable
 ?
@@ -106,6 +116,7 @@ ineluctable
 	- **Ex.** Aging is an ineluctable process of life.
 	- Synonyms
 		- irrevocable, predestined, immutable
+<!--SR:!2025-10-26,1,230-->
 
 inquisitive
 ?
@@ -123,6 +134,7 @@ latitude
 	- **Ex.** The manager gave him considerable latitude in making decisions.
 	- Synonyms
 		- slack, leeway, license
+<!--SR:!2025-10-28,3,250-->
 
 levity
 ?
@@ -131,6 +143,7 @@ levity
 	- **Ex.** The levity in his speech was surprising given the serious occasion.
 	- Synonyms
 		- vivacity, gaiety, hilarity
+<!--SR:!2025-10-28,3,250-->
 
 malevolent
 ?
@@ -139,6 +152,7 @@ malevolent
 	- **Ex.** The villain had a malevolent glare.
 	- Synonyms
 		- vicious, hostile, malignant
+<!--SR:!2025-10-28,3,250-->
 
 mediate
 ?
@@ -147,6 +161,7 @@ mediate
 	- **Ex.** The counselor helped mediate the dispute between the siblings.
 	- Synonyms
 		- arbitrate, conciliate, intercede
+<!--SR:!2025-10-28,3,250-->
 
 occlude
 ?
@@ -155,6 +170,7 @@ occlude
 	- **Ex.** A blood clot can occlude an artery, causing serious health issues.
 	- Synonyms
 		- obstruct, choke, clog
+<!--SR:!2025-10-28,3,250-->
 
 pacify
 ?
@@ -163,6 +179,7 @@ pacify
 	- **Ex.** The lullaby worked to pacify the crying baby.
 	- Synonyms
 		- placate, appease, conciliate
+<!--SR:!2025-10-28,3,250-->
 
 paragon
 ?
@@ -171,6 +188,7 @@ paragon
 	- **Ex.** She was seen as a paragon of virtue in the community.
 	- Synonyms
 		- exemplar, epitome, acme
+<!--SR:!2025-10-28,3,250-->
 
 patronize
 ?
@@ -184,6 +202,7 @@ patronize
 	- **Ex.** Many locals patronize the small bakery because of its delicious homemade bread.
 	- Synonyms
 		- back, endorse, champion
+<!--SR:!2025-10-28,3,250-->
 
 penurious
 ?
@@ -192,6 +211,7 @@ penurious
 	- **Ex.** His penurious habits often led him to avoid spending money, even on essentials.
 	- Synonyms
 		- indigent, destitute, impecunious
+<!--SR:!2025-10-26,1,230-->
 
 piquant
 ?
@@ -200,6 +220,7 @@ piquant
 	- **Ex.** The mystery novel had a piquant plot twist that kept readers engaged until the very end.
 	- Synonyms
 		- intriguing, spirited, sparkling
+<!--SR:!2025-10-26,1,230-->
 
 rampant
 ?
@@ -208,6 +229,7 @@ rampant
 	- **Ex.** Corruption was rampant in the city.
 	- Synonyms
 		- rife, pervasive, unbridled
+<!--SR:!2025-10-29,4,270-->
 
 remote
 ?
@@ -216,6 +238,7 @@ remote
 	- **Ex.** There's a remote possibility that we might move to another city.
 	- Synonyms
 		- far-fetched, implausible, improbable
+<!--SR:!2025-10-28,3,250-->
 
 reprobate
 ?
@@ -224,6 +247,7 @@ reprobate
 	- **Ex.** Despite being a reprobate, he charmed everyone with his eloquence.
 	- Synonyms
 		- rogue, rascal, wretch
+<!--SR:!2025-10-28,3,250-->
 
 turbid
 ?
@@ -237,6 +261,7 @@ turbid
 	- **Ex.** The professor's lecture was turbid, leaving students bewildered about the main points.
 	- Synonyms
 		- arcane, vague, ambiguous
+<!--SR:!2025-10-26,1,230-->
 
 turgid
 ?
@@ -250,6 +275,7 @@ turgid
 	- **Ex.** His speech was turgid with unnecessary technical terms.
 	- Synonyms
 		- bombastic, pompous, pretentious
+<!--SR:!2025-10-26,1,230-->
 
 vacuous
 ?
@@ -258,3 +284,4 @@ vacuous
 	- **Ex.** The actor gave a vacuous smile during the interview.
 	- Synonyms
 		- vacant, inane, inscrutable
+<!--SR:!2025-10-26,1,230-->

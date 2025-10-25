@@ -8,6 +8,7 @@ affluent
 	- **Ex.** The affluent neighborhood boasted large houses and expensive cars.
 	- Synonyms
 		- prosperous, opulent, well-to-do
+<!--SR:!2025-10-29,4,270-->
 
 allegorical
 ?
@@ -16,6 +17,7 @@ allegorical
 	- **Ex.** The novel's allegorical themes provoke deep thought.
 	- Synonyms
 		- emblematic, figurative, metaphorical
+<!--SR:!2025-10-28,3,250-->
 
 allude
 ?
@@ -24,6 +26,7 @@ allude
 	- **Ex.** The poet often alludes to classical myths in her work.
 	- Synonyms
 		- imply, intimate, suggest
+<!--SR:!2025-10-29,4,270-->
 
 amplify
 ?
@@ -32,6 +35,7 @@ amplify
 	- **Ex.** The speaker amplified his argument effectively.
 	- Synonyms
 		- augment, magnify, escalate
+<!--SR:!2025-10-28,3,250-->
 
 catastrophic
 ?
@@ -40,6 +44,7 @@ catastrophic
 	- **Ex.** The catastrophic economic collapse affected millions of lives.
 	- Synonyms
 		- cataclysmic, woeful, calamitous
+<!--SR:!2025-10-29,4,270-->
 
 contemporary
 ?
@@ -53,6 +58,7 @@ contemporary
 	- **Ex.** Contemporary artists often challenge norms.
 	- Synonyms
 		- extant, modish, in vogue
+<!--SR:!2025-10-29,4,270-->
 
 conundrum
 ?
@@ -61,6 +67,7 @@ conundrum
 	- **Ex.** Solving the energy crisis presents a conundrum for modern scientists.
 	- Synonyms
 		- dilemma, quandary, enigma
+<!--SR:!2025-10-29,4,270-->
 
 defame
 ?
@@ -69,6 +76,7 @@ defame
 	- **Ex.** The article unjustly defamed the politician's character.
 	- Synonyms
 		- libel, slander, traduce
+<!--SR:!2025-10-28,3,250-->
 
 detract
 ?
@@ -77,6 +85,7 @@ detract
 	- **Ex.** Frequent errors detract from the author's credibility.
 	- Synonyms
 		- trivialize, belittle, undermine
+<!--SR:!2025-10-29,4,270-->
 
 detrimental
 ?
@@ -85,6 +94,7 @@ detrimental
 	- **Ex.** Smoking is highly detrimental to long-term health.
 	- Synonyms
 		- pernicious, inimical, deleterious
+<!--SR:!2025-10-29,4,270-->
 
 devious
 ?
@@ -93,6 +103,7 @@ devious
 	- **Ex.** His devious tactics outsmarted even the shrewdest opponents.
 	- Synonyms
 		- dubious, disreputable, unscrupulous
+<!--SR:!2025-10-28,3,250-->
 
 dormant
 ?
@@ -101,6 +112,7 @@ dormant
 	- **Ex.** The volcano remains dormant for now.
 	- Synonyms
 		- reposing, latent, quiescent
+<!--SR:!2025-10-29,4,270-->
 
 draconian
 ?
@@ -109,6 +121,7 @@ draconian
 	- **Ex.** The company's draconian policies led to widespread employee dissatisfaction.
 	- Synonyms
 		- drastic, punitive, stringent
+<!--SR:!2025-10-29,4,270-->
 
 egalitarian
 ?
@@ -117,6 +130,7 @@ egalitarian
 	- **Ex.** She advocates egalitarian education policies.
 	- Synonyms
 		- equalitarian, equitable, unbigoted
+<!--SR:!2025-10-29,4,270-->
 
 elusive
 ?
@@ -125,6 +139,7 @@ elusive
 	- **Ex.** The elusive answer evaded even the smartest scholars.
 	- Synonyms
 		- ambiguous, baffling, fugitive
+<!--SR:!2025-10-29,4,270-->
 
 erstwhile
 ?
@@ -133,6 +148,7 @@ erstwhile
 	- **Ex.** Her erstwhile friend became her fiercest competitor.
 	- Synonyms
 		- antecedent, quondam, precursory
+<!--SR:!2025-10-26,1,230-->
 
 gloat
 ?
@@ -141,6 +157,7 @@ gloat
 	- **Ex.** He gloated over his rival's mistake.
 	- Synonyms
 		- exult in, revel in, crow over
+<!--SR:!2025-10-28,3,250-->
 
 harrowing
 ?
@@ -149,6 +166,7 @@ harrowing
 	- **Ex.** The harrowing tale of survival left the audience speechless.
 	- Synonyms
 		- traumatic, excruciating, agonizing
+<!--SR:!2025-10-26,1,230-->
 
 indefinite
 ?
@@ -162,6 +180,7 @@ indefinite
 	- **Ex.** The agreement's terms remained indefinite, sparking debate.
 	- Synonyms
 		- ambiguous, nebulous, equivocal
+<!--SR:!2025-10-26,1,230-->
 
 ingenious
 ?
@@ -170,6 +189,7 @@ ingenious
 	- **Ex.** His ingenious approach streamlined the entire process.
 	- Synonyms
 		- inventive, dexterous, adroit
+<!--SR:!2025-10-28,3,250-->
 
 keen
 ?
@@ -183,6 +203,7 @@ keen
 	- **Ex.** The surgeon's keen precision was critical during the operation.
 	- Synonyms
 		- perceptive, observant, perspicacious
+<!--SR:!2025-10-28,3,250-->
 
 multifaceted
 ?
@@ -191,6 +212,7 @@ multifaceted
 	- **Ex.** The multifaceted program addresses health, education, and welfare.
 	- Synonyms
 		- versatile, sundry, heterogeneous
+<!--SR:!2025-10-29,4,270-->
 
 omniscient
 ?
@@ -199,6 +221,7 @@ omniscient
 	- **Ex.** An omniscient narrator describes the story.
 	- Synonyms
 		- all-knowing, all-seeing, pansophical
+<!--SR:!2025-10-28,3,250-->
 
 remarkable
 ?
@@ -207,6 +230,7 @@ remarkable
 	- **Ex.** The team's remarkable cohesion led to their unprecedented success.
 	- Synonyms
 		- extraordinary, astounding, exceptional
+<!--SR:!2025-10-29,4,270-->
 
 sober
 ?
@@ -220,6 +244,7 @@ sober
 	- **Ex.** Her sober judgment was invaluable during the crisis.
 	- Synonyms
 		- somber, solemn, earnest
+<!--SR:!2025-10-28,3,250-->
 
 stem from
 ?
@@ -228,6 +253,7 @@ stem from
 	- **Ex.** Her fear stems from a past incident.
 	- Synonyms
 		- arise from, originate from, emanate from
+<!--SR:!2025-10-28,3,250-->
 
 subdued
 ?
@@ -241,6 +267,7 @@ subdued
 	- **Ex.** The room's subdued lighting caused John's subdued mood.
 	- Synonyms
 		- subtle, somber, restrained
+<!--SR:!2025-10-28,3,250-->
 
 token
 ?
@@ -249,6 +276,7 @@ token
 	- **Ex.** His apology was a mere token gesture.
 	- Synonyms
 		- nominal, hollow, inconsequential
+<!--SR:!2025-10-26,1,230-->
 
 unravel
 ?
@@ -257,6 +285,7 @@ unravel
 	- **Ex.** The journalist managed to unravel the complex political scandal.
 	- Synonyms
 		- elucidate, untangle, resolve
+<!--SR:!2025-10-28,3,250-->
 
 withstand
 ?
@@ -265,3 +294,4 @@ withstand
 	- **Ex.** The structure withstood the earthquake.
 	- Synonyms
 		- outface, defy, persevere
+<!--SR:!2025-10-29,4,270-->

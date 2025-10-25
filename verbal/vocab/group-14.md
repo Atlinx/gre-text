@@ -8,7 +8,7 @@ acquiesce
 	- **Ex.** Though unhappy with the decision, she chose to acquiesce rather than argue.
 	- Synonyms
 		- abide by, countenance, brook
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-27,2,230-->
 
 adroit
 ?
@@ -53,7 +53,7 @@ astringent
 	- **Ex.** Her critique was astringent but fair.
 	- Synonyms
 		- trenchant, acerbic, caustic
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 collaborate
 ?
@@ -189,7 +189,7 @@ reticent
 	- **Ex.** Though an expert in his field, he was reticent about his own achievements.
 	- Synonyms
 		- inhibited, diffident, unassuming
-<!--SR:!2025-10-25,1,250-->
+<!--SR:!2025-10-28,3,250-->
 
 stringent
 ?
@@ -212,7 +212,7 @@ subservient
 	- **Ex.** The marketing team was often viewed as subservient to the sales department.
 	- Synonyms
 		- secondary, incidental, ancillary
-<!--SR:!2025-10-25,3,261-->
+<!--SR:!2025-11-03,9,261-->
 
 surreptitious
 ?
@@ -248,7 +248,7 @@ torpor
 	- **Ex.** The long, hot summer days led to a general torpor among the town's residents.
 	- Synonyms
 		- inertia, languor, idleness
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 trenchant
 ?

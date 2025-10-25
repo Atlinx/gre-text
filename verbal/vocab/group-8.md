@@ -8,6 +8,7 @@ accentuate
 	- **Ex.** The high heels accentuate her long, graceful legs.
 	- Synonyms
 		- underscore, foreground, accent
+<!--SR:!2025-10-28,3,250-->
 
 conjectural
 ?
@@ -16,6 +17,7 @@ conjectural
 	- **Ex.** Without more information, his explanation remained conjectural.
 	- Synonyms
 		- speculative, putative, suppositional
+<!--SR:!2025-10-29,4,270-->
 
 convivial
 ?
@@ -24,6 +26,7 @@ convivial
 	- **Ex.** The family reunion was a convivial event with laughter and storytelling.
 	- Synonyms
 		- amiable, cordial, genial
+<!--SR:!2025-10-26,1,230-->
 
 decadent
 ?
@@ -32,6 +35,7 @@ decadent
 	- **Ex.** The extravagant party was a display of decadent luxury.
 	- Synonyms
 		- dissolute, depraved, corrupt
+<!--SR:!2025-10-26,1,230-->
 
 egregious
 ?
@@ -40,6 +44,7 @@ egregious
 	- **Ex.** His refusal to apologize for the egregious error was shocking.
 	- Synonyms
 		- appalling, dreadful, grievous
+<!--SR:!2025-10-28,3,250-->
 
 evanescent
 ?
@@ -48,6 +53,7 @@ evanescent
 	- **Ex.** Her evanescent smile hinted at her fleeting thoughts.
 	- Synonyms
 		- ephemeral, fleeting, transitory
+<!--SR:!2025-10-29,4,270-->
 
 flamboyant
 ?
@@ -56,6 +62,7 @@ flamboyant
 	- **Ex.** His flamboyant attire always made him stand out in a crowd.
 	- Synonyms
 		- ostentatious, exuberant, theatrical
+<!--SR:!2025-10-29,4,270-->
 
 forestall
 ?
@@ -64,6 +71,7 @@ forestall
 	- **Ex.** He tried to forestall criticism by announcing his decision ahead of time.
 	- Synonyms
 		- preempt, thwart, impede
+<!--SR:!2025-10-29,4,270-->
 
 gainsay
 ?
@@ -72,6 +80,7 @@ gainsay
 	- **Ex.** It was difficult to gainsay her argument because her facts were well-researched.
 	- Synonyms
 		- controvert, repudiate, refute
+<!--SR:!2025-10-29,4,270-->
 
 galvanize
 ?
@@ -80,6 +89,7 @@ galvanize
 	- **Ex.** The stirring speech galvanized the crowd into action.
 	- Synonyms
 		- prod, rouse, invigorate
+<!--SR:!2025-10-29,4,270-->
 
 indiscriminate
 ?
@@ -88,6 +98,7 @@ indiscriminate
 	- **Ex.** The indiscriminate use of pesticides is harmful to the environment.
 	- Synonyms
 		- aimless, haphazard, blanket
+<!--SR:!2025-10-29,4,270-->
 
 innocuous
 ?
@@ -96,6 +107,7 @@ innocuous
 	- **Ex.** The joke was innocuous, meant to amuse rather than offend.
 	- Synonyms
 		- benign, innoxious, anodyne
+<!--SR:!2025-10-28,3,250-->
 
 momentary
 ?
@@ -104,6 +116,7 @@ momentary
 	- **Ex.** There was a momentary pause before the crowd erupted in applause.
 	- Synonyms
 		- transitory, evanescent, transient
+<!--SR:!2025-10-29,4,270-->
 
 mundane
 ?
@@ -112,6 +125,7 @@ mundane
 	- **Ex.** His daily routine consisted of mundane tasks like washing dishes and sweeping floors.
 	- Synonyms
 		- humdrum, tedious, prosaic
+<!--SR:!2025-10-29,4,270-->
 
 nettlesome
 ?
@@ -120,6 +134,7 @@ nettlesome
 	- **Ex.** His constant humming was a nettlesome habit.
 	- Synonyms
 		- trying, vexing, irksome
+<!--SR:!2025-10-29,4,270-->
 
 nullify
 ?
@@ -128,6 +143,7 @@ nullify
 	- **Ex.** The judge's decision could nullify the previous ruling.
 	- Synonyms
 		- annul, rescind, void
+<!--SR:!2025-10-29,4,270-->
 
 obviate
 ?
@@ -136,6 +152,7 @@ obviate
 	- **Ex.** His meticulous preparation obviated any risk of failure.
 	- Synonyms
 		- preclude, avert, rule out
+<!--SR:!2025-10-29,4,270-->
 
 omnipresent
 ?
@@ -144,6 +161,7 @@ omnipresent
 	- **Ex.** With the internet, information is now virtually omnipresent.
 	- Synonyms
 		- ubiquitous, universal, rife
+<!--SR:!2025-10-29,4,270-->
 
 oust
 ?
@@ -152,6 +170,7 @@ oust
 	- **Ex.** The board decided to oust the CEO after a series of scandals.
 	- Synonyms
 		- expel, depose, topple
+<!--SR:!2025-10-29,4,270-->
 
 palpable
 ?
@@ -160,6 +179,7 @@ palpable
 	- **Ex.** Her excitement was palpable as she opened the gift.
 	- Synonyms
 		- discernible, concrete, patent
+<!--SR:!2025-10-29,4,270-->
 
 perfidy
 ?
@@ -168,6 +188,7 @@ perfidy
 	- **Ex.** The king never forgave the perfidy of his trusted advisor.
 	- Synonyms
 		- treachery, duplicity, infidelity
+<!--SR:!2025-10-28,3,250-->
 
 profuse
 ?
@@ -176,6 +197,7 @@ profuse
 	- **Ex.** He offered his profuse thanks to everyone who supported him.
 	- Synonyms
 		- copious, prolific, ample
+<!--SR:!2025-10-28,3,250-->
 
 pugnacious
 ?
@@ -184,6 +206,7 @@ pugnacious
 	- **Ex.** His pugnacious demeanor often got him into heated debates.
 	- Synonyms
 		- belligerent, bellicose, truculent
+<!--SR:!2025-10-29,4,270-->
 
 sagacious
 ?
@@ -192,6 +215,7 @@ sagacious
 	- **Ex.** The sagacious investor rarely made a bad business decision.
 	- Synonyms
 		- astute, penetrating, perspicacious
+<!--SR:!2025-10-29,4,270-->
 
 sanguine
 ?
@@ -200,6 +224,7 @@ sanguine
 	- **Ex.** Despite the setbacks, she remained sanguine about their prospects for success.
 	- Synonyms
 		- bullish, buoyant, upbeat
+<!--SR:!2025-10-28,3,250-->
 
 scant
 ?
@@ -208,6 +233,7 @@ scant
 	- **Ex.** With scant resources, they managed to complete the project on time.
 	- Synonyms
 		- negligible, deficient, inadequate
+<!--SR:!2025-10-29,4,270-->
 
 skullduggery
 ?
@@ -216,6 +242,7 @@ skullduggery
 	- **Ex.** The election was rife with skullduggery and corruption.
 	- Synonyms
 		- swindling, unscrupulousness, chicanery
+<!--SR:!2025-10-28,3,250-->
 
 trivial
 ?
@@ -224,6 +251,7 @@ trivial
 	- **Ex.** They spent the whole meeting arguing about trivial matters.
 	- Synonyms
 		- inconsequential, frivolous, superficial
+<!--SR:!2025-10-29,4,270-->
 
 utilitarian
 ?
@@ -232,6 +260,7 @@ utilitarian
 	- **Ex.** The utilitarian design of the kitchen prioritized space and efficiency.
 	- Synonyms
 		- pragmatic, sensible, realistic
+<!--SR:!2025-10-29,4,270-->
 
 vapid
 ?
@@ -240,3 +269,4 @@ vapid
 	- **Ex.** The conversation was vapid and unstimulating, making him wish for an early exit.
 	- Synonyms
 		- insipid, anemic, dull
+<!--SR:!2025-10-29,4,270-->

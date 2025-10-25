@@ -8,7 +8,7 @@ antagonize
 	- **Ex.** His confrontational manner tended to antagonize his colleagues.
 	- Synonyms
 		- rile, incite, foment
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 barren
 ?
@@ -17,7 +17,7 @@ barren
 	- **Ex.** The desert is a barren landscape with little vegetation.
 	- Synonyms
 		- infertile, sterile, desolate
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-27,2,230-->
 
 bombastic
 ?
@@ -35,7 +35,7 @@ cajole
 	- **Ex.** She managed to cajole him into doing his homework.
 	- Synonyms
 		- lure, wheedle, coax
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 chary
 ?
@@ -44,7 +44,7 @@ chary
 	- **Ex.** She was chary of investing in the risky venture.
 	- Synonyms
 		- skeptical, dubious, heedful
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,1,250-->
 
 curmudgeon
 ?
@@ -53,7 +53,7 @@ curmudgeon
 	- **Ex.** The old curmudgeon grumbled daily, resisting the village's progressive changes.
 	- Synonyms
 		- crank, sourpuss, crosspatch
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 dirge
 ?
@@ -62,7 +62,7 @@ dirge
 	- **Ex.** The choir sang a dirge to honor the deceased.
 	- Synonyms
 		- requiem, lament, elegy
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 estimable
 ?
@@ -71,7 +71,7 @@ estimable
 	- **Ex.** His estimable talents were recognized by all.
 	- Synonyms
 		- venerable, laudable, commendable
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 euphemism
 ?
@@ -89,7 +89,7 @@ excoriate
 	- **Ex.** The film was excoriated by critics for its shallow plot.
 	- Synonyms
 		- censure, denounce, blast
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 exigent
 ?
@@ -98,7 +98,7 @@ exigent
 	- **Ex.** The patient's condition was exigent, demanding instant medical attention.
 	- Synonyms
 		- pressing, dire, acute
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 haughty
 ?
@@ -107,7 +107,7 @@ haughty
 	- **Ex.** She gave him a haughty look, dismissing his suggestion.
 	- Synonyms
 		- disdainful, lofty, scornful
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 heady
 ?
@@ -125,7 +125,7 @@ imperturbable
 	- **Ex.** Even during the crisis, she remained imperturbable.
 	- Synonyms
 		- unruffled, serene, composed
-<!--SR:!2025-10-25,1,226-->
+<!--SR:!2025-10-27,2,226-->
 
 implacable
 ?
@@ -152,7 +152,7 @@ miscreant
 	- **Ex.** The security caught the miscreant trying to steal.
 	- Synonyms
 		- culprit, malefactor, delinquent
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 peccadillo
 ?
@@ -161,7 +161,7 @@ peccadillo
 	- **Ex.** Though a peccadillo in some eyes, he couldn't overlook her tardiness.
 	- Synonyms
 		- delinquency, misdeed, misdemeanor
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 philistine
 ?
@@ -170,7 +170,7 @@ philistine
 	- **Ex.** The art community considered him a philistine because of his disdain for modern art.
 	- Synonyms
 		- materialist, lowbrow, boor
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 relegate
 ?
@@ -179,7 +179,7 @@ relegate
 	- **Ex.** The old software was relegated to the back shelf.
 	- Synonyms
 		- demote, disrate, banish
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 repugnant
 ?
@@ -188,7 +188,7 @@ repugnant
 	- **Ex.** The idea of cheating was repugnant to her.
 	- Synonyms
 		- repellent, abhorrent, loathsome
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 sentimental
 ?
@@ -233,7 +233,7 @@ turpitude
 	- **Ex.** The judge condemned the criminal's life of turpitude.
 	- Synonyms
 		- depravity, vice, villainy
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 unalloyed
 ?
@@ -242,7 +242,7 @@ unalloyed
 	- **Ex.** His happiness was unalloyed when he heard the good news.
 	- Synonyms
 		- genuine, authentic, pristine
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 undercut
 ?
@@ -251,7 +251,7 @@ undercut
 	- **Ex.** The store undercuts its competitors to attract more customers.
 	- Synonyms
 		- diminish, debilitate, sabotage
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 wheedle
 ?
@@ -260,7 +260,7 @@ wheedle
 	- **Ex.** She tried to wheedle her dad into buying her a new phone.
 	- Synonyms
 		- coax, cajole, lure
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 xenophobic
 ?
@@ -269,4 +269,4 @@ xenophobic
 	- **Ex.** His xenophobic attitudes were not appreciated in the multicultural city.
 	- Synonyms
 		- prejudiced, jingoistic, bigoted
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->

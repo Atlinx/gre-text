@@ -35,7 +35,7 @@ callow
 	- **Ex.** The callow intern made several mistakes on his first day.
 	- Synonyms
 		- jejune, guileless, artless
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 capitulate
 ?
@@ -53,7 +53,7 @@ cogitate
 	- **Ex.** He took a moment to cogitate before answering the question.
 	- Synonyms
 		- contemplate, ruminate on, mull over
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 deportment
 ?
@@ -62,7 +62,7 @@ deportment
 	- **Ex.** His deportment at the formal event was impeccable.
 	- Synonyms
 		- conduct, etiquette, habits
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-28,3,250-->
 
 extemporize
 ?
@@ -71,7 +71,7 @@ extemporize
 	- **Ex.** The musician had to extemporize when she forgot her sheet music.
 	- Synonyms
 		- ad-lib, wing it, play it by ear
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 factious
 ?
@@ -80,7 +80,7 @@ factious
 	- **Ex.** The factious debate split the committee in two.
 	- Synonyms
 		- schismatic, discordant, sectarian
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 fallow
 ?
@@ -94,7 +94,7 @@ fallow
 	- **Ex.** Those were the fallow periods of my life when I accomplished very little.
 	- Synonyms
 		- dormant, idle, slack
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 feint
 ?
@@ -112,7 +112,7 @@ flagrant
 	- **Ex.** His flagrant disregard for the rules earned him a suspension.
 	- Synonyms
 		- egregious, glaring, overt
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 gratuitous
 ?
@@ -139,7 +139,7 @@ indecorous
 	- **Ex.** It was indecorous to make such a joke at a funeral.
 	- Synonyms
 		- unbecoming, indelicate, wanton
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 intrigue
 ?
@@ -153,7 +153,7 @@ intrigue
 	- **Ex.** Books use salacious titles to intrigue readers.
 	- Synonyms
 		- tempt, tantalize, lure
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 nominal
 ?
@@ -167,7 +167,7 @@ nominal
 	- **Ex.** Julie's parents provided her with only a nominal allowance.
 	- Synonyms
 		- minute, token, trifling
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 obdurate
 ?
@@ -176,7 +176,7 @@ obdurate
 	- **Ex.** His obdurate refusal to listen was frustrating.
 	- Synonyms
 		- obstinate, intransigent, intractable
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 obstreperous
 ?
@@ -185,7 +185,7 @@ obstreperous
 	- **Ex.** The obstreperous child disrupted the entire classroom.
 	- Synonyms
 		- boisterous, disruptive, rowdy
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 odious
 ?
@@ -194,7 +194,7 @@ odious
 	- **Ex.** The odious crime shocked the community.
 	- Synonyms
 		- detestable, abhorrent, revolting
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 plucky
 ?
@@ -203,7 +203,7 @@ plucky
 	- **Ex.** The plucky underdog team won the championship.
 	- Synonyms
 		- intrepid, valiant, spirited
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 precocious
 ?
@@ -212,7 +212,7 @@ precocious
 	- **Ex.** The precocious child was reading novels at age five.
 	- Synonyms
 		- gifted, brilliant, mature
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 remuneration
 ?
@@ -221,7 +221,7 @@ remuneration
 	- **Ex.** He received remuneration for his consulting services.
 	- Synonyms
 		- stipend, remittance, recompense
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 slovenly
 ?
@@ -244,7 +244,7 @@ soliloquy
 	- **Ex.** Hamlet's "To be or not to be" is a famous soliloquy.
 	- Synonyms
 		- monologue, oration, sermon
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 spurn
 ?
@@ -253,7 +253,7 @@ spurn
 	- **Ex.** She spurned his advances, making her feelings clear.
 	- Synonyms
 		- repudiate, rebuff, scorn
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 stolid
 ?
@@ -262,7 +262,7 @@ stolid
 	- **Ex.** His stolid demeanor made it hard to read his feelings.
 	- Synonyms
 		- phlegmatic, stoic, impassive
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 temerity
 ?
@@ -271,7 +271,7 @@ temerity
 	- **Ex.** She had the temerity to challenge the established norms.
 	- Synonyms
 		- nerve, effrontery, cheek
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-28,3,250-->
 
 tenuous
 ?
@@ -289,4 +289,4 @@ verve
 	- **Ex.** She performed the dance with unmatched verve and passion.
 	- Synonyms
 		- buoyancy, elan, vitality
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->

@@ -31,7 +31,7 @@ appropriate
 	- **Ex.** The dress was appropriate for the formal evening gala event.
 	- Synonyms
 		- proper, apt, pertinent
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 archetype
 ?
@@ -94,7 +94,7 @@ conspire
 	- **Ex.** They conspired to steal the artwork.
 	- Synonyms
 		- collude, intrigue, plot
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 delineate
 ?
@@ -112,7 +112,7 @@ disentangle
 	- **Ex.** He tried to disentangle the truth from the lies.
 	- Synonyms
 		- extricate, extract, unravel
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 exhort
 ?
@@ -121,7 +121,7 @@ exhort
 	- **Ex.** The speaker exhorted the audience to take action.
 	- Synonyms
 		- adjure, enjoin, pressure
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 frailty
 ?
@@ -130,7 +130,7 @@ frailty
 	- **Ex.** The frailty of the bridge was evident.
 	- Synonyms
 		- feebleness, incapacity, fragility
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 grievance
 ?
@@ -139,7 +139,7 @@ grievance
 	- **Ex.** The workers had several grievances.
 	- Synonyms
 		- complaint, objection, protest
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 harangue
 ?
@@ -166,7 +166,7 @@ poise
 	- **Ex.** She handled the situation with great poise.
 	- Synonyms
 		- phlegm, equanimity, composure
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 pomposity
 ?
@@ -175,7 +175,7 @@ pomposity
 	- **Ex.** His speech was filled with pomposity.
 	- Synonyms
 		- imperiousness, bombast, grandiosity
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 proxy
 ?
@@ -207,7 +207,7 @@ rhetoric
 	- **Ex.** The president's rhetoric appealed to many.
 	- Synonyms
 		- eloquence, oratory, diction
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 rigor
 ?
@@ -216,7 +216,7 @@ rigor
 	- **Ex.** The rigor of the testing process was intense.
 	- Synonyms
 		- comprehensive, demanding, harsh
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 sparse
 ?
@@ -252,7 +252,7 @@ tedious
 	- **Ex.** The lecture was tedious and boring.
 	- Synonyms
 		- monotonous, humdrum, mundane
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-05,11,270-->
 
 vitality
 ?
@@ -289,4 +289,4 @@ yield
 	- **Ex.** Despite his initial resistance, he eventually yielded to their requests.
 	- Synonyms
 		- relent, submit, capitulate
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->

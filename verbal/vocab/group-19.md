@@ -26,7 +26,7 @@ base
 	- **Ex.** Using someone's vulnerability for personal gain is a base act.
 	- Synonyms
 		- sordid, wicked, iniquitous
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-27,2,230-->
 
 coercion
 ?
@@ -76,7 +76,7 @@ dissent
 	- **Ex.** There was a lot of dissent about the new policy among employees.
 	- Synonyms
 		- dispute, defiance, friction
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-05,11,270-->
 
 distill
 ?
@@ -99,7 +99,7 @@ dubious
 	- **Ex.** The origins of the artifact remain dubious.
 	- Synonyms
 		- suspect, unreliable, indeterminate
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 ebullient
 ?
@@ -108,7 +108,7 @@ ebullient
 	- **Ex.** The ebullient child was always ready to play.
 	- Synonyms
 		- buoyant, exuberant, jaunty
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 facetious
 ?
@@ -117,7 +117,7 @@ facetious
 	- **Ex.** His facetious remarks were not well-received at the funeral.
 	- Synonyms
 		- flippant, glib, waggish
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 fallible
 ?
@@ -126,7 +126,7 @@ fallible
 	- **Ex.** As humans, we are all fallible and make mistakes.
 	- Synonyms
 		- errant, flawed, error-prone
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 florid
 ?
@@ -153,7 +153,7 @@ inveigle
 	- **Ex.** She managed to inveigle him into doing her work for her.
 	- Synonyms
 		- coax, wheedle, cajole
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-26,1,210-->
 
 jettison
 ?
@@ -162,7 +162,7 @@ jettison
 	- **Ex.** The crew jettisoned excess cargo to lighten the aircraft.
 	- Synonyms
 		- cast aside, dispose of, relinquish
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 mendacity
 ?
@@ -180,7 +180,7 @@ munificent
 	- **Ex.** The munificent donation allowed the hospital to build a new wing.
 	- Synonyms
 		- beneficent, philanthropic, bountiful
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-26,1,210-->
 
 naive
 ?
@@ -189,7 +189,7 @@ naive
 	- **Ex.** Her naive assumption was that everyone would play fair.
 	- Synonyms
 		- callow, gullible, ingenuous
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-05,11,270-->
 
 noble
 ?
@@ -198,7 +198,7 @@ noble
 	- **Ex.** He made the noble decision to donate all his winnings to charity.
 	- Synonyms
 		- virtuous, upright, righteous
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-27,2,230-->
 
 parochial
 ?
@@ -207,7 +207,7 @@ parochial
 	- **Ex.** The curriculum was criticized for its parochial viewpoint.
 	- Synonyms
 		- myopic, insular, provincial
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-11-01,7,250-->
 
 pedestrian
 ?
@@ -216,7 +216,7 @@ pedestrian
 	- **Ex.** Critics described the play as pedestrian and uninspiring.
 	- Synonyms
 		- dull, plodding, tedious
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->
 
 prevaricate
 ?
@@ -225,7 +225,7 @@ prevaricate
 	- **Ex.** He would always prevaricate when asked about his past.
 	- Synonyms
 		- equivocate, waver, fence
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-28,3,250-->
 
 prime
 ?
@@ -262,7 +262,7 @@ recrudescent
 	- **Ex.** There are fears of a recrudescent epidemic.
 	- Synonyms
 		- resurgent, renewed, rekindled
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 temporal
 ?
@@ -294,4 +294,4 @@ viable
 	- **Ex.** With limited funds, only a few options are viable.
 	- Synonyms
 		- attainable, realizable, practical
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->

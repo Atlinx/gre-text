@@ -35,7 +35,7 @@ canny
 	- **Ex.** Her canny investments made her a millionaire.
 	- Synonyms
 		- astute, discerning, acute
-<!--SR:!2025-10-25,4,270-->
+<!--SR:!2025-11-06,12,270-->
 
 cavalier
 ?
@@ -71,7 +71,7 @@ eclipse
 	- **Ex.** The success of her latest book eclipsed all her previous works.
 	- Synonyms
 		- outshine, outstrip, upstage
-<!--SR:!2025-10-25,4,270-->
+<!--SR:!2025-11-10,16,290-->
 
 encyclopedic
 ?
@@ -80,7 +80,7 @@ encyclopedic
 	- **Ex.** His encyclopedic knowledge of history impressed everyone.
 	- Synonyms
 		- exhaustive, wide-ranging, all-inclusive
-<!--SR:!2025-10-25,4,270-->
+<!--SR:!2025-11-08,14,290-->
 
 exacerbate
 ?
@@ -116,7 +116,7 @@ hackneyed
 	- **Ex.** "Love at first sight" is a hackneyed plot in romance novels.
 	- Synonyms
 		- trite, banal, pedestrian
-<!--SR:!2025-10-25,1,250-->
+<!--SR:!2025-10-28,3,250-->
 
 incongruous
 ?
@@ -134,7 +134,7 @@ interchangeable
 	- **Ex.** The parts are interchangeable between the different models.
 	- Synonyms
 		- fungible, uniform, homogeneous
-<!--SR:!2025-10-25,4,270-->
+<!--SR:!2025-11-09,15,290-->
 
 laconic
 ?

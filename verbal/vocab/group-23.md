@@ -8,7 +8,7 @@ allusive
 	- **Ex.** His allusive remarks during the speech left many intrigued about the hidden meaning.
 	- Synonyms
 		- connotative, implied, figurative
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 astute
 ?
@@ -35,7 +35,7 @@ convalescent
 	- **Ex.** After the surgery, she spent two weeks in a convalescent state.
 	- Synonyms
 		- recuperating, improving, on the mend
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 curb
 ?
@@ -80,7 +80,7 @@ fawn
 	- **Ex.** He fawned over the director in hopes of getting the lead role.
 	- Synonyms
 		- pander to, dote on, flatter
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 fret
 ?
@@ -139,7 +139,7 @@ languid
 	- **Ex.** Her languid demeanor revealed the toll the disease had taken on her strength.
 	- Synonyms
 		- sickly, flagging, debilitated
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 lull
 ?
@@ -162,7 +162,7 @@ mettlesome
 	- **Ex.** The mettlesome horse faced the challenge with energy.
 	- Synonyms
 		- hardy, tenacious, plucky
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 mollify
 ?
@@ -189,7 +189,7 @@ nonplussed
 	- **Ex.** He was nonplussed by the sudden change of plans.
 	- Synonyms
 		- bewildered, bemused, discomposed
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 precipitous
 ?
@@ -203,7 +203,7 @@ precipitous
 	- **Ex.** His precipitous decision to quit left the team in a challenging situation.
 	- Synonyms
 		- hasty, rash, impetuous
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 pretentious
 ?
@@ -244,7 +244,7 @@ recourse
 	- **Ex.** When negotiations failed, they had no recourse but to leave.
 	- Synonyms
 		- resort, expedient, refuge
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 refute
 ?

@@ -72,7 +72,7 @@ distort
 	- **Ex.** The article distorts the truth to push an agenda.
 	- Synonyms
 		- manipulate, skew, warp
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 divergent
 ?
@@ -90,7 +90,7 @@ elated
 	- **Ex.** She was elated after getting the promotion.
 	- Synonyms
 		- ecstatic, jubilant, euphoric
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 enchant
 ?
@@ -198,7 +198,7 @@ propriety
 	- **Ex.** In the royal court, one had to act with the utmost propriety.
 	- Synonyms
 		- decorum, etiquette, discretion
-<!--SR:!2025-10-25,1,190-->
+<!--SR:!2025-10-27,2,190-->
 
 scintillating
 ?
@@ -207,7 +207,7 @@ scintillating
 	- **Ex.** She gave a scintillating performance on stage.
 	- Synonyms
 		- vivacious, dazzling, coruscating
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 sensational
 ?
@@ -230,7 +230,7 @@ sophisticated
 	- **Ex.** The laboratory uses sophisticated equipment to analyze DNA samples.
 	- Synonyms
 		- revolutionary, elaborate, trailblazing
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 strife
 ?
@@ -248,7 +248,7 @@ understated
 	- **Ex.** His understated charm was often more appealing than overt gestures.
 	- Synonyms
 		- reserved, modest, discreet
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 unscrupulous
 ?
@@ -275,7 +275,7 @@ virulent
 	- **Ex.** The article had a virulent tone, attacking everyone with a differing opinion.
 	- Synonyms
 		- vitriolic, malevolent, spiteful
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 volatile
 ?

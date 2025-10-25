@@ -8,7 +8,7 @@ abeyance
 	- **Ex.** The project was held in abeyance until more funds became available.
 	- Synonyms
 		- remission, moratorium, dormancy
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-28,3,250-->
 
 abstract
 ?
@@ -31,7 +31,7 @@ affront
 	- **Ex.** He took his friend's comment as an affront to his character.
 	- Synonyms
 		- snub, slur, malign
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-26,1,208-->
 
 agitate
 ?
@@ -40,7 +40,7 @@ agitate
 	- **Ex.** The thought of speaking in public really agitates her.
 	- Synonyms
 		- ruffle, incite, faze
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 august
 ?
@@ -49,7 +49,7 @@ august
 	- **Ex.** The august institution has stood for centuries as a beacon of knowledge.
 	- Synonyms
 		- venerable, eminent, majestic
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 burnish
 ?
@@ -58,7 +58,7 @@ burnish
 	- **Ex.** She worked hard to burnish her skills, ensuring she was recognized as a top expert in her field.
 	- Synonyms
 		- polish, refine, ameliorate
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-28,3,248-->
 
 coy
 ?
@@ -67,7 +67,7 @@ coy
 	- **Ex.** She gave him a coy smile across the room.
 	- Synonyms
 		- demure, reticent, timid
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 deprecate
 ?
@@ -85,7 +85,7 @@ disdain
 	- **Ex.** He looked at the broken watch with disdain, wondering why anyone would keep it.
 	- Synonyms
 		- contempt, scorn, hauteur
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->
 
 disperse
 ?
@@ -103,7 +103,7 @@ distend
 	- **Ex.** The balloon began to distend as it was filled with air.
 	- Synonyms
 		- bulge, dilate, bloat
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 endemic
 ?
@@ -130,7 +130,7 @@ gauche
 	- **Ex.** His gauche comment about her dress made the evening uncomfortable.
 	- Synonyms
 		- inelegant, gawky, unrefined
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 hysterical
 ?
@@ -148,7 +148,7 @@ impudent
 	- **Ex.** The student's impudent behavior got him sent to the principal's office.
 	- Synonyms
 		- brazen, insolent, flippant
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 inchoate
 ?
@@ -157,7 +157,7 @@ inchoate
 	- **Ex.** Their plans for the business were still inchoate.
 	- Synonyms
 		- nascent, incipient, preliminary
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-26,1,230-->
 
 penchant
 ?
@@ -193,7 +193,7 @@ quash
 	- **Ex.** The judge decided to quash the case due to a lack of evidence.
 	- Synonyms
 		- rescind, quell, subdue
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-28,3,248-->
 
 quibble
 ?
@@ -202,7 +202,7 @@ quibble
 	- **Ex.** Let's not quibble over such minor details.
 	- Synonyms
 		- nitpick, pettifog, cavil
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 ravage
 ?
@@ -220,7 +220,7 @@ recant
 	- **Ex.** Under pressure, he recanted his statement.
 	- Synonyms
 		- abjure, disown, renege
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 redoubtable
 ?
@@ -229,7 +229,7 @@ redoubtable
 	- **Ex.** The chess champion was a redoubtable adversary.
 	- Synonyms
 		- imposing, awe-inspiring, daunting
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-27,2,228-->
 
 retiring
 ?
@@ -238,7 +238,7 @@ retiring
 	- **Ex.** Despite being a brilliant scientist, she was a retiring individual who shunned the limelight.
 	- Synonyms
 		- bashful, reclusive, timorous
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-26,1,230-->
 
 shrill
 ?
@@ -256,7 +256,7 @@ sophistry
 	- **Ex.** The politician's speech was pure sophistry, lacking genuine solutions.
 	- Synonyms
 		- casuistry, fallacy, paralogism
-<!--SR:!2025-10-25,1,228-->
+<!--SR:!2025-10-26,1,208-->
 
 substantiate
 ?

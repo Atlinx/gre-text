@@ -103,7 +103,7 @@ enthrall
 	- **Ex.** The magician's tricks enthralled the audience.
 	- Synonyms
 		- enchant, bewitch, beguile
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->
 
 eradicate
 ?
@@ -184,7 +184,7 @@ magnanimous
 	- **Ex.** She was magnanimous in victory, praising her opponent's effort.
 	- Synonyms
 		- benevolent, beneficent, munificent
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 meritorious
 ?

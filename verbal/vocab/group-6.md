@@ -13,6 +13,7 @@ admonish
 	- **Ex.** The teacher admonished her class to submit their college applications on time.
 	- Synonyms
 		- advise, urge, counsel
+<!--SR:!2025-10-28,3,250-->
 
 aesthetic
 ?
@@ -21,6 +22,7 @@ aesthetic
 	- **Ex.** She has an aesthetic sense of fashion that always impresses her friends.
 	- Synonyms
 		- ornamental, decorative, stylish
+<!--SR:!2025-10-28,3,250-->
 
 affectation
 ?
@@ -29,6 +31,7 @@ affectation
 	- **Ex.** His French accent was an affectation as he had never been to France.
 	- Synonyms
 		- artificiality, posturing, airs
+<!--SR:!2025-10-26,1,230-->
 
 alleviate
 ?
@@ -37,6 +40,7 @@ alleviate
 	- **Ex.** Taking a warm bath can alleviate the symptoms of a cold.
 	- Synonyms
 		- relieve, allay, temper
+<!--SR:!2025-10-28,3,250-->
 
 analogous
 ?
@@ -45,6 +49,7 @@ analogous
 	- **Ex.** The relationship between a painter and canvas is analogous to a writer and the blank page.
 	- Synonyms
 		- parallel, kindred, equivalent
+<!--SR:!2025-10-28,3,250-->
 
 bolster
 ?
@@ -53,6 +58,7 @@ bolster
 	- **Ex.** She brought her best friend along to bolster her confidence.
 	- Synonyms
 		- reinforce, fortify, prop up
+<!--SR:!2025-10-28,3,250-->
 
 chauvinistic
 ?
@@ -61,6 +67,7 @@ chauvinistic
 	- **Ex.** His chauvinistic pride in his country blinded him to its flaws.
 	- Synonyms
 		- nationalistic, jingoistic, prejudiced
+<!--SR:!2025-10-28,3,250-->
 
 connoisseur
 ?
@@ -69,6 +76,7 @@ connoisseur
 	- **Ex.** As a connoisseur of fine wines, he was asked to select the vintages for the royal dinner.
 	- Synonyms
 		- aficionado, savant, enthusiast
+<!--SR:!2025-10-28,3,250-->
 
 dissemble
 ?
@@ -77,6 +85,7 @@ dissemble
 	- **Ex.** Despite his anger, he had to dissemble in order to maintain his composure.
 	- Synonyms
 		- feign, masquerade, bluff
+<!--SR:!2025-10-28,3,250-->
 
 dogged
 ?
@@ -85,6 +94,7 @@ dogged
 	- **Ex.** Despite the challenges, she pursued her goal with dogged determination.
 	- Synonyms
 		- resolved, pertinacious, unflagging
+<!--SR:!2025-10-29,4,270-->
 
 dupe
 ?
@@ -93,6 +103,7 @@ dupe
 	- **Ex.** He was duped into signing the contract without reading the fine print.
 	- Synonyms
 		- hoodwink, deceive, swindle
+<!--SR:!2025-10-28,3,250-->
 
 empirical
 ?
@@ -101,6 +112,7 @@ empirical
 	- **Ex.** Her empirical research provided data that supported her hypothesis.
 	- Synonyms
 		- factual, verifiable, experimental
+<!--SR:!2025-10-28,3,250-->
 
 engender
 ?
@@ -109,6 +121,7 @@ engender
 	- **Ex.** The politician's controversial statement engendered a wave of criticism.
 	- Synonyms
 		- give rise to, induce, provoke
+<!--SR:!2025-10-29,4,270-->
 
 entitled
 ?
@@ -117,6 +130,7 @@ entitled
 	- **Ex.** His entitled attitude put off his colleagues.
 	- Synonyms
 		- spoiled, arrogant, pompous
+<!--SR:!2025-10-28,3,250-->
 
 pertinacious
 ?
@@ -125,6 +139,7 @@ pertinacious
 	- **Ex.** Her pertinacious efforts to get the law changed eventually paid off.
 	- Synonyms
 		- assiduous, resolute, dogged
+<!--SR:!2025-10-26,1,230-->
 
 presumptuous
 ?
@@ -133,6 +148,7 @@ presumptuous
 	- **Ex.** It would be presumptuous of me to comment on the matter without knowing all the facts.
 	- Synonyms
 		- brazen, arrogant, audacious
+<!--SR:!2025-10-29,4,270-->
 
 probity
 ?
@@ -141,6 +157,7 @@ probity
 	- **Ex.** His reputation for probity in all aspects of his life is well known.
 	- Synonyms
 		- integrity, rectitude, virtue
+<!--SR:!2025-10-26,1,230-->
 
 proliferate
 ?
@@ -149,6 +166,7 @@ proliferate
 	- **Ex.** Once introduced to the lake, the non-native species began to proliferate.
 	- Synonyms
 		- snowball, skyrocket, burgeon
+<!--SR:!2025-10-29,4,270-->
 
 specious
 ?
@@ -157,6 +175,7 @@ specious
 	- **Ex.** Her argument, though specious, convinced many people due to her charisma.
 	- Synonyms
 		- misleading, deceptive, fallacious
+<!--SR:!2025-10-28,3,250-->
 
 spurious
 ?
@@ -165,6 +184,7 @@ spurious
 	- **Ex.** The art dealer could tell immediately that the painting was spurious.
 	- Synonyms
 		- specious, sham, contrived
+<!--SR:!2025-10-29,4,270-->
 
 subjective
 ?
@@ -173,6 +193,7 @@ subjective
 	- **Ex.** Art is highly subjective, with beauty truly lying in the eyes of the beholder.
 	- Synonyms
 		- instinctive, intuitive, biased
+<!--SR:!2025-10-28,3,250-->
 
 subvert
 ?
@@ -181,6 +202,7 @@ subvert
 	- **Ex.** The rebel's plan was to subvert the government by spreading propaganda.
 	- Synonyms
 		- destabilize, sabotage, undercut
+<!--SR:!2025-10-28,3,250-->
 
 timorous
 ?
@@ -189,6 +211,7 @@ timorous
 	- **Ex.** The timorous rabbit hid in its burrow at the sound of a human voice.
 	- Synonyms
 		- quaking, self-effacing, unassuming
+<!--SR:!2025-10-28,3,250-->
 
 tortuous
 ?
@@ -202,6 +225,7 @@ tortuous
 	- **Ex.** The tortuous legal process left everyone exhausted and confused.
 	- Synonyms
 		- convoluted, involved, circuitous
+<!--SR:!2025-10-29,4,270-->
 
 tractable
 ?
@@ -215,6 +239,7 @@ tractable
 	- **Ex.** Once it was thoroughly investigated, the problem proved to be not so tractable.
 	- Synonyms
 		- manageable, fixable, crackable
+<!--SR:!2025-10-28,3,250-->
 
 transient
 ?
@@ -223,6 +248,7 @@ transient
 	- **Ex.** The rainbow is a transient spectacle, fading away soon after it appears.
 	- Synonyms
 		- ephemeral, fleeting, evanescent
+<!--SR:!2025-10-29,4,270-->
 
 ubiquitous
 ?
@@ -231,6 +257,7 @@ ubiquitous
 	- **Ex.** The influence of technology is ubiquitous in the modern world.
 	- Synonyms
 		- omnipresent, pervasive, universal
+<!--SR:!2025-10-28,3,250-->
 
 underscore
 ?
@@ -239,6 +266,7 @@ underscore
 	- **Ex.** The accident underscores the danger of driving while distracted.
 	- Synonyms
 		- highlight, accentuate, foreground
+<!--SR:!2025-10-29,4,270-->
 
 venal
 ?
@@ -247,6 +275,7 @@ venal
 	- **Ex.** The venal politician was found guilty of taking bribes.
 	- Synonyms
 		- grafting, unscrupulous, mercenary
+<!--SR:!2025-10-28,3,250-->
 
 venerate
 ?
@@ -255,3 +284,4 @@ venerate
 	- **Ex.** In many cultures, ancestors are venerated and considered sources of wisdom.
 	- Synonyms
 		- adulate, hallow, deify
+<!--SR:!2025-10-28,3,250-->

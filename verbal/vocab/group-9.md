@@ -8,6 +8,7 @@ boorish
 	- **Ex.** His boorish behavior at the dinner party embarrassed his wife.
 	- Synonyms
 		- coarse, uncouth, discourteous
+<!--SR:!2025-10-28,3,250-->
 
 brook
 ?
@@ -16,6 +17,7 @@ brook
 	- **Ex.** She would not brook any interruptions during her presentation.
 	- Synonyms
 		- abide, stand, stomach
+<!--SR:!2025-10-29,4,270-->
 
 circumspect
 ?
@@ -24,6 +26,7 @@ circumspect
 	- **Ex.** She was circumspect about sharing personal information at work.
 	- Synonyms
 		- wary, chary, guarded
+<!--SR:!2025-10-26,1,230-->
 
 comity
 ?
@@ -32,6 +35,7 @@ comity
 	- **Ex.** The neighboring countries maintained comity through years of potential conflicts.
 	- Synonyms
 		- amicability, civility, goodwill
+<!--SR:!2025-10-29,4,270-->
 
 commensurate
 ?
@@ -40,6 +44,7 @@ commensurate
 	- **Ex.** His salary increase was commensurate with his additional responsibilities.
 	- Synonyms
 		- equivalent, corresponding, proportional to
+<!--SR:!2025-10-29,4,270-->
 
 cordial
 ?
@@ -48,6 +53,7 @@ cordial
 	- **Ex.** They shared a cordial handshake, signaling a positive start to the negotiations.
 	- Synonyms
 		- amiable, affectionate, genial
+<!--SR:!2025-10-28,3,250-->
 
 deleterious
 ?
@@ -56,6 +62,7 @@ deleterious
 	- **Ex.** Smoking has a deleterious effect on lung health.
 	- Synonyms
 		- inimical, adverse, injurious
+<!--SR:!2025-10-29,4,270-->
 
 dichotomy
 ?
@@ -64,6 +71,7 @@ dichotomy
 	- **Ex.** The dichotomy between urban and rural lifestyles was evident in the debate.
 	- Synonyms
 		- chasm, disjunction, polarity
+<!--SR:!2025-10-28,3,250-->
 
 edify
 ?
@@ -72,6 +80,7 @@ edify
 	- **Ex.** The seminar aimed to edify attendees about environmental conservation.
 	- Synonyms
 		- educate, cultivate, indoctrinate
+<!--SR:!2025-10-29,4,270-->
 
 elicit
 ?
@@ -80,6 +89,7 @@ elicit
 	- **Ex.** The interviewer's question managed to elicit a candid reply from the celebrity.
 	- Synonyms
 		- evoke, draw out, induce
+<!--SR:!2025-10-28,3,250-->
 
 erudite
 ?
@@ -88,6 +98,7 @@ erudite
 	- **Ex.** The professor was an erudite scholar who authored several renowned papers.
 	- Synonyms
 		- learned, scholarly, intellectual
+<!--SR:!2025-10-28,3,250-->
 
 fecund
 ?
@@ -96,6 +107,7 @@ fecund
 	- **Ex.** The fecund soil of the valley yielded bountiful harvests.
 	- Synonyms
 		- fruitful, prolific, thriving
+<!--SR:!2025-10-28,3,250-->
 
 feeble
 ?
@@ -104,6 +116,7 @@ feeble
 	- **Ex.** After his illness, he felt too feeble to go for a walk.
 	- Synonyms
 		- frail, sickly, enfeebled
+<!--SR:!2025-10-29,4,270-->
 
 felicitous
 ?
@@ -117,6 +130,7 @@ felicitous
 	- **Ex.** The team's victory came at a felicitous time, boosting morale when it was needed the most.
 	- Synonyms
 		- fortunate, encouraging, favorable
+<!--SR:!2025-10-26,1,230-->
 
 forbear
 ?
@@ -125,6 +139,7 @@ forbear
 	- **Ex.** She chose to forbear commenting until she had all the facts.
 	- Synonyms
 		- eschew, desist, shun
+<!--SR:!2025-10-28,3,250-->
 
 haphazard
 ?
@@ -133,6 +148,7 @@ haphazard
 	- **Ex.** The files were arranged in a haphazard manner, making it hard to locate anything.
 	- Synonyms
 		- unsystematic, indiscriminate, arbitrary
+<!--SR:!2025-10-29,4,270-->
 
 hodgepodge
 ?
@@ -141,6 +157,7 @@ hodgepodge
 	- **Ex.** His bedroom was a hodgepodge of posters, books, and random trinkets.
 	- Synonyms
 		- melange, jumble, medley
+<!--SR:!2025-10-28,3,250-->
 
 impede
 ?
@@ -149,6 +166,7 @@ impede
 	- **Ex.** The fallen tree was large enough to impede traffic for hours.
 	- Synonyms
 		- curb, hamper, check
+<!--SR:!2025-10-29,4,270-->
 
 impetuous
 ?
@@ -157,6 +175,7 @@ impetuous
 	- **Ex.** His impetuous decision to buy the car led to some financial troubles.
 	- Synonyms
 		- impulsive, reckless, foolhardy
+<!--SR:!2025-10-28,3,250-->
 
 irascible
 ?
@@ -165,6 +184,7 @@ irascible
 	- **Ex.** The old man was known for his irascible temper, especially in the mornings.
 	- Synonyms
 		- snappish, waspish, surly
+<!--SR:!2025-10-28,3,250-->
 
 mercenary
 ?
@@ -173,6 +193,7 @@ mercenary
 	- **Ex.** His mercenary approach to business left him with few loyal friends.
 	- Synonyms
 		- grasping, avaricious, rapacious
+<!--SR:!2025-10-29,4,270-->
 
 meticulous
 ?
@@ -181,6 +202,7 @@ meticulous
 	- **Ex.** Her meticulous notes helped her excel in exams.
 	- Synonyms
 		- scrupulous, punctilious, painstaking
+<!--SR:!2025-10-28,3,250-->
 
 mordant
 ?
@@ -189,6 +211,7 @@ mordant
 	- **Ex.** His mordant wit often left others feeling a bit stung.
 	- Synonyms
 		- trenchant, caustic, acerbic
+<!--SR:!2025-10-28,3,250-->
 
 outstrip
 ?
@@ -197,6 +220,7 @@ outstrip
 	- **Ex.** The new product quickly outstripped its competitors in terms of sales.
 	- Synonyms
 		- outpace, overshadow, eclipse
+<!--SR:!2025-10-28,3,250-->
 
 precarious
 ?
@@ -205,6 +229,7 @@ precarious
 	- **Ex.** The hiker found himself in a precarious position on the mountain's edge.
 	- Synonyms
 		- insecure, perilous, treacherous
+<!--SR:!2025-10-29,4,270-->
 
 quirky
 ?
@@ -213,6 +238,7 @@ quirky
 	- **Ex.** Her quirky fashion sense always made her stand out.
 	- Synonyms
 		- eccentric, unorthodox, idiosyncratic
+<!--SR:!2025-10-28,3,250-->
 
 repudiate
 ?
@@ -221,6 +247,7 @@ repudiate
 	- **Ex.** The politician was quick to repudiate the rumors about his past.
 	- Synonyms
 		- forswear, rebut, disavow
+<!--SR:!2025-10-29,4,270-->
 
 tact
 ?
@@ -229,6 +256,7 @@ tact
 	- **Ex.** She showed great tact when mediating the argument between her friends.
 	- Synonyms
 		- delicacy, diplomacy, discretion
+<!--SR:!2025-10-29,4,270-->
 
 trifling
 ?
@@ -237,6 +265,7 @@ trifling
 	- **Ex.** Don't waste time on trifling matters when the main issue remains unresolved.
 	- Synonyms
 		- trivial, frivolous, incidental
+<!--SR:!2025-10-28,3,250-->
 
 turbulent
 ?
@@ -245,3 +274,4 @@ turbulent
 	- **Ex.** The airplane experienced turbulent conditions during the storm.
 	- Synonyms
 		- tempestuous, tumultuous, anarchic
+<!--SR:!2025-10-28,3,250-->

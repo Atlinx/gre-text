@@ -17,7 +17,7 @@ confound
 	- **Ex.** The magician's tricks confounded the audience.
 	- Synonyms
 		- dumbfound, stupefy, unnerve
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 digression
 ?
@@ -26,7 +26,7 @@ digression
 	- **Ex.** The professor's frequent digressions made it hard to follow the lecture.
 	- Synonyms
 		- deviation, departure, parenthesis
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 discrepancy
 ?
@@ -98,7 +98,7 @@ largesse
 	- **Ex.** The university was built largely due to the largesse of its benefactors.
 	- Synonyms
 		- benevolence, munificence, magnanimity
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 libertine
 ?
@@ -107,7 +107,7 @@ libertine
 	- **Ex.** The village considered him a libertine due to his unconventional beliefs.
 	- Synonyms
 		- philanderer, rake, hedonist
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 malfeasance
 ?
@@ -116,7 +116,7 @@ malfeasance
 	- **Ex.** The mayor was accused of malfeasance and misuse of city funds.
 	- Synonyms
 		- impropriety, delinquency, fraud
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 manifest
 ?
@@ -130,7 +130,7 @@ manifest
 	- **Ex.** The happiness on her face was manifest.
 	- Synonyms
 		- patent, palpable, blatant
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 minute
 ?
@@ -166,7 +166,7 @@ perennial
 	- **Ex.** His perennial enthusiasm is infectious.
 	- Synonyms
 		- everlasting, perpetual, ceaseless
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 pious
 ?
@@ -198,7 +198,7 @@ prowess
 	- **Ex.** The athlete is known for his prowess in track and field.
 	- Synonyms
 		- adroitness, aptitude, facility
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->
 
 schism
 ?
@@ -207,7 +207,7 @@ schism
 	- **Ex.** The schism between the two factions of the party grew wider.
 	- Synonyms
 		- rift, breach, rupture
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 slander
 ?
@@ -225,7 +225,7 @@ stalwart
 	- **Ex.** He has been a stalwart supporter of the cause.
 	- Synonyms
 		- faithful, steadfast, resolute
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-05,11,270-->
 
 supplicate
 ?
@@ -234,7 +234,7 @@ supplicate
 	- **Ex.** The followers supplicated for guidance.
 	- Synonyms
 		- entreat, implore, petition
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,1,230-->
 
 terse
 ?
@@ -270,7 +270,7 @@ vanquish
 	- **Ex.** The champion managed to vanquish all her opponents in the tournament.
 	- Synonyms
 		- conquer, trounce, quash
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-05,11,270-->
 
 woeful
 ?

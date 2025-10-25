@@ -13,6 +13,7 @@ appease
 	- **Ex.** No amount of food could appease his appetite.
 	- Synonyms
 		- relieve, gratify, quench
+<!--SR:!2025-10-28,3,250-->
 
 arbitrary
 ?
@@ -21,6 +22,7 @@ arbitrary
 	- **Ex.** The arbitrary nature of the lottery means that anyone can win.
 	- Synonyms
 		- capricious, erratic, haphazard
+<!--SR:!2025-10-28,3,250-->
 
 archaic
 ?
@@ -29,6 +31,7 @@ archaic
 	- **Ex.** The archaic legal language was difficult for the modern reader to understand.
 	- Synonyms
 		- anachronistic, obsolete, antiquated
+<!--SR:!2025-10-29,4,270-->
 
 clamorous
 ?
@@ -37,6 +40,7 @@ clamorous
 	- **Ex.** The crowd became clamorous as the hours passed, eager for the event to start.
 	- Synonyms
 		- vociferous, raucous, rowdy
+<!--SR:!2025-10-29,4,270-->
 
 dearth
 ?
@@ -45,6 +49,7 @@ dearth
 	- **Ex.** There is a dearth of affordable housing in most major cities.
 	- Synonyms
 		- scarcity, shortfall, want
+<!--SR:!2025-10-28,3,250-->
 
 explicable
 ?
@@ -53,6 +58,7 @@ explicable
 	- **Ex.** The stock market is explicable if you understand economics.
 	- Synonyms
 		- comprehensible, interpretable, intelligible
+<!--SR:!2025-10-29,4,270-->
 
 hyperbole
 ?
@@ -61,6 +67,7 @@ hyperbole
 	- **Ex.** Saying "I've told you a million times" is an example of hyperbole.
 	- Synonyms
 		- overstatement, embellishment, amplification
+<!--SR:!2025-10-29,4,270-->
 
 immutable
 ?
@@ -69,6 +76,7 @@ immutable
 	- **Ex.** The basic principles of human rights are considered immutable.
 	- Synonyms
 		- rigid, indelible, entrenched
+<!--SR:!2025-10-29,4,270-->
 
 indefatigable
 ?
@@ -77,6 +85,7 @@ indefatigable
 	- **Ex.** The indefatigable scientist worked on her research late into the night.
 	- Synonyms
 		- unwearying, unflagging, unrelenting
+<!--SR:!2025-10-29,4,270-->
 
 indolent
 ?
@@ -85,6 +94,7 @@ indolent
 	- **Ex.** He was indolent and rarely helped with household chores.
 	- Synonyms
 		- idle, slothful, lackadaisical
+<!--SR:!2025-10-28,3,250-->
 
 insular
 ?
@@ -93,6 +103,7 @@ insular
 	- **Ex.** Living in a small, rural community can sometimes lead to an insular worldview.
 	- Synonyms
 		- parochial, provincial, myopic
+<!--SR:!2025-10-29,4,270-->
 
 intransigent
 ?
@@ -101,6 +112,7 @@ intransigent
 	- **Ex.** The intransigent attitude of both parties led to the stalemate in negotiations.
 	- Synonyms
 		- unyielding, unwavering, obstinate
+<!--SR:!2025-10-29,4,270-->
 
 intrepid
 ?
@@ -109,6 +121,7 @@ intrepid
 	- **Ex.** The intrepid firefighters rushed into the burning building.
 	- Synonyms
 		- dauntless, mettlesome, plucky
+<!--SR:!2025-10-28,3,250-->
 
 irreverent
 ?
@@ -117,6 +130,7 @@ irreverent
 	- **Ex.** His irreverent humor often offended more conservative people.
 	- Synonyms
 		- derisive, insolent, impertinent
+<!--SR:!2025-10-29,4,270-->
 
 loathe
 ?
@@ -125,6 +139,7 @@ loathe
 	- **Ex.** He loathes doing laundry more than any other chore.
 	- Synonyms
 		- abhor, detest, abominate
+<!--SR:!2025-10-29,4,270-->
 
 malign
 ?
@@ -138,6 +153,7 @@ malign
 	- **Ex.** It's unfair to malign someone based on hearsay and rumors.
 	- Synonyms
 		- defame, smear, vilify
+<!--SR:!2025-10-28,3,250-->
 
 malleable
 ?
@@ -146,6 +162,7 @@ malleable
 	- **Ex.** Children's minds are highly malleable and influenced by their surroundings.
 	- Synonyms
 		- susceptible, pliable, amenable
+<!--SR:!2025-10-29,4,270-->
 
 neophyte
 ?
@@ -154,6 +171,7 @@ neophyte
 	- **Ex.** As a neophyte in gardening, she had a lot to learn about plants and soil.
 	- Synonyms
 		- tyro, initiate, fledgling
+<!--SR:!2025-10-29,4,270-->
 
 plastic
 ?
@@ -167,6 +185,7 @@ plastic
 	- **Ex.** The politician's plastic smile did little to hide his insincerity.
 	- Synonyms
 		- pseudo, ersatz, spurious
+<!--SR:!2025-10-29,4,270-->
 
 platitude
 ?
@@ -175,6 +194,7 @@ platitude
 	- **Ex.** Politicians often use platitudes to appeal to common sentiments.
 	- Synonyms
 		- banality, truism, bromide
+<!--SR:!2025-10-29,4,270-->
 
 prescient
 ?
@@ -183,6 +203,7 @@ prescient
 	- **Ex.** Her prescient predictions about the market saved her a lot of money.
 	- Synonyms
 		- prophetic, clairvoyant, prognostic
+<!--SR:!2025-10-29,4,270-->
 
 pristine
 ?
@@ -191,6 +212,7 @@ pristine
 	- **Ex.** The pristine beauty of the untouched island was breathtaking.
 	- Synonyms
 		- immaculate, flawless, untarnished
+<!--SR:!2025-10-29,4,270-->
 
 reproach
 ?
@@ -199,6 +221,7 @@ reproach
 	- **Ex.** She was reproached for not trying hard enough during the match.
 	- Synonyms
 		- rebuke, admonish, censure
+<!--SR:!2025-10-28,3,250-->
 
 robust
 ?
@@ -212,6 +235,7 @@ robust
 	- **Ex.** The company survived the recession due to its robust income streams.
 	- Synonyms
 		- solid, vigorous, healthy
+<!--SR:!2025-10-29,4,270-->
 
 salubrious
 ?
@@ -225,6 +249,7 @@ salubrious
 	- **Ex.** The hotel room was salubrious.
 	- Synonyms
 		- agreeable, luxurious, grand
+<!--SR:!2025-10-29,4,270-->
 
 sanction
 ?
@@ -233,6 +258,7 @@ sanction
 	- **Ex.** The judge was sanctioned for his obvious bias.
 	- Synonyms
 		- censure, discipline, chastise
+<!--SR:!2025-10-29,4,270-->
 
 sedulous
 ?
@@ -241,6 +267,7 @@ sedulous
 	- **Ex.** With sedulous attention to detail, she proofread the entire manuscript.
 	- Synonyms
 		- meticulous, assiduous, punctilious
+<!--SR:!2025-10-29,4,270-->
 
 soporific
 ?
@@ -249,6 +276,7 @@ soporific
 	- **Ex.** His voice was a gentle, soporific murmur as he read the bedtime story.
 	- Synonyms
 		- somnolent, sedative, tranquilizing
+<!--SR:!2025-10-29,4,270-->
 
 stern
 ?
@@ -257,6 +285,7 @@ stern
 	- **Ex.** His stern demeanor was intimidating to his subordinates.
 	- Synonyms
 		- forbidding, grim, stringent
+<!--SR:!2025-10-29,4,270-->
 
 tendentious
 ?
@@ -265,3 +294,4 @@ tendentious
 	- **Ex.** The news article was criticized for its tendentious depiction of the event.
 	- Synonyms
 		- prejudiced, dogmatic, partial
+<!--SR:!2025-10-28,3,250-->

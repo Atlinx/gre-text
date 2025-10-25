@@ -13,6 +13,7 @@ abrasive
 	- **Ex.** The carpenter used an abrasive material to smooth the wood.
 	- Synonyms
 		- coarse, caustic, mordant
+<!--SR:!2025-10-26,1,230-->
 
 artful
 ?
@@ -26,6 +27,7 @@ artful
 	- **Ex.** The designer's artful use of color transformed the space.
 	- Synonyms
 		- resourceful, trailblazing, masterly
+<!--SR:!2025-10-28,3,250-->
 
 avert
 ?
@@ -34,6 +36,7 @@ avert
 	- **Ex.** The diplomat's timely intervention averted a potential conflict.
 	- Synonyms
 		- preclude, halt, ward off
+<!--SR:!2025-10-28,3,250-->
 
 avid
 ?
@@ -42,6 +45,7 @@ avid
 	- **Ex.** An avid collector, she sought rare books from around the world.
 	- Synonyms
 		- ardent, fanatical, voracious
+<!--SR:!2025-10-29,4,270-->
 
 brevity
 ?
@@ -55,6 +59,7 @@ brevity
 	- **Ex.** The brevity of the meeting allowed everyone to return to work quickly.
 	- Synonyms
 		- transience, ephemerality, impermanence
+<!--SR:!2025-10-28,3,250-->
 
 bromide
 ?
@@ -63,6 +68,7 @@ bromide
 	- **Ex.** His speech was filled with the usual bromides, offering nothing new.
 	- Synonyms
 		- truism, banality, inanity
+<!--SR:!2025-10-28,3,250-->
 
 circumstantial
 ?
@@ -76,6 +82,7 @@ circumstantial
 	- **Ex.** Her circumstantial account of the event painted a vivid picture, making it very believable.
 	- Synonyms
 		- particularized, minute, comprehensive
+<!--SR:!2025-10-26,1,230-->
 
 cloying
 ?
@@ -84,6 +91,7 @@ cloying
 	- **Ex.** The movie's cloying sentimentality overshadowed its potential depth.
 	- Synonyms
 		- nauseating, saccharine, mawkish
+<!--SR:!2025-10-28,3,250-->
 
 counterfeit
 ?
@@ -92,6 +100,7 @@ counterfeit
 	- **Ex.** The museum discovered the painting was a counterfeit masterpiece.
 	- Synonyms
 		- feigned, spurious, pseudo
+<!--SR:!2025-10-28,3,250-->
 
 denigrate
 ?
@@ -100,6 +109,7 @@ denigrate
 	- **Ex.** It's not right to denigrate someone's achievements without evidence.
 	- Synonyms
 		- deprecate, besmirch, calumniate
+<!--SR:!2025-10-26,1,230-->
 
 disciple
 ?
@@ -113,6 +123,7 @@ disciple
 	- **Ex.** She discipled her students in the arts, imparting valuable skills.
 	- Synonyms
 		- cultivate, edify, indoctrinate
+<!--SR:!2025-10-28,3,250-->
 
 extol
 ?
@@ -121,6 +132,7 @@ extol
 	- **Ex.** The mayor extolled the hero's bravery in the ceremony.
 	- Synonyms
 		- eulogize, acclaim, panegyrize
+<!--SR:!2025-10-28,3,250-->
 
 forebode
 ?
@@ -129,6 +141,7 @@ forebode
 	- **Ex.** His sudden mood change seemed to forebode trouble in the office.
 	- Synonyms
 		- prognosticate, augur, foretoken
+<!--SR:!2025-10-26,1,230-->
 
 ideologue
 ?
@@ -137,6 +150,7 @@ ideologue
 	- **Ex.** The political ideologue refused to consider alternative viewpoints.
 	- Synonyms
 		- partisan, adherent, devotee
+<!--SR:!2025-10-28,3,250-->
 
 impediment
 ?
@@ -145,6 +159,7 @@ impediment
 	- **Ex.** His stutter was an impediment to his public speaking career.
 	- Synonyms
 		- encumbrance, deterrent, restraint
+<!--SR:!2025-10-28,3,250-->
 
 imperative
 ?
@@ -158,6 +173,7 @@ imperative
 	- **Ex.** The sergeant issued an imperative order to the troops.
 	- Synonyms
 		- peremptory, authoritative, obligatory
+<!--SR:!2025-10-26,1,230-->
 
 impulsive
 ?
@@ -166,6 +182,7 @@ impulsive
 	- **Ex.** Her impulsive purchase left her with regret and financial stress.
 	- Synonyms
 		- impetuous, uninhibited, hasty
+<!--SR:!2025-10-28,3,250-->
 
 interminable
 ?
@@ -174,6 +191,7 @@ interminable
 	- **Ex.** The meeting felt interminable, lasting for hours without a clear conclusion.
 	- Synonyms
 		- incessant, perpetual, relentless
+<!--SR:!2025-10-26,1,230-->
 
 intuitive
 ?
@@ -187,6 +205,7 @@ intuitive
 	- **Ex.** The intuitive user interface made the software accessible to beginners.
 	- Synonyms
 		- comprehensible, digestible, intelligible
+<!--SR:!2025-10-26,1,230-->
 
 lassitude
 ?
@@ -195,6 +214,7 @@ lassitude
 	- **Ex.** After a long day of hiking, a feeling of lassitude set in.
 	- Synonyms
 		- lethargy, languor, enervation
+<!--SR:!2025-10-26,1,230-->
 
 omit
 ?
@@ -203,6 +223,7 @@ omit
 	- **Ex.** Please do not omit any important details from your report.
 	- Synonyms
 		- eliminate, expunge, neglect
+<!--SR:!2025-10-29,4,270-->
 
 ornate
 ?
@@ -211,6 +232,7 @@ ornate
 	- **Ex.** The ballroom was adorned with ornate chandeliers and golden trim.
 	- Synonyms
 		- embellished, ostentatious, florid
+<!--SR:!2025-10-28,3,250-->
 
 paltry
 ?
@@ -219,6 +241,7 @@ paltry
 	- **Ex.** The paltry allowance they received was barely enough to cover basic expenses.
 	- Synonyms
 		- inconsequential, meager, pitiful
+<!--SR:!2025-10-28,3,250-->
 
 pejorative
 ?
@@ -227,6 +250,7 @@ pejorative
 	- **Ex.** Using pejorative language can be hurtful and offensive to others.
 	- Synonyms
 		- deprecatory, vituperative, denigration
+<!--SR:!2025-10-28,3,250-->
 
 prefigure
 ?
@@ -235,6 +259,7 @@ prefigure
 	- **Ex.** Early innovations in technology often prefigure future societal changes.
 	- Synonyms
 		- foreshadow, presage, herald
+<!--SR:!2025-10-26,1,230-->
 
 presage
 ?
@@ -248,6 +273,7 @@ presage
 	- **Ex.** The stock market's volatility was a presage of economic instability.
 	- Synonyms
 		- omen, harbinger, prognostication
+<!--SR:!2025-10-26,1,230-->
 
 prescribe
 ?
@@ -261,6 +287,7 @@ prescribe
 	- **Ex.** The nutritionist prescribed a balanced diet for long-term wellness.
 	- Synonyms
 		- authorize, direct, endorse
+<!--SR:!2025-10-28,3,250-->
 
 prevail
 ?
@@ -279,6 +306,7 @@ prevail
 	- **Ex.** Her compelling arguments prevailed against the committee's initial skepticism.
 	- Synonyms
 		- induce, inveigle, coerce
+<!--SR:!2025-10-28,3,250-->
 
 propitiate
 ?
@@ -300,3 +328,4 @@ recapitulate
 	- **Ex.** The artist's work recapitulates themes from the Renaissance period.
 	- Synonyms
 		- emulate, replicate, parallel
+<!--SR:!2025-10-28,3,250-->

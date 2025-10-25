@@ -103,7 +103,7 @@ foment
 	- **Ex.** The rebel leaders tried to foment a revolution.
 	- Synonyms
 		- instigate, agitate, prompt
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 gaffe
 ?
@@ -130,7 +130,7 @@ histrionic
 	- **Ex.** The child's histrionic response was amusing to the adults.
 	- Synonyms
 		- melodramatic, theatrical, exaggerated
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 implicit
 ?
@@ -148,7 +148,7 @@ inviolate
 	- **Ex.** The ancient temple remained inviolate for centuries.
 	- Synonyms
 		- unmarred, pristine, undefiled
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 liability
 ?
@@ -184,7 +184,7 @@ phlegmatic
 	- **Ex.** Her phlegmatic response was unexpected given the situation.
 	- Synonyms
 		- composed, self-possessed, stolid
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 prodigious
 ?

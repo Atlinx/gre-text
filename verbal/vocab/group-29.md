@@ -8,7 +8,7 @@ abscond
 	- **Ex.** After committing the crime, the thief decided to abscond before the police arrived.
 	- Synonyms
 		- flee, bolt, decamp
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 apogee
 ?
@@ -17,7 +17,7 @@ apogee
 	- **Ex.** The athlete's gold medal win was the apogee of her years of training.
 	- Synonyms
 		- zenith, apex, acme
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 aspersion
 ?
@@ -26,7 +26,7 @@ aspersion
 	- **Ex.** She was hurt by the aspersions cast on her professionalism.
 	- Synonyms
 		- vilification, smear, defamation
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 bawdy
 ?
@@ -35,7 +35,7 @@ bawdy
 	- **Ex.** The play was filled with bawdy jokes that made some viewers blush.
 	- Synonyms
 		- ribald, lewd, titillating
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 chagrin
 ?
@@ -44,7 +44,7 @@ chagrin
 	- **Ex.** To her chagrin, she realized she had been wearing mismatched shoes all day.
 	- Synonyms
 		- pique, vexation, resentment
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 collude
 ?
@@ -62,7 +62,7 @@ commiserate
 	- **Ex.** She commiserated with her friend after the loss of her job.
 	- Synonyms
 		- comfort, console, solace
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 conflagration
 ?
@@ -80,7 +80,7 @@ contretemps
 	- **Ex.** A brief contretemps over the bill was resolved when she agreed to pay.
 	- Synonyms
 		- dissension, quarrel, squabble
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 conviction
 ?
@@ -98,7 +98,7 @@ croon
 	- **Ex.** Under the moonlight, he'd croon love ballads.
 	- Synonyms
 		- serenade, warble, hum
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 depose
 ?
@@ -116,7 +116,7 @@ detente
 	- **Ex.** The two rival nations entered a detente after the peace talks.
 	- Synonyms
 		- thawing, pacification, conciliation
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 dowdy
 ?
@@ -125,7 +125,7 @@ dowdy
 	- **Ex.** His clothes were considered dowdy by modern standards.
 	- Synonyms
 		- shabby, frumpy, frumpish
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 echelon
 ?
@@ -143,7 +143,7 @@ ennui
 	- **Ex.** His days were filled with ennui, as his routine never varied.
 	- Synonyms
 		- tedium, languor, lethargy
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 expatiate
 ?
@@ -152,7 +152,7 @@ expatiate
 	- **Ex.** The professor was known to expatiate on any subject he found interesting.
 	- Synonyms
 		- expound, embellish, dilate on
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 fraught
 ?
@@ -161,7 +161,7 @@ fraught
 	- **Ex.** The meeting was fraught with disagreements and shouting matches.
 	- Synonyms
 		- strained, contentious, volatile
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 fulcrum
 ?
@@ -179,7 +179,7 @@ imbroglio
 	- **Ex.** The political scandal turned into an imbroglio that lasted for months.
 	- Synonyms
 		- dilemma, muddle, quandary
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 jocund
 ?
@@ -188,7 +188,7 @@ jocund
 	- **Ex.** The jocund melody brightened up the room.
 	- Synonyms
 		- genial, exuberant, buoyant
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 languish
 ?
@@ -211,7 +211,7 @@ nadir
 	- **Ex.** Losing his job marked the nadir of his career.
 	- Synonyms
 		- depths, rock bottom, abyss
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 nimble
 ?
@@ -247,7 +247,7 @@ propitious
 	- **Ex.** The sunny weather was propitious for our picnic.
 	- Synonyms
 		- providential, auspicious, opportune
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 prurient
 ?
@@ -256,7 +256,7 @@ prurient
 	- **Ex.** The film was criticized for its prurient scenes.
 	- Synonyms
 		- salacious, lustful, lascivious
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 sadistic
 ?

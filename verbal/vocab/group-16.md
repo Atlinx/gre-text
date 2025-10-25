@@ -35,7 +35,7 @@ comply
 	- **Ex.** The toys do not comply with safety guidelines.
 	- Synonyms
 		- abide by, adhere to, consent to
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 crestfallen
 ?
@@ -76,7 +76,7 @@ evade
 	- **Ex.** He was a master at evading uncomfortable questions.
 	- Synonyms
 		- hedge, be evasive about, be equivocal about
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->
 
 feckless
 ?
@@ -85,7 +85,7 @@ feckless
 	- **Ex.** Despite his talents, his feckless attitude led to missed opportunities.
 	- Synonyms
 		- hopeless, ineffectual, inept
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-28,3,250-->
 
 fester
 ?
@@ -112,7 +112,7 @@ immure
 	- **Ex.** The princess was immured in the castle.
 	- Synonyms
 		- confine, incarcerate, detain
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-26,1,210-->
 
 improvise
 ?
@@ -193,7 +193,7 @@ reconcile
 	- **Ex.** She tried to reconcile her siblings after their disagreement.
 	- Synonyms
 		- harmonize, square, syncretize
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 refine
 ?
@@ -207,7 +207,7 @@ refine
 	- **Ex.** She refined her skills by practicing daily.
 	- Synonyms
 		- revise, fine-tune, hone
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-05,11,270-->
 
 relinquish
 ?
@@ -243,7 +243,7 @@ superfluous
 	- **Ex.** Cutting out superfluous information made the report more coherent.
 	- Synonyms
 		- redundant, expendable, surplus
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-11-01,7,250-->
 
 synoptic
 ?
@@ -252,7 +252,7 @@ synoptic
 	- **Ex.** The synoptic report highlighted the main points of the project.
 	- Synonyms
 		- abridged, condensed, epitomized
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-26,1,230-->
 
 thorough
 ?

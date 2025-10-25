@@ -13,7 +13,7 @@ acclaim
 	- **Ex.** The young author's debut novel received widespread acclaim.
 	- Synonyms
 		- ovation, plaudits, approbation
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 ascertain
 ?
@@ -22,7 +22,7 @@ ascertain
 	- **Ex.** She wanted to ascertain the truth behind the rumor.
 	- Synonyms
 		- determine, deduce, intuit
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-04,10,270-->
 
 assertive
 ?
@@ -31,7 +31,7 @@ assertive
 	- **Ex.** An assertive demeanor can help in negotiations.
 	- Synonyms
 		- decisive, assured, authoritative
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-10-27,2,230-->
 
 bogus
 ?
@@ -58,7 +58,7 @@ circumscribe
 	- **Ex.** The law was designed to circumscribe corporate power.
 	- Synonyms
 		- confine, curb, bound
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,12,270-->
 
 complementary
 ?
@@ -112,7 +112,7 @@ fallacious
 	- **Ex.** His argument was fallacious and easily debunked.
 	- Synonyms
 		- erroneous, spurious, specious
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 foolhardy
 ?
@@ -148,7 +148,7 @@ impugn
 	- **Ex.** Critics impugn his motives for donating to charity.
 	- Synonyms
 		- dispute, take issue, contest
-<!--SR:!2025-10-25,1,250-->
+<!--SR:!2025-10-28,3,250-->
 
 incessant
 ?
@@ -175,7 +175,7 @@ inveterate
 	- **Ex.** He's an inveterate traveler, always exploring new places.
 	- Synonyms
 		- ingrained, entrenched, hardened
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 miserly
 ?
@@ -229,7 +229,7 @@ sanctimonious
 	- **Ex.** Her sanctimonious speeches irritated many.
 	- Synonyms
 		- self-righteous, unctuous, smug
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 sound
 ?
@@ -256,7 +256,7 @@ tepid
 	- **Ex.** The audience gave a tepid response to the performance.
 	- Synonyms
 		- apathetic, halfhearted, desultory
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 upbraid
 ?
@@ -265,7 +265,7 @@ upbraid
 	- **Ex.** She upbraided him for his carelessness.
 	- Synonyms
 		- reprimand, rebuke, admonish
-<!--SR:!2025-10-25,2,230-->
+<!--SR:!2025-10-30,5,230-->
 
 vexation
 ?

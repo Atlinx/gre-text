@@ -53,7 +53,7 @@ condone
 	- **Ex.** Society shouldn't condone such behavior.
 	- Synonyms
 		- disregard, pardon, let slide
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-03,9,250-->
 
 contravene
 ?
@@ -70,7 +70,7 @@ denounce
 	- **Ex.** Activists denounce the new policy as harmful.
 	- Synonyms
 		- condemn, besmirch, malign
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-01,7,250-->
 
 despotic
 ?
@@ -214,7 +214,7 @@ poignant
 	- **Ex.** The movie's poignant ending left many in tears.
 	- Synonyms
 		- touching, affecting, heart-rending
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-02,8,250-->
 
 quiescent
 ?
@@ -223,7 +223,7 @@ quiescent
 	- **Ex.** The volcano remains quiescent for now.
 	- Synonyms
 		- latent, inert, in abeyance
-<!--SR:!2025-10-25,1,210-->
+<!--SR:!2025-10-27,2,210-->
 
 reiterate
 ?

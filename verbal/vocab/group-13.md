@@ -104,7 +104,7 @@ diffuse
 	- **Ex.** The light was diffuse, casting soft shadows across the room.
 	- Synonyms
 		- dispersed, spread out, distributed
-<!--SR:!2025-10-25,3,252-->
+<!--SR:!2025-11-05,11,272-->
 
 documentary
 ?
@@ -181,7 +181,7 @@ invidious
 	- **Ex.** The invidious policy discriminated against certain groups, causing widespread resentment.
 	- Synonyms
 		- unjust, discriminatory, iniquitous
-<!--SR:!2025-10-25,1,250-->
+<!--SR:!2025-10-28,3,250-->
 
 lethargic
 ?
@@ -217,7 +217,7 @@ numinous
 	- **Ex.** The church had a numinous aura that calmed the visitors.
 	- Synonyms
 		- sacred, otherworldly, transcendent
-<!--SR:!2025-10-25,2,232-->
+<!--SR:!2025-10-30,5,232-->
 
 obscure
 ?

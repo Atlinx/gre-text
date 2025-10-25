@@ -8,7 +8,7 @@ abrogate
 	- **Ex.** The government decided to abrogate the outdated law.
 	- Synonyms
 		- axe, repeal, repudiate
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 aghast
 ?
@@ -26,7 +26,7 @@ apprise
 	- **Ex.** The manager apprised him of the changes in the plan.
 	- Synonyms
 		- intimate, illuminate, enlighten
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 beguile
 ?
@@ -35,7 +35,7 @@ beguile
 	- **Ex.** The magician's tricks beguiled the audience.
 	- Synonyms
 		- seduce, enchant, mesmerize
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 boon
 ?
@@ -71,7 +71,7 @@ crescendo
 	- **Ex.** The music reached a crescendo during the finale.
 	- Synonyms
 		- apex, acme, pinnacle
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 extenuating
 ?
@@ -107,7 +107,7 @@ hapless
 	- **Ex.** The hapless traveler lost his luggage twice.
 	- Synonyms
 		- doomed, jinxed, forlorn
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 immaculate
 ?
@@ -134,7 +134,7 @@ ossify
 	- **Ex.** Over time, his beliefs began to ossify.
 	- Synonyms
 		- rigidify, petrify, solidify
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 pastiche
 ?
@@ -143,7 +143,7 @@ pastiche
 	- **Ex.** The film was a pastiche of several genres.
 	- Synonyms
 		- parody, melange, patchwork
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 perspicacious
 ?
@@ -152,7 +152,7 @@ perspicacious
 	- **Ex.** Her perspicacious insights solved the complex puzzle.
 	- Synonyms
 		- shrewd, observant, discerning
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 ponderous
 ?
@@ -161,7 +161,7 @@ ponderous
 	- **Ex.** His speech had a ponderous tone, making it hard to follow.
 	- Synonyms
 		- clumsy, labored, lumbering
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,210-->
 
 recluse
 ?
@@ -188,7 +188,7 @@ rhapsody
 	- **Ex.** She went into a rhapsody about her favorite book.
 	- Synonyms
 		- ecstasy, elation, euphoria
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 serendipitous
 ?
@@ -215,7 +215,7 @@ sinecure
 	- **Ex.** After years of hard work, she longed for a sinecure.
 	- Synonyms
 		- cushy job, plum job, free ride
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-27,2,230-->
 
 sinuous
 ?
@@ -238,7 +238,7 @@ sordid
 	- **Ex.** The room's sordid conditions reflected years of neglect and decay.
 	- Synonyms
 		- grimy, muddy, shabby
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-26,1,230-->
 
 stanch
 ?
@@ -247,7 +247,7 @@ stanch
 	- **Ex.** The doctor worked to stanch the bleeding.
 	- Synonyms
 		- curb, halt, suppress
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-28,3,250-->
 
 surfeit
 ?
@@ -265,7 +265,7 @@ ulterior
 	- **Ex.** She had ulterior motives for attending the event.
 	- Synonyms
 		- covert, underlying, undivulged
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-28,3,250-->
 
 voluble
 ?
@@ -274,4 +274,4 @@ voluble
 	- **Ex.** The voluble salesman pitched his product for hours.
 	- Synonyms
 		- verbose, articulate, loquacious
-<!--SR:!2025-10-25,1,230-->
+<!--SR:!2025-10-28,3,250-->
