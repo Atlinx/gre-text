@@ -17,7 +17,7 @@ banish
 	- **Ex.** She worked hard to banish those negative thoughts from her mind.
 	- Synonyms
 		- extradite, exile, dispel
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 bridle
 ?
@@ -26,7 +26,7 @@ bridle
 	- **Ex.** She bridled her anger and responded calmly.
 	- Synonyms
 		- curb, check, stifle
-<!--SR:!2025-10-27,1,250-->
+<!--SR:!2025-10-30,3,250-->
 
 comply
 ?
@@ -53,7 +53,7 @@ curtail
 	- **Ex.** She had to curtail her shopping habits due to financial constraints.
 	- Synonyms
 		- curb, rein in, truncate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 elucidate
 ?
@@ -94,7 +94,7 @@ fester
 	- **Ex.** Old wounds can fester if not addressed.
 	- Synonyms
 		- rankle, chafe, smolder
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 iconoclastic
 ?
@@ -112,7 +112,7 @@ immure
 	- **Ex.** The princess was immured in the castle.
 	- Synonyms
 		- confine, incarcerate, detain
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-29,2,210-->
 
 improvise
 ?
@@ -121,7 +121,7 @@ improvise
 	- **Ex.** When the script was lost, the actor decided to improvise.
 	- Synonyms
 		- extemporize, ad lib, contrive
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 inhibit
 ?
@@ -130,7 +130,7 @@ inhibit
 	- **Ex.** Fear can inhibit one from taking risks.
 	- Synonyms
 		- impede, hamper, check
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 inscrutable
 ?
@@ -139,7 +139,7 @@ inscrutable
 	- **Ex.** His expressions were inscrutable, making it hard to predict his next move.
 	- Synonyms
 		- enigmatic, impenetrable, cryptic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 lionize
 ?
@@ -148,7 +148,7 @@ lionize
 	- **Ex.** The artist was lionized after his groundbreaking exhibition.
 	- Synonyms
 		- fete, exalt, venerate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 monotonous
 ?
@@ -157,7 +157,7 @@ monotonous
 	- **Ex.** His monotonous voice put everyone to sleep.
 	- Synonyms
 		- tedious, wearisome, humdrum
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 peculiar
 ?
@@ -175,7 +175,7 @@ premeditate
 	- **Ex.** The theft was clearly premeditated.
 	- Synonyms
 		- conspire, scheme, orchestrate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 profligate
 ?
@@ -184,7 +184,7 @@ profligate
 	- **Ex.** His profligate spending on luxury cars and lavish vacations soon left him in financial ruin.
 	- Synonyms
 		- improvident, prodigal, thriftless
-<!--SR:!2025-10-26,2,210-->
+<!--SR:!2025-10-28,1,230-->
 
 reconcile
 ?
@@ -216,7 +216,7 @@ relinquish
 	- **Ex.** He had to relinquish his control over the project.
 	- Synonyms
 		- renounce, cede, forsake
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 ruminate
 ?
@@ -225,7 +225,7 @@ ruminate
 	- **Ex.** She ruminated on the feedback she received.
 	- Synonyms
 		- contemplate, mull over, deliberate about
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 skittish
 ?
@@ -252,7 +252,7 @@ synoptic
 	- **Ex.** The synoptic report highlighted the main points of the project.
 	- Synonyms
 		- abridged, condensed, epitomized
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 thorough
 ?
@@ -261,7 +261,7 @@ thorough
 	- **Ex.** A thorough analysis of the data was conducted.
 	- Synonyms
 		- rigorous, exhaustive, scrupulous
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 visionary
 ?
@@ -270,7 +270,7 @@ visionary
 	- **Ex.** His visionary ideas often challenged the status quo.
 	- Synonyms
 		- inventive, utopian, quixotic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 vociferous
 ?

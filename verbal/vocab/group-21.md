@@ -8,7 +8,7 @@ abject
 	- **Ex.** The captured soldier displayed abject terror.
 	- Synonyms
 		- wretched, deplorable, pitiable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 amicable
 ?
@@ -17,7 +17,7 @@ amicable
 	- **Ex.** The two companies reached an amicable agreement.
 	- Synonyms
 		- cordial, fraternal, harmonious
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 animosity
 ?
@@ -35,7 +35,7 @@ aver
 	- **Ex.** He avers that he was home at the time of the incident.
 	- Synonyms
 		- maintain, attest, avow
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,1,230-->
 
 barrage
 ?
@@ -53,7 +53,7 @@ cathartic
 	- **Ex.** Watching a sad movie can be a cathartic experience for some.
 	- Synonyms
 		- purgative, purifying, exorcising
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 decipher
 ?
@@ -62,7 +62,7 @@ decipher
 	- **Ex.** The archaeologist tried to decipher the ancient script.
 	- Synonyms
 		- discern, apprehend, decode
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 delusion
 ?
@@ -71,7 +71,7 @@ delusion
 	- **Ex.** The idea that he could fly was just a delusion.
 	- Synonyms
 		- misconception, fallacy, chimera
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 dispense
 ?
@@ -85,7 +85,7 @@ dispense
 	- **Ex.** The new system dispenses with manual checking.
 	- Synonyms
 		- waive, relinquish, cast aside
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 eloquent
 ?
@@ -94,7 +94,7 @@ eloquent
 	- **Ex.** The president gave an eloquent speech about unity.
 	- Synonyms
 		- forceful, silver-tongued, glib
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 enthrall
 ?
@@ -112,7 +112,7 @@ eradicate
 	- **Ex.** The program aims to eradicate childhood diseases.
 	- Synonyms
 		- exterminate, annihilate, obliterate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 fledgling
 ?
@@ -121,7 +121,7 @@ fledgling
 	- **Ex.** The fledgling company faced many challenges in its early days.
 	- Synonyms
 		- budding, nascent, incipient
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 fortitude
 ?
@@ -130,7 +130,7 @@ fortitude
 	- **Ex.** He showed remarkable fortitude during tough times.
 	- Synonyms
 		- resilience, mettle, steadfastness
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 fortuitous
 ?
@@ -139,7 +139,7 @@ fortuitous
 	- **Ex.** The discovery of the manuscript was a fortuitous event.
 	- Synonyms
 		- providential, timely, serendipitous
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 goad
 ?
@@ -148,7 +148,7 @@ goad
 	- **Ex.** She tried to goad him into accepting the challenge.
 	- Synonyms
 		- spur, prod, rouse
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,1,230-->
 
 imminent
 ?
@@ -157,7 +157,7 @@ imminent
 	- **Ex.** They were in imminent danger of being discovered.
 	- Synonyms
 		- impending, at hand, forthcoming
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 incontrovertible
 ?
@@ -166,7 +166,7 @@ incontrovertible
 	- **Ex.** The DNA evidence provided incontrovertible proof of the suspect's presence.
 	- Synonyms
 		- incontestable, irrefutable, unassailable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 itinerant
 ?
@@ -175,7 +175,7 @@ itinerant
 	- **Ex.** He lived the life of an itinerant salesman.
 	- Synonyms
 		- peripatetic, roving, nomadic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 magnanimous
 ?
@@ -193,7 +193,7 @@ meritorious
 	- **Ex.** Her actions were deemed meritorious by the entire community.
 	- Synonyms
 		- laudable, estimable, exemplary
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 mutiny
 ?
@@ -202,7 +202,7 @@ mutiny
 	- **Ex.** The captain faced a mutiny from his crew.
 	- Synonyms
 		- insurrection, revolt, riot
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 paradoxical
 ?
@@ -211,7 +211,7 @@ paradoxical
 	- **Ex.** It's paradoxical that the medicine makes him feel worse before he gets better.
 	- Synonyms
 		- incongruous, anomalous, oxymoronic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 perseverance
 ?
@@ -220,7 +220,7 @@ perseverance
 	- **Ex.** Her perseverance led her to overcome numerous obstacles in life.
 	- Synonyms
 		- tenacity, resolve, doggedness
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 render
 ?
@@ -234,7 +234,7 @@ render
 	- **Ex.** The verdict rendered him guilty.
 	- Synonyms
 		- hand down, announce, proclaim
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-29,2,250-->
 
 repertoire
 ?
@@ -243,7 +243,7 @@ repertoire
 	- **Ex.** The band has a wide repertoire of jazz standards.
 	- Synonyms
 		- arsenal, range, assortment
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 resilient
 ?
@@ -252,7 +252,7 @@ resilient
 	- **Ex.** The city is resilient, bouncing back after every challenge.
 	- Synonyms
 		- hardy, buoyant, irrepressible
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 resolute
 ?
@@ -261,7 +261,7 @@ resolute
 	- **Ex.** He took a resolute stand against the proposed changes.
 	- Synonyms
 		- adamant, undaunted, unfaltering
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 supple
 ?
@@ -270,7 +270,7 @@ supple
 	- **Ex.** The dancer's supple movements made the challenging routine look effortless.
 	- Synonyms
 		- lithe, nimble, agile
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 valor
 ?
@@ -279,4 +279,4 @@ valor
 	- **Ex.** The soldier was awarded for his valor in battle.
 	- Synonyms
 		- pluck, nerve, mettle
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->

@@ -53,7 +53,7 @@ augment
 	- **Ex.** He augmented his income by freelancing on the side.
 	- Synonyms
 		- supplement, swell, amplify
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 aversion
 ?
@@ -71,7 +71,7 @@ blithe
 	- **Ex.** His blithe attitude towards missing deadlines was infuriating.
 	- Synonyms
 		- heedless, nonchalant, blasé
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-10-28,1,230-->
 
 contempt
 ?
@@ -89,7 +89,7 @@ dawdle
 	- **Ex.** If we dawdle, we'll miss the beginning of the movie.
 	- Synonyms
 		- linger, amble, dally
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 deflect
 ?
@@ -98,7 +98,7 @@ deflect
 	- **Ex.** His compliment was an attempt to deflect her from asking more questions.
 	- Synonyms
 		- sidetrack, divert, swerve
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 discount
 ?
@@ -134,7 +134,7 @@ equitable
 	- **Ex.** The new policies aimed for a more equitable distribution of resources.
 	- Synonyms
 		- just, impartial, egalitarian
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 erratic
 ?
@@ -206,7 +206,7 @@ pernicious
 	- **Ex.** The spread of misinformation has a pernicious effect on society.
 	- Synonyms
 		- injurious, detrimental, deleterious
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 predicament
 ?
@@ -215,7 +215,7 @@ predicament
 	- **Ex.** The sudden rainstorm left us in a predicament, as we had no umbrella.
 	- Synonyms
 		- plight, quandary, pickle
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 proficient
 ?
@@ -224,7 +224,7 @@ proficient
 	- **Ex.** With years of practice, she became proficient in the violin.
 	- Synonyms
 		- seasoned, adroit, dexterous
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 prolix
 ?

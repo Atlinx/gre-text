@@ -135,7 +135,7 @@ foreseeable
 	- **Ex.** No solution was in the foreseeable future, so they decided to pause and reconsider.
 	- Synonyms
 		- anticipated, projected, presumable
-<!--SR:!2025-10-27,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 forsake
 ?
@@ -198,7 +198,7 @@ propriety
 	- **Ex.** In the royal court, one had to act with the utmost propriety.
 	- Synonyms
 		- decorum, etiquette, discretion
-<!--SR:!2025-10-27,2,190-->
+<!--SR:!2025-10-31,4,190-->
 
 scintillating
 ?

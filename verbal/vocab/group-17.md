@@ -31,7 +31,7 @@ assertive
 	- **Ex.** An assertive demeanor can help in negotiations.
 	- Synonyms
 		- decisive, assured, authoritative
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 bogus
 ?
@@ -40,7 +40,7 @@ bogus
 	- **Ex.** The scam involved selling bogus insurance policies.
 	- Synonyms
 		- spurious, sham, ersatz
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 cataclysmic
 ?
@@ -49,7 +49,7 @@ cataclysmic
 	- **Ex.** The cataclysmic event reshaped the entire landscape.
 	- Synonyms
 		- disastrous, catastrophic, calamitous
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 circumscribe
 ?
@@ -67,7 +67,7 @@ complementary
 	- **Ex.** Red wine and steak are considered complementary.
 	- Synonyms
 		- harmonious, reciprocal, compatible
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 contentious
 ?
@@ -76,7 +76,7 @@ contentious
 	- **Ex.** The issue became contentious at the meeting, leading to several heated arguments.
 	- Synonyms
 		- vehement, quarrelsome, heated
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 disingenuous
 ?
@@ -85,7 +85,7 @@ disingenuous
 	- **Ex.** His disingenuous apology was not well-received.
 	- Synonyms
 		- deceitful, duplicitous, dissembling
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 divulge
 ?
@@ -94,7 +94,7 @@ divulge
 	- **Ex.** She refused to divulge her source.
 	- Synonyms
 		- broadcast, promulgate, impart
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 dogmatic
 ?
@@ -103,7 +103,7 @@ dogmatic
 	- **Ex.** He had a dogmatic belief in his theory, despite evidence to the contrary.
 	- Synonyms
 		- emphatic, adamant, peremptory
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 fallacious
 ?
@@ -121,7 +121,7 @@ foolhardy
 	- **Ex.** It's foolhardy to hike without adequate preparation.
 	- Synonyms
 		- rash, heedless, imprudent
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-30,3,250-->
 
 hinder
 ?
@@ -130,7 +130,7 @@ hinder
 	- **Ex.** Lack of funds can hinder the research project.
 	- Synonyms
 		- hamper, inhibit, thwart
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 impair
 ?
@@ -139,7 +139,7 @@ impair
 	- **Ex.** Excessive drinking can impair judgment.
 	- Synonyms
 		- diminish, blunt, mar
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 impugn
 ?
@@ -157,7 +157,7 @@ incessant
 	- **Ex.** The incessant noise from the construction site was annoying.
 	- Synonyms
 		- ceaseless, unabating, perpetual
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 inclined
 ?
@@ -166,7 +166,7 @@ inclined
 	- **Ex.** She was inclined to accept the offer.
 	- Synonyms
 		- disposed, biased toward, liable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 inveterate
 ?
@@ -184,7 +184,7 @@ miserly
 	- **Ex.** The miserly old man hoarded all his wealth.
 	- Synonyms
 		- parsimonious, stingy, avaricious
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 patent
 ?
@@ -193,7 +193,7 @@ patent
 	- **Ex.** It's a patent fact that smoking is harmful.
 	- Synonyms
 		- plain, manifest, self-evident
-<!--SR:!2025-10-26,2,210-->
+<!--SR:!2025-10-31,4,210-->
 
 petulant
 ?
@@ -202,7 +202,7 @@ petulant
 	- **Ex.** Her petulant behavior made her difficult to work with.
 	- Synonyms
 		- peevish, cross, irascible
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 pithy
 ?
@@ -211,7 +211,7 @@ pithy
 	- **Ex.** He had a knack for pithy comments.
 	- Synonyms
 		- terse, succinct, trenchant
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-10-28,1,210-->
 
 pliant
 ?
@@ -220,7 +220,7 @@ pliant
 	- **Ex.** He was too pliant to the company's demands.
 	- Synonyms
 		- elastic, malleable, docile
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 sanctimonious
 ?
@@ -238,7 +238,7 @@ sound
 	- **Ex.** His decision was sound given the circumstances.
 	- Synonyms
 		- valid, weighty, cogent
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 tarnish
 ?
@@ -247,7 +247,7 @@ tarnish
 	- **Ex.** The mayor's reputation was tarnished by the allegations of corruption.
 	- Synonyms
 		- smirch, taint, befoul
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 tepid
 ?
@@ -274,4 +274,4 @@ vexation
 	- **Ex.** The delays caused much vexation among the passengers.
 	- Synonyms
 		- exasperation, wrath, chagrin
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->

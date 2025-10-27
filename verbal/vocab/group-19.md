@@ -8,7 +8,7 @@ acolyte
 	- **Ex.** James maintained power in the organization through his acolytes.
 	- Synonyms
 		- lackey, disciple, minion
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 anoint
 ?
@@ -17,7 +17,7 @@ anoint
 	- **Ex.** He was anointed as the next CEO of the company.
 	- Synonyms
 		- ordain, install, crown
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 base
 ?
@@ -26,7 +26,7 @@ base
 	- **Ex.** Using someone's vulnerability for personal gain is a base act.
 	- Synonyms
 		- sordid, wicked, iniquitous
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 coercion
 ?
@@ -35,7 +35,7 @@ coercion
 	- **Ex.** The confession was extracted through coercion and is not valid.
 	- Synonyms
 		- oppression, duress, compulsion
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 coin
 ?
@@ -44,7 +44,7 @@ coin
 	- **Ex.** She coined the term "webinar" for online seminars.
 	- Synonyms
 		- conceive of, originate, formulate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 cunning
 ?
@@ -53,7 +53,7 @@ cunning
 	- **Ex.** The fox is often portrayed as a cunning animal in fables.
 	- Synonyms
 		- devious, guileful, crafty
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 discomfit
 ?
@@ -62,7 +62,7 @@ discomfit
 	- **Ex.** The unexpected question seemed to discomfit the speaker.
 	- Synonyms
 		- discompose, fluster, agitate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,1,230-->
 
 dissent
 ?
@@ -85,7 +85,7 @@ distill
 	- **Ex.** The notes were distilled from a much longer report.
 	- Synonyms
 		- glean, consolidate, synthesize
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 dubious
 ?
@@ -117,7 +117,7 @@ facetious
 	- **Ex.** His facetious remarks were not well-received at the funeral.
 	- Synonyms
 		- flippant, glib, waggish
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-10-28,1,230-->
 
 fallible
 ?
@@ -135,7 +135,7 @@ florid
 	- **Ex.** The author's florid prose did not appeal to minimalist readers.
 	- Synonyms
 		- ornate, embellished, flamboyant
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 gawky
 ?
@@ -144,7 +144,7 @@ gawky
 	- **Ex.** The gawky teenager eventually grew into a graceful adult.
 	- Synonyms
 		- ungainly, bumbling, graceless
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 inveigle
 ?
@@ -153,7 +153,7 @@ inveigle
 	- **Ex.** She managed to inveigle him into doing her work for her.
 	- Synonyms
 		- coax, wheedle, cajole
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-29,2,210-->
 
 jettison
 ?
@@ -171,7 +171,7 @@ mendacity
 	- **Ex.** His mendacity cost him the trust of his friends.
 	- Synonyms
 		- insincerity, deceit, dissembling
-<!--SR:!2025-10-27,3,254-->
+<!--SR:!2025-10-29,2,234-->
 
 munificent
 ?
@@ -180,7 +180,7 @@ munificent
 	- **Ex.** The munificent donation allowed the hospital to build a new wing.
 	- Synonyms
 		- beneficent, philanthropic, bountiful
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-29,2,210-->
 
 naive
 ?
@@ -198,7 +198,7 @@ noble
 	- **Ex.** He made the noble decision to donate all his winnings to charity.
 	- Synonyms
 		- virtuous, upright, righteous
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 parochial
 ?
@@ -239,7 +239,7 @@ prime
 	- **Ex.** Her prime worry is that we're overbudget.
 	- Synonyms
 		- chief, key, principal
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 radical
 ?
@@ -253,7 +253,7 @@ radical
 	- **Ex.** The radicals were demanding a complete overhaul of the system.
 	- Synonyms
 		- revolutionary, leftist, progressive
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 recrudescent
 ?
@@ -276,7 +276,7 @@ temporal
 	- **Ex.** While the church's influence was strong in many aspects of society, it had no power in the temporal affairs of the local government.
 	- Synonyms
 		- secular, profane, corporeal
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 transitory
 ?
@@ -285,7 +285,7 @@ transitory
 	- **Ex.** Fame is often a transitory experience.
 	- Synonyms
 		- ephemeral, evanescent, fleeting
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 viable
 ?

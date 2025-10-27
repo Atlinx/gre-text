@@ -243,7 +243,7 @@ tenable
 	- **Ex.** His argument was hardly tenable in the face of clear evidence.
 	- Synonyms
 		- sound, plausible, sustainable
-<!--SR:!2025-10-27,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 transgression
 ?

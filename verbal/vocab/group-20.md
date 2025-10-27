@@ -8,7 +8,7 @@ abreast
 	- **Ex.** She keeps herself abreast of all the latest technological developments.
 	- Synonyms
 		- acquainted with, plugged into, in touch with
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 confound
 ?
@@ -35,7 +35,7 @@ discrepancy
 	- **Ex.** There was a large discrepancy between the estimated cost and the actual bill.
 	- Synonyms
 		- disparity, variance, deviation
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 duplicitous
 ?
@@ -44,7 +44,7 @@ duplicitous
 	- **Ex.** The spy's duplicitous behavior allowed him to gather information from the enemy.
 	- Synonyms
 		- deceitful, treacherous, dissembling
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 expedient
 ?
@@ -53,7 +53,7 @@ expedient
 	- **Ex.** The politician took expedient steps to secure votes.
 	- Synonyms
 		- gainful, tactical, opportune
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-29,2,250-->
 
 fabricate
 ?
@@ -62,7 +62,7 @@ fabricate
 	- **Ex.** He fabricated a story about his past.
 	- Synonyms
 		- concoct, contrive, manufacture
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 glum
 ?
@@ -71,7 +71,7 @@ glum
 	- **Ex.** She had a glum expression after hearing the sad news.
 	- Synonyms
 		- gloomy, lugubrious, forlorn
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 harbinger
 ?
@@ -80,7 +80,7 @@ harbinger
 	- **Ex.** The early flowers are harbingers of spring.
 	- Synonyms
 		- herald, omen, premonition
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 intrinsic
 ?
@@ -89,7 +89,7 @@ intrinsic
 	- **Ex.** The intrinsic value of the necklace was in its historical significance, not its gold.
 	- Synonyms
 		- inherent, inborn, congenital
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 largesse
 ?
@@ -107,7 +107,7 @@ libertine
 	- **Ex.** The village considered him a libertine due to his unconventional beliefs.
 	- Synonyms
 		- philanderer, rake, hedonist
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-29,2,210-->
 
 malfeasance
 ?
@@ -116,7 +116,7 @@ malfeasance
 	- **Ex.** The mayor was accused of malfeasance and misuse of city funds.
 	- Synonyms
 		- impropriety, delinquency, fraud
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-29,2,210-->
 
 manifest
 ?
@@ -139,7 +139,7 @@ minute
 	- **Ex.** The scientist examined the minute details under a microscope.
 	- Synonyms
 		- infinitesimal, minuscule, diminutive
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 modish
 ?
@@ -148,7 +148,7 @@ modish
 	- **Ex.** Her clothes are always modish and chic.
 	- Synonyms
 		- in vogue, a la mode, smart
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 nascent
 ?
@@ -157,7 +157,7 @@ nascent
 	- **Ex.** The nascent idea became a groundbreaking discovery.
 	- Synonyms
 		- budding, embryonic, incipient
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 perennial
 ?
@@ -180,7 +180,7 @@ pious
 	- **Ex.** Her pious demeanor masked a deep-seated arrogance towards less fortunate people.
 	- Synonyms
 		- sanctimonious, hypocritical, holier-than-thou
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 providential
 ?
@@ -189,7 +189,7 @@ providential
 	- **Ex.** The rain's end just before the parade was providential.
 	- Synonyms
 		- auspicious, propitious, felicitous
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 prowess
 ?
@@ -216,7 +216,7 @@ slander
 	- **Ex.** The rival candidate slandered him throughout the campaign.
 	- Synonyms
 		- defame, libel, smear
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-29,2,250-->
 
 stalwart
 ?
@@ -234,7 +234,7 @@ supplicate
 	- **Ex.** The followers supplicated for guidance.
 	- Synonyms
 		- entreat, implore, petition
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 terse
 ?
@@ -243,7 +243,7 @@ terse
 	- **Ex.** His terse reply left everyone surprised by its directness.
 	- Synonyms
 		- concise, brusque, blunt
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,11,270-->
 
 tirade
 ?
@@ -252,7 +252,7 @@ tirade
 	- **Ex.** She went on a tirade about the inefficiencies of the system.
 	- Synonyms
 		- diatribe, invective, harangue
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 universal
 ?
@@ -261,7 +261,7 @@ universal
 	- **Ex.** The desire for peace is universal among nations.
 	- Synonyms
 		- omnipresent, ubiquitous, pervading
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 vanquish
 ?
@@ -284,4 +284,4 @@ woeful
 	- **Ex.** His performance in the play, I'm sorry to say, was woeful.
 	- Synonyms
 		- dreadful, atrocious, deplorable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->

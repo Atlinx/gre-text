@@ -8,7 +8,7 @@ acquiesce
 	- **Ex.** Though unhappy with the decision, she chose to acquiesce rather than argue.
 	- Synonyms
 		- abide by, countenance, brook
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 adroit
 ?
@@ -26,7 +26,7 @@ amend
 	- **Ex.** The company decided to amend its policies to be more environmentally friendly.
 	- Synonyms
 		- revise, alter, revamp
-<!--SR:!2025-10-27,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 animus
 ?
