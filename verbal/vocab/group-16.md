@@ -8,7 +8,7 @@ antedate
 	- **Ex.** His journal entry antedates the official records.
 	- Synonyms
 		- precede, predate, come before
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-09,14,290-->
 
 banish
 ?
@@ -26,7 +26,7 @@ bridle
 	- **Ex.** She bridled her anger and responded calmly.
 	- Synonyms
 		- curb, check, stifle
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-27,1,250-->
 
 comply
 ?
@@ -44,7 +44,7 @@ crestfallen
 	- **Ex.** He looked crestfallen after hearing the results.
 	- Synonyms
 		- downhearted, dejected, glum
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,12,270-->
 
 curtail
 ?
@@ -62,7 +62,7 @@ elucidate
 	- **Ex.** He provided examples to elucidate his point.
 	- Synonyms
 		- illuminate, explicate, unravel
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-05,10,270-->
 
 evade
 ?
@@ -103,7 +103,7 @@ iconoclastic
 	- **Ex.** His iconoclastic views were both criticized and praised.
 	- Synonyms
 		- renegade, heretical, nonconformist
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,12,270-->
 
 immure
 ?
@@ -166,7 +166,7 @@ peculiar
 	- **Ex.** There's a peculiar smell coming from the kitchen.
 	- Synonyms
 		- uncanny, anomalous, idiosyncratic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-05,10,270-->
 
 premeditate
 ?
@@ -234,7 +234,7 @@ skittish
 	- **Ex.** The skittish kitten darted under the couch at the slightest sound.
 	- Synonyms
 		- restive, fidgety, anxious
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,11,270-->
 
 superfluous
 ?
@@ -279,4 +279,4 @@ vociferous
 	- **Ex.** The vociferous debate continued for hours.
 	- Synonyms
 		- vehement, uninhibited, outspoken
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,11,270-->

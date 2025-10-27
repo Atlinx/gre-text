@@ -8,7 +8,7 @@ alienate
 	- **Ex.** His behavior began to alienate his friends and family.
 	- Synonyms
 		- sever, drive a wedge, disunite
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,16,290-->
 
 apathy
 ?
@@ -17,7 +17,7 @@ apathy
 	- **Ex.** The team's losing streak led to apathy among the fans.
 	- Synonyms
 		- indifference, passivity, phlegm
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,15,290-->
 
 apropos
 ?
@@ -26,7 +26,7 @@ apropos
 	- **Ex.** The quote she used in her speech was apropos for the current events.
 	- Synonyms
 		- pertinent, apt, apposite
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,15,290-->
 
 apt
 ?
@@ -45,7 +45,7 @@ apt
 	- **Ex.** The apt student solved the complex equation in mere seconds.
 	- Synonyms
 		- clever, adept, astute
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,2,250-->
 
 cloak
 ?
@@ -54,7 +54,7 @@ cloak
 	- **Ex.** The spy used a fake identity to cloak his true intentions.
 	- Synonyms
 		- veil, shroud, mask
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,15,290-->
 
 consensus
 ?
@@ -63,7 +63,7 @@ consensus
 	- **Ex.** The group reached a consensus after much debate.
 	- Synonyms
 		- concord, accord, harmony
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,15,290-->
 
 distort
 ?
@@ -81,7 +81,7 @@ divergent
 	- **Ex.** They held divergent opinions on the issue.
 	- Synonyms
 		- disparate, antithetical, clashing
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,12,270-->
 
 elated
 ?
@@ -99,7 +99,7 @@ enchant
 	- **Ex.** The music seemed to enchant her, as she lost herself in its melody.
 	- Synonyms
 		- captivate, dazzle, beguile
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,12,270-->
 
 entrenched
 ?
@@ -108,7 +108,7 @@ entrenched
 	- **Ex.** His opinions were so entrenched that no one could change his mind.
 	- Synonyms
 		- rooted, indelible, immutable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-05,10,270-->
 
 exotic
 ?
@@ -117,7 +117,7 @@ exotic
 	- **Ex.** The garden was filled with exotic flowers.
 	- Synonyms
 		- striking, unconventional, peculiar
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,16,290-->
 
 exploitative
 ?
@@ -126,7 +126,7 @@ exploitative
 	- **Ex.** The company was criticized for its exploitative practices.
 	- Synonyms
 		- predatory, opportunistic, extortionate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-09,14,290-->
 
 foreseeable
 ?
@@ -135,7 +135,7 @@ foreseeable
 	- **Ex.** No solution was in the foreseeable future, so they decided to pause and reconsider.
 	- Synonyms
 		- anticipated, projected, presumable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-27,1,230-->
 
 forsake
 ?
@@ -144,7 +144,7 @@ forsake
 	- **Ex.** He decided to forsake his old habits.
 	- Synonyms
 		- shun, renounce, forgo
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-09,14,290-->
 
 gratify
 ?
@@ -153,7 +153,7 @@ gratify
 	- **Ex.** Seeing his students succeed was enough to gratify the old teacher.
 	- Synonyms
 		- gladden, indulge, quench
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,16,290-->
 
 heed
 ?
@@ -162,7 +162,7 @@ heed
 	- **Ex.** The hiker failed to heed warnings about the dangerous trail.
 	- Synonyms
 		- mind, follow, consider
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,11,270-->
 
 judicious
 ?
@@ -171,7 +171,7 @@ judicious
 	- **Ex.** In handling the dispute, her judicious approach was appreciated by all parties involved.
 	- Synonyms
 		- prudent, shrewd, canny
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,2,250-->
 
 lucid
 ?
@@ -180,7 +180,7 @@ lucid
 	- **Ex.** The explanation was lucid and concise.
 	- Synonyms
 		- intelligible, cogent, articulate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-07,12,270-->
 
 pertinent
 ?
@@ -189,7 +189,7 @@ pertinent
 	- **Ex.** She provided data pertinent to the case, shedding light on the mystery.
 	- Synonyms
 		- material, apt, germane
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,16,290-->
 
 propriety
 ?
@@ -216,7 +216,7 @@ sensational
 	- **Ex.** The magazine is known for its sensational headlines.
 	- Synonyms
 		- overdramatized, lurid, melodramatic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-05,10,270-->
 
 sophisticated
 ?
@@ -239,7 +239,7 @@ strife
 	- **Ex.** The political strife in the country was concerning.
 	- Synonyms
 		- friction, discord, dissension
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-05,10,270-->
 
 understated
 ?
@@ -257,7 +257,7 @@ unscrupulous
 	- **Ex.** The unscrupulous merchant was known to overcharge unsuspecting tourists.
 	- Synonyms
 		- amoral, reprobate, shameless
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,2,250-->
 
 veracity
 ?
@@ -266,7 +266,7 @@ veracity
 	- **Ex.** The journalist questioned the veracity of the politician's claims.
 	- Synonyms
 		- exactness, authenticity, fidelity
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,11,270-->
 
 virulent
 ?
@@ -284,4 +284,4 @@ volatile
 	- **Ex.** The situation at the border remained volatile, with tensions rising daily.
 	- Synonyms
 		- explosive, fraught, turbulent
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-09,14,290-->
