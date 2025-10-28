@@ -45,7 +45,7 @@ apt
 	- **Ex.** The apt student solved the complex equation in mere seconds.
 	- Synonyms
 		- clever, adept, astute
-<!--SR:!2025-10-28,2,250-->
+<!--SR:!2025-10-29,1,230-->
 
 cloak
 ?
@@ -171,7 +171,7 @@ judicious
 	- **Ex.** In handling the dispute, her judicious approach was appreciated by all parties involved.
 	- Synonyms
 		- prudent, shrewd, canny
-<!--SR:!2025-10-28,2,250-->
+<!--SR:!2025-11-02,5,250-->
 
 lucid
 ?
@@ -257,7 +257,7 @@ unscrupulous
 	- **Ex.** The unscrupulous merchant was known to overcharge unsuspecting tourists.
 	- Synonyms
 		- amoral, reprobate, shameless
-<!--SR:!2025-10-28,2,250-->
+<!--SR:!2025-11-02,5,250-->
 
 veracity
 ?

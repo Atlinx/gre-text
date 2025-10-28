@@ -251,7 +251,7 @@ subsume
 	- **Ex.** Most of these phenomena can be subsumed under two broad categories.
 	- Synonyms
 		- incorporate, encompass, consolidate
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 surmount
 ?

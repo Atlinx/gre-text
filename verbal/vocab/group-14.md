@@ -94,7 +94,7 @@ deride
 	- **Ex.** Critics derided his performance as amateurish.
 	- Synonyms
 		- jeer at, pillory, disparage
-<!--SR:!2025-10-28,2,250-->
+<!--SR:!2025-10-29,1,230-->
 
 dictate
 ?
@@ -189,7 +189,7 @@ reticent
 	- **Ex.** Though an expert in his field, he was reticent about his own achievements.
 	- Synonyms
 		- inhibited, diffident, unassuming
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-11-05,8,250-->
 
 stringent
 ?

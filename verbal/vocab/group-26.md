@@ -8,7 +8,7 @@ apprehension
 	- **Ex.** The dark clouds caused apprehension among the villagers.
 	- Synonyms
 		- nervousness, unease, trepidation
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-10-30,2,230-->
 
 ardent
 ?
@@ -26,7 +26,7 @@ axiomatic
 	- **Ex.** It's axiomatic that the sun rises in the east.
 	- Synonyms
 		- apodictic, unquestionable, manifest
-<!--SR:!2025-10-28,3,230-->
+<!--SR:!2025-11-06,9,250-->
 
 cease
 ?
@@ -71,7 +71,7 @@ eclectic
 	- **Ex.** His decorating style is eclectic, blending antique and modern elements.
 	- Synonyms
 		- assorted, disparate, miscellaneous
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 equanimity
 ?
@@ -116,7 +116,7 @@ flustered
 	- **Ex.** He became flustered when confronted with unexpected questions.
 	- Synonyms
 		- befuddled, perplexed, baffled
-<!--SR:!2025-10-28,1,210-->
+<!--SR:!2025-10-30,2,210-->
 
 gullible
 ?

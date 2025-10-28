@@ -53,7 +53,7 @@ decry
 	- **Ex.** Activists decry the new policy as harmful.
 	- Synonyms
 		- denounce, lambast, censure
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-29,1,210-->
 
 duress
 ?

@@ -8,7 +8,7 @@ abeyance
 	- **Ex.** The project was held in abeyance until more funds became available.
 	- Synonyms
 		- remission, moratorium, dormancy
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-10-29,1,250-->
 
 abstract
 ?
@@ -49,7 +49,7 @@ august
 	- **Ex.** The august institution has stood for centuries as a beacon of knowledge.
 	- Synonyms
 		- venerable, eminent, majestic
-<!--SR:!2025-10-28,1,208-->
+<!--SR:!2025-10-30,2,208-->
 
 burnish
 ?
@@ -58,7 +58,7 @@ burnish
 	- **Ex.** She worked hard to burnish her skills, ensuring she was recognized as a top expert in her field.
 	- Synonyms
 		- polish, refine, ameliorate
-<!--SR:!2025-10-28,3,248-->
+<!--SR:!2025-11-04,7,248-->
 
 coy
 ?
@@ -157,7 +157,7 @@ inchoate
 	- **Ex.** Their plans for the business were still inchoate.
 	- Synonyms
 		- nascent, incipient, preliminary
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 penchant
 ?
@@ -166,7 +166,7 @@ penchant
 	- **Ex.** She has a penchant for classical music.
 	- Synonyms
 		- appetite, fondness, predilection
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 quandary
 ?
@@ -193,7 +193,7 @@ quash
 	- **Ex.** The judge decided to quash the case due to a lack of evidence.
 	- Synonyms
 		- rescind, quell, subdue
-<!--SR:!2025-10-28,3,248-->
+<!--SR:!2025-11-04,7,248-->
 
 quibble
 ?

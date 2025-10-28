@@ -76,7 +76,7 @@ captious
 	- **Ex.** The reviewer was captious and nitpicky.
 	- Synonyms
 		- nitpicking, caviling, carping
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 conclusive
 ?
@@ -148,7 +148,7 @@ harangue
 	- **Ex.** The politician delivered a passionate harangue to his supporters.
 	- Synonyms
 		- diatribe, tirade, broadside
-<!--SR:!2025-10-28,1,210-->
+<!--SR:!2025-10-30,2,210-->
 
 ploy
 ?
@@ -175,7 +175,7 @@ pomposity
 	- **Ex.** His speech was filled with pomposity.
 	- Synonyms
 		- imperiousness, bombast, grandiosity
-<!--SR:!2025-10-28,1,190-->
+<!--SR:!2025-10-30,2,190-->
 
 proxy
 ?

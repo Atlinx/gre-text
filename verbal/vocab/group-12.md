@@ -26,7 +26,7 @@ beneficent
 	- **Ex.** The beneficent organization provided meals to the homeless.
 	- Synonyms
 		- altruistic, humanitarian, benevolent
-<!--SR:!2025-10-28,2,256-->
+<!--SR:!2025-11-02,5,256-->
 
 canny
 ?
@@ -116,7 +116,7 @@ hackneyed
 	- **Ex.** "Love at first sight" is a hackneyed plot in romance novels.
 	- Synonyms
 		- trite, banal, pedestrian
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-11-05,8,250-->
 
 incongruous
 ?
@@ -143,7 +143,7 @@ laconic
 	- **Ex.** His laconic reply was simply, "No."
 	- Synonyms
 		- terse, pithy, taciturn
-<!--SR:!2025-10-28,2,256-->
+<!--SR:!2025-11-02,5,256-->
 
 lucrative
 ?
@@ -279,4 +279,4 @@ vitiate
 	- **Ex.** Excessive use of clichés will vitiate the effectiveness of a speech.
 	- Synonyms
 		- taint, contaminate, sully
-<!--SR:!2025-10-28,2,256-->
+<!--SR:!2025-11-02,5,256-->

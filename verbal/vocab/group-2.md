@@ -195,7 +195,7 @@ contrite
 	- **Ex.** Genuinely contrite, the man accepted his sentence without protest.
 	- Synonyms
 		- repentant, rueful, chastened
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 convoluted
 ?

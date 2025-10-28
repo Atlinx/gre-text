@@ -167,7 +167,7 @@ illusory
 	- **Ex.** His sense of victory was illusory, as new challenges awaited.
 	- Synonyms
 		- delusional, bogus, sham
-<!--SR:!2025-10-28,2,252-->
+<!--SR:!2025-11-02,5,252-->
 
 invidious
 ?
@@ -181,7 +181,7 @@ invidious
 	- **Ex.** The invidious policy discriminated against certain groups, causing widespread resentment.
 	- Synonyms
 		- unjust, discriminatory, iniquitous
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-10-30,2,230-->
 
 lethargic
 ?
@@ -304,4 +304,4 @@ superficial
 	- **Ex.** Sarah gave the car merely a superficial cleaning.
 	- Synonyms
 		- cursory, desultory, perfunctory
-<!--SR:!2025-10-28,2,252-->
+<!--SR:!2025-11-02,5,252-->

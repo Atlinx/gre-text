@@ -80,7 +80,7 @@ contretemps
 	- **Ex.** A brief contretemps over the bill was resolved when she agreed to pay.
 	- Synonyms
 		- dissension, quarrel, squabble
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 conviction
 ?
@@ -107,7 +107,7 @@ depose
 	- **Ex.** A plan was in place to depose the corrupt leader.
 	- Synonyms
 		- axe, oust, expel
-<!--SR:!2025-10-28,4,270-->
+<!--SR:!2025-11-08,11,270-->
 
 detente
 ?
@@ -134,7 +134,7 @@ echelon
 	- **Ex.** As a new recruit, he was in the lowest echelon of the company.
 	- Synonyms
 		- rank, rung, stratum
-<!--SR:!2025-10-28,4,270-->
+<!--SR:!2025-11-08,11,270-->
 
 ennui
 ?
@@ -170,7 +170,7 @@ fulcrum
 	- **Ex.** Trust is the fulcrum of their strong, enduring relationship together.
 	- Synonyms
 		- crux, linchpin, keystone
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 imbroglio
 ?
@@ -229,7 +229,7 @@ ominous
 	- **Ex.** Dark clouds on the horizon gave an ominous sign of the coming storm.
 	- Synonyms
 		- inauspicious, menacing, sinister
-<!--SR:!2025-10-28,4,270-->
+<!--SR:!2025-11-08,11,270-->
 
 outlandish
 ?
@@ -238,7 +238,7 @@ outlandish
 	- **Ex.** His outfit was outlandish, with bright colors and mismatched patterns.
 	- Synonyms
 		- eccentric, quirky, anomalous
-<!--SR:!2025-10-28,4,270-->
+<!--SR:!2025-11-08,11,270-->
 
 propitious
 ?
@@ -256,7 +256,7 @@ prurient
 	- **Ex.** The film was criticized for its prurient scenes.
 	- Synonyms
 		- salacious, lustful, lascivious
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-29,1,210-->
 
 sadistic
 ?
@@ -265,7 +265,7 @@ sadistic
 	- **Ex.** The villain's sadistic tendencies made the movie quite intense.
 	- Synonyms
 		- fiendish, ruthless, bestial
-<!--SR:!2025-10-28,4,270-->
+<!--SR:!2025-11-08,11,270-->
 
 zenith
 ?

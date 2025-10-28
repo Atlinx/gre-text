@@ -35,7 +35,7 @@ aver
 	- **Ex.** He avers that he was home at the time of the incident.
 	- Synonyms
 		- maintain, attest, avow
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 barrage
 ?
@@ -148,7 +148,7 @@ goad
 	- **Ex.** She tried to goad him into accepting the challenge.
 	- Synonyms
 		- spur, prod, rouse
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 imminent
 ?

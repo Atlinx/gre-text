@@ -71,7 +71,7 @@ blithe
 	- **Ex.** His blithe attitude towards missing deadlines was infuriating.
 	- Synonyms
 		- heedless, nonchalant, blasé
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-29,1,210-->
 
 contempt
 ?

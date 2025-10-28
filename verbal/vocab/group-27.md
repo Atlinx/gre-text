@@ -170,7 +170,7 @@ philistine
 	- **Ex.** The art community considered him a philistine because of his disdain for modern art.
 	- Synonyms
 		- materialist, lowbrow, boor
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 relegate
 ?
@@ -233,7 +233,7 @@ turpitude
 	- **Ex.** The judge condemned the criminal's life of turpitude.
 	- Synonyms
 		- depravity, vice, villainy
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 unalloyed
 ?

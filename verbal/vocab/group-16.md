@@ -85,7 +85,7 @@ feckless
 	- **Ex.** Despite his talents, his feckless attitude led to missed opportunities.
 	- Synonyms
 		- hopeless, ineffectual, inept
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-11-05,8,250-->
 
 fester
 ?
@@ -184,7 +184,7 @@ profligate
 	- **Ex.** His profligate spending on luxury cars and lavish vacations soon left him in financial ruin.
 	- Synonyms
 		- improvident, prodigal, thriftless
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-30,2,230-->
 
 reconcile
 ?

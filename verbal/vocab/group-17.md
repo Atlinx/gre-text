@@ -148,7 +148,7 @@ impugn
 	- **Ex.** Critics impugn his motives for donating to charity.
 	- Synonyms
 		- dispute, take issue, contest
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-10-30,2,230-->
 
 incessant
 ?
@@ -211,7 +211,7 @@ pithy
 	- **Ex.** He had a knack for pithy comments.
 	- Synonyms
 		- terse, succinct, trenchant
-<!--SR:!2025-10-28,1,210-->
+<!--SR:!2025-10-30,2,210-->
 
 pliant
 ?

@@ -62,7 +62,7 @@ discomfit
 	- **Ex.** The unexpected question seemed to discomfit the speaker.
 	- Synonyms
 		- discompose, fluster, agitate
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-29,1,210-->
 
 dissent
 ?
@@ -117,7 +117,7 @@ facetious
 	- **Ex.** His facetious remarks were not well-received at the funeral.
 	- Synonyms
 		- flippant, glib, waggish
-<!--SR:!2025-10-28,1,230-->
+<!--SR:!2025-10-29,1,210-->
 
 fallible
 ?
@@ -225,7 +225,7 @@ prevaricate
 	- **Ex.** He would always prevaricate when asked about his past.
 	- Synonyms
 		- equivocate, waver, fence
-<!--SR:!2025-10-28,3,250-->
+<!--SR:!2025-10-30,2,230-->
 
 prime
 ?
