@@ -1,5 +1,5 @@
 # Group 13
-#flashcards/verbal/vocab/group-13
+#flashcards/verbal/vocab/gregmat/group-13
 
 affinity
 ?

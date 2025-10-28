@@ -1,5 +1,5 @@
 # Group 27
-#flashcards/verbal/vocab/group-27
+#flashcards/verbal/vocab/gregmat/group-27
 
 antagonize
 ?
@@ -8,7 +8,7 @@ antagonize
 	- **Ex.** His confrontational manner tended to antagonize his colleagues.
 	- Synonyms
 		- rile, incite, foment
-<!--SR:!2025-10-27,2,210-->
+<!--SR:!2025-10-31,4,210-->
 
 barren
 ?
@@ -17,7 +17,7 @@ barren
 	- **Ex.** The desert is a barren landscape with little vegetation.
 	- Synonyms
 		- infertile, sterile, desolate
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 bombastic
 ?
@@ -26,7 +26,7 @@ bombastic
 	- **Ex.** The politician's speech was bombastic, full of lofty words but lacking substance.
 	- Synonyms
 		- inflated, turgid, pretentious
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-08,12,270-->
 
 cajole
 ?
@@ -35,7 +35,7 @@ cajole
 	- **Ex.** She managed to cajole him into doing his homework.
 	- Synonyms
 		- lure, wheedle, coax
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 chary
 ?
@@ -44,7 +44,7 @@ chary
 	- **Ex.** She was chary of investing in the risky venture.
 	- Synonyms
 		- skeptical, dubious, heedful
-<!--SR:!2025-10-26,1,250-->
+<!--SR:!2025-10-31,4,270-->
 
 curmudgeon
 ?
@@ -53,7 +53,7 @@ curmudgeon
 	- **Ex.** The old curmudgeon grumbled daily, resisting the village's progressive changes.
 	- Synonyms
 		- crank, sourpuss, crosspatch
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 dirge
 ?
@@ -62,7 +62,7 @@ dirge
 	- **Ex.** The choir sang a dirge to honor the deceased.
 	- Synonyms
 		- requiem, lament, elegy
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 estimable
 ?
@@ -80,7 +80,7 @@ euphemism
 	- **Ex.** "Passed away" is a euphemism for "died."
 	- Synonyms
 		- softening, circumlocution, underplaying
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 excoriate
 ?
@@ -89,7 +89,7 @@ excoriate
 	- **Ex.** The film was excoriated by critics for its shallow plot.
 	- Synonyms
 		- censure, denounce, blast
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-29,2,210-->
 
 exigent
 ?
@@ -98,7 +98,7 @@ exigent
 	- **Ex.** The patient's condition was exigent, demanding instant medical attention.
 	- Synonyms
 		- pressing, dire, acute
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 haughty
 ?
@@ -116,7 +116,7 @@ heady
 	- **Ex.** The success brought a heady feeling of invincibility.
 	- Synonyms
 		- potent, inebriate, vinous
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 imperturbable
 ?
@@ -125,7 +125,7 @@ imperturbable
 	- **Ex.** Even during the crisis, she remained imperturbable.
 	- Synonyms
 		- unruffled, serene, composed
-<!--SR:!2025-10-27,2,226-->
+<!--SR:!2025-11-02,6,246-->
 
 implacable
 ?
@@ -134,7 +134,7 @@ implacable
 	- **Ex.** Her anger towards the betrayal was implacable.
 	- Synonyms
 		- adamant, unsparing, relentless
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 lambaste
 ?
@@ -143,7 +143,7 @@ lambaste
 	- **Ex.** The coach lambasted the team for their poor performance.
 	- Synonyms
 		- condemn, berate, upbraid
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 miscreant
 ?
@@ -152,7 +152,7 @@ miscreant
 	- **Ex.** The security caught the miscreant trying to steal.
 	- Synonyms
 		- culprit, malefactor, delinquent
-<!--SR:!2025-10-27,2,210-->
+<!--SR:!2025-11-02,6,230-->
 
 peccadillo
 ?
@@ -161,7 +161,7 @@ peccadillo
 	- **Ex.** Though a peccadillo in some eyes, he couldn't overlook her tardiness.
 	- Synonyms
 		- delinquency, misdeed, misdemeanor
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 philistine
 ?
@@ -170,7 +170,7 @@ philistine
 	- **Ex.** The art community considered him a philistine because of his disdain for modern art.
 	- Synonyms
 		- materialist, lowbrow, boor
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-28,1,230-->
 
 relegate
 ?
@@ -197,7 +197,7 @@ sentimental
 	- **Ex.** He kept the old letters for sentimental reasons.
 	- Synonyms
 		- tender, soppy, mawkish
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 squander
 ?
@@ -206,7 +206,7 @@ squander
 	- **Ex.** He squandered all his earnings on luxury items.
 	- Synonyms
 		- lavish, splurge, dissipate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 swindle
 ?
@@ -215,7 +215,7 @@ swindle
 	- **Ex.** The con artist tried to swindle her out of her savings.
 	- Synonyms
 		- dupe, hoax, bamboozle
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 tangible
 ?
@@ -224,7 +224,7 @@ tangible
 	- **Ex.** The benefits of the project were tangible and widely appreciated.
 	- Synonyms
 		- tactile, palpable, perceptible
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 turpitude
 ?
@@ -233,7 +233,7 @@ turpitude
 	- **Ex.** The judge condemned the criminal's life of turpitude.
 	- Synonyms
 		- depravity, vice, villainy
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 unalloyed
 ?

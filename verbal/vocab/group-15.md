@@ -1,5 +1,5 @@
 # Group 15
-#flashcards/verbal/vocab/group-15
+#flashcards/verbal/vocab/gregmat/group-15
 
 alienate
 ?

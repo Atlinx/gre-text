@@ -1,5 +1,5 @@
 # Group 16
-#flashcards/verbal/vocab/group-16
+#flashcards/verbal/vocab/gregmat/group-16
 
 antedate
 ?

@@ -1,5 +1,5 @@
 # Group 5
-#flashcards/verbal/vocab/group-5
+#flashcards/verbal/vocab/gregmat/group-5
 
 aloof
 ?

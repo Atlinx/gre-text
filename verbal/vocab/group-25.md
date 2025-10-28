@@ -1,5 +1,5 @@
 # Group 25
-#flashcards/verbal/vocab/group-25
+#flashcards/verbal/vocab/gregmat/group-25
 
 adept
 ?
@@ -8,7 +8,7 @@ adept
 	- **Ex.** She is adept at playing the violin.
 	- Synonyms
 		- deft, proficient, talented
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 adverse
 ?
@@ -17,7 +17,7 @@ adverse
 	- **Ex.** The project faced adverse weather conditions.
 	- Synonyms
 		- disadvantageous, unpropitious, deleterious
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 appropriate
 ?
@@ -40,7 +40,7 @@ archetype
 	- **Ex.** The hero is an archetype often found in literature.
 	- Synonyms
 		- standard, representative, paradigm
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 articulate
 ?
@@ -49,7 +49,7 @@ articulate
 	- **Ex.** She is very articulate, she can express her thoughts very well.
 	- Synonyms
 		- eloquent, coherent, well-spoken
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 auspicious
 ?
@@ -58,7 +58,7 @@ auspicious
 	- **Ex.** It was an auspicious start to the journey.
 	- Synonyms
 		- opportune, propitious, providential
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 bereft
 ?
@@ -67,7 +67,7 @@ bereft
 	- **Ex.** She felt bereft of hope.
 	- Synonyms
 		- deprived of, wanting, denuded of
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 captious
 ?
@@ -76,7 +76,7 @@ captious
 	- **Ex.** The reviewer was captious and nitpicky.
 	- Synonyms
 		- nitpicking, caviling, carping
-<!--SR:!2025-10-25,1,250-->
+<!--SR:!2025-10-28,1,230-->
 
 conclusive
 ?
@@ -85,7 +85,7 @@ conclusive
 	- **Ex.** The evidence was conclusive.
 	- Synonyms
 		- incontrovertible, irrefutable, decisive
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 conspire
 ?
@@ -103,7 +103,7 @@ delineate
 	- **Ex.** The report delineates the steps to be taken.
 	- Synonyms
 		- portray, outline, specify
-<!--SR:!2025-10-25,3,250-->
+<!--SR:!2025-11-06,10,270-->
 
 disentangle
 ?
@@ -121,7 +121,7 @@ exhort
 	- **Ex.** The speaker exhorted the audience to take action.
 	- Synonyms
 		- adjure, enjoin, pressure
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 frailty
 ?
@@ -148,7 +148,7 @@ harangue
 	- **Ex.** The politician delivered a passionate harangue to his supporters.
 	- Synonyms
 		- diatribe, tirade, broadside
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-10-28,1,210-->
 
 ploy
 ?
@@ -157,7 +157,7 @@ ploy
 	- **Ex.** The discount was just a marketing ploy.
 	- Synonyms
 		- ruse, scheme, gambit
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 poise
 ?
@@ -166,7 +166,7 @@ poise
 	- **Ex.** She handled the situation with great poise.
 	- Synonyms
 		- phlegm, equanimity, composure
-<!--SR:!2025-10-27,2,210-->
+<!--SR:!2025-10-31,4,210-->
 
 pomposity
 ?
@@ -175,7 +175,7 @@ pomposity
 	- **Ex.** His speech was filled with pomposity.
 	- Synonyms
 		- imperiousness, bombast, grandiosity
-<!--SR:!2025-10-27,2,210-->
+<!--SR:!2025-10-28,1,190-->
 
 proxy
 ?
@@ -184,7 +184,7 @@ proxy
 	- **Ex.** Voting by proxy is allowed.
 	- Synonyms
 		- surrogate, delegate, agent
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 relent
 ?
@@ -198,7 +198,7 @@ relent
 	- **Ex.** The storm finally relented.
 	- Synonyms
 		- abate, subside, ease off
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 rhetoric
 ?
@@ -225,7 +225,7 @@ sparse
 	- **Ex.** Sparse vegetation is found in the desert due to the harsh conditions.
 	- Synonyms
 		- infrequent, scant, scarce
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 steadfast
 ?
@@ -234,7 +234,7 @@ steadfast
 	- **Ex.** Her steadfast loyalty was commendable.
 	- Synonyms
 		- resolute, staunch, dedicated
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 suspect
 ?
@@ -243,7 +243,7 @@ suspect
 	- **Ex.** His reasons for being late were suspect.
 	- Synonyms
 		- dubious, skeptical, questionable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 tedious
 ?
@@ -261,7 +261,7 @@ vitality
 	- **Ex.** The team played with great vitality.
 	- Synonyms
 		- vivacity, verve, exuberance
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 whimsical
 ?
@@ -275,7 +275,7 @@ whimsical
 	- **Ex.** Her whimsical decisions often surprised everyone at the team meetings.
 	- Synonyms
 		- capricious, volatile, impulsive
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 yield
 ?

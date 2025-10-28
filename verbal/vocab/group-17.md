@@ -1,5 +1,5 @@
 # Group 17
-#flashcards/verbal/vocab/group-17
+#flashcards/verbal/vocab/gregmat/group-17
 
 acclaim
 ?

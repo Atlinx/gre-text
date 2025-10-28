@@ -1,5 +1,5 @@
 # Group 1
-#flashcards/verbal/vocab/group-1
+#flashcards/verbal/vocab/gregmat/group-1
 
 abound
 ?

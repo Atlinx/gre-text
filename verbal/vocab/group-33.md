@@ -1,5 +1,5 @@
 # Group 33
-#flashcards/verbal/vocab/group-33
+#flashcards/verbal/vocab/gregmat/group-33
 
 affluent
 ?
@@ -148,7 +148,7 @@ erstwhile
 	- **Ex.** Her erstwhile friend became her fiercest competitor.
 	- Synonyms
 		- antecedent, quondam, precursory
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 gloat
 ?
@@ -166,7 +166,7 @@ harrowing
 	- **Ex.** The harrowing tale of survival left the audience speechless.
 	- Synonyms
 		- traumatic, excruciating, agonizing
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 indefinite
 ?
@@ -180,7 +180,7 @@ indefinite
 	- **Ex.** The agreement's terms remained indefinite, sparking debate.
 	- Synonyms
 		- ambiguous, nebulous, equivocal
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 ingenious
 ?
@@ -276,7 +276,7 @@ token
 	- **Ex.** His apology was a mere token gesture.
 	- Synonyms
 		- nominal, hollow, inconsequential
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 unravel
 ?

@@ -1,5 +1,5 @@
 # Group 18
-#flashcards/verbal/vocab/group-18
+#flashcards/verbal/vocab/gregmat/group-18
 
 abet
 ?

@@ -1,5 +1,5 @@
 # Group 32
-#flashcards/verbal/vocab/group-32
+#flashcards/verbal/vocab/gregmat/group-32
 
 abstruse
 ?
@@ -8,7 +8,7 @@ abstruse
 	- **Ex.** Quantum physics is an abstruse topic for many.
 	- Synonyms
 		- obscure, arcane, esoteric
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,210-->
 
 auxiliary
 ?
@@ -26,7 +26,7 @@ caricature
 	- **Ex.** The cartoonist caricatured the mayor with an exaggerated, oversized head.
 	- Synonyms
 		- parody, satirize, lampoon
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 depravity
 ?
@@ -44,7 +44,7 @@ dilettante
 	- **Ex.** Though a passionate painter, he was dismissed as a dilettante by professionals.
 	- Synonyms
 		- layperson, dabbler, layman
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 effrontery
 ?
@@ -53,7 +53,7 @@ effrontery
 	- **Ex.** He had the effrontery to deny the clear evidence against him.
 	- Synonyms
 		- impudence, audacity, temerity
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 encroach
 ?
@@ -71,7 +71,7 @@ endow
 	- **Ex.** Nature has endowed him with great athletic talent.
 	- Synonyms
 		- endue, bestow, confer
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-08,12,270-->
 
 entreat
 ?
@@ -80,7 +80,7 @@ entreat
 	- **Ex.** She entreated him to stay for one more day.
 	- Synonyms
 		- plead, implore, beseech
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 gregarious
 ?
@@ -116,7 +116,7 @@ ineluctable
 	- **Ex.** Aging is an ineluctable process of life.
 	- Synonyms
 		- irrevocable, predestined, immutable
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 inquisitive
 ?
@@ -125,7 +125,7 @@ inquisitive
 	- **Ex.** Her inquisitive nature led her to explore various topics.
 	- Synonyms
 		- nosy, prying, intrigued
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-04,8,250-->
 
 latitude
 ?
@@ -211,7 +211,7 @@ penurious
 	- **Ex.** His penurious habits often led him to avoid spending money, even on essentials.
 	- Synonyms
 		- indigent, destitute, impecunious
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 piquant
 ?
@@ -220,7 +220,7 @@ piquant
 	- **Ex.** The mystery novel had a piquant plot twist that kept readers engaged until the very end.
 	- Synonyms
 		- intriguing, spirited, sparkling
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 rampant
 ?
@@ -261,7 +261,7 @@ turbid
 	- **Ex.** The professor's lecture was turbid, leaving students bewildered about the main points.
 	- Synonyms
 		- arcane, vague, ambiguous
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 turgid
 ?
@@ -275,13 +275,13 @@ turgid
 	- **Ex.** His speech was turgid with unnecessary technical terms.
 	- Synonyms
 		- bombastic, pompous, pretentious
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 vacuous
 ?
 - adjective
-	- lacking intelligence or thought
+	- lacking intelligence or thought; stupid
 	- **Ex.** The actor gave a vacuous smile during the interview.
 	- Synonyms
 		- vacant, inane, inscrutable
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->

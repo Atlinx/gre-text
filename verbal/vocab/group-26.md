@@ -1,5 +1,5 @@
 # Group 26
-#flashcards/verbal/vocab/group-26
+#flashcards/verbal/vocab/gregmat/group-26
 
 apprehension
 ?
@@ -44,7 +44,7 @@ conducive
 	- **Ex.** The peaceful environment was conducive to studying.
 	- Synonyms
 		- favorable, propitious, beneficial
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 corporeal
 ?
@@ -62,7 +62,7 @@ doctrinaire
 	- **Ex.** His doctrinaire approach didn't leave room for alternative perspectives.
 	- Synonyms
 		- dogmatic, opinionated, fanatical
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 eclectic
 ?
@@ -71,7 +71,7 @@ eclectic
 	- **Ex.** His decorating style is eclectic, blending antique and modern elements.
 	- Synonyms
 		- assorted, disparate, miscellaneous
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-28,1,230-->
 
 equanimity
 ?
@@ -80,7 +80,7 @@ equanimity
 	- **Ex.** She handled the crisis with remarkable equanimity.
 	- Synonyms
 		- poise, serenity, composure
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 exorbitant
 ?
@@ -98,7 +98,7 @@ fickle
 	- **Ex.** The fickle winds of fashion can make today's trend obsolete tomorrow.
 	- Synonyms
 		- capricious, mercurial, volatile
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 figurative
 ?
@@ -107,7 +107,7 @@ figurative
 	- **Ex.** He used the storm as a figurative representation of his internal turmoil.
 	- Synonyms
 		- metaphorical, allegorical, representative
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 flustered
 ?
@@ -116,7 +116,7 @@ flustered
 	- **Ex.** He became flustered when confronted with unexpected questions.
 	- Synonyms
 		- befuddled, perplexed, baffled
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-10-28,1,210-->
 
 gullible
 ?
@@ -125,7 +125,7 @@ gullible
 	- **Ex.** Scammers often prey on gullible individuals.
 	- Synonyms
 		- naive, credulous, unwary
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 idiosyncratic
 ?
@@ -134,7 +134,7 @@ idiosyncratic
 	- **Ex.** She has idiosyncratic mannerisms that make her easily recognizable.
 	- Synonyms
 		- eccentric, quirky, characteristic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 incidental
 ?
@@ -143,7 +143,7 @@ incidental
 	- **Ex.** Incidental expenses were added to the main bill.
 	- Synonyms
 		- auxiliary, peripheral, subordinate
-<!--SR:!2025-10-27,2,210-->
+<!--SR:!2025-10-31,4,210-->
 
 ingrained
 ?
@@ -152,7 +152,7 @@ ingrained
 	- **Ex.** It's an ingrained habit that's hard to break.
 	- Synonyms
 		- entrenched, inveterate, intrinsic
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 insolent
 ?
@@ -170,7 +170,7 @@ lampoon
 	- **Ex.** He used his comic strip to lampoon the school's rules.
 	- Synonyms
 		- ridicule, mock, deride
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 lavish
 ?
@@ -184,7 +184,7 @@ lavish
 	- **Ex.** Parents often lavish love on their children without expecting return.
 	- Synonyms
 		- expend, squander, splurge
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 lugubrious
 ?
@@ -193,7 +193,7 @@ lugubrious
 	- **Ex.** The movie had a lugubrious tone that left many in tears.
 	- Synonyms
 		- mournful, woeful, dismal
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 macabre
 ?
@@ -202,7 +202,7 @@ macabre
 	- **Ex.** The play had a macabre sense of humor.
 	- Synonyms
 		- morbid, lurid, ghastly
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 morose
 ?
@@ -211,7 +211,7 @@ morose
 	- **Ex.** He was morose after hearing the bad news.
 	- Synonyms
 		- sulky, glum, peevish
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 officious
 ?
@@ -220,7 +220,7 @@ officious
 	- **Ex.** Her officious attitude constantly pushed unwanted advice on everyone nearby.
 	- Synonyms
 		- pushy, meddling, bumptious
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 ramification
 ?
@@ -229,7 +229,7 @@ ramification
 	- **Ex.** The ramification of the decision was felt years later.
 	- Synonyms
 		- aftermath, fallout, byproduct
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 serene
 ?
@@ -238,7 +238,7 @@ serene
 	- **Ex.** The serene landscape was a perfect place to relax.
 	- Synonyms
 		- restful, placid, tranquil
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 supplant
 ?
@@ -247,7 +247,7 @@ supplant
 	- **Ex.** The new system will supplant the old method.
 	- Synonyms
 		- displace, supersede, usurp
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 tacit
 ?
@@ -256,7 +256,7 @@ tacit
 	- **Ex.** There was a tacit agreement that he would pay for dinner.
 	- Synonyms
 		- implicit, insinuated, deducible
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 transcend
 ?
@@ -265,7 +265,7 @@ transcend
 	- **Ex.** The music seemed to transcend cultural boundaries.
 	- Synonyms
 		- surpass, outpace, transgress
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 treatise
 ?
@@ -274,4 +274,4 @@ treatise
 	- **Ex.** He wrote a treatise on environmental conservation.
 	- Synonyms
 		- disquisition, exposition, discourse
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-03,7,250-->

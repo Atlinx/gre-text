@@ -1,5 +1,5 @@
 # Group 7
-#flashcards/verbal/vocab/group-7
+#flashcards/verbal/vocab/gregmat/group-7
 
 appease
 ?

@@ -1,5 +1,5 @@
 # Group 14
-#flashcards/verbal/vocab/group-14
+#flashcards/verbal/vocab/gregmat/group-14
 
 acquiesce
 ?

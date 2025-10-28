@@ -1,5 +1,5 @@
 # Group 12
-#flashcards/verbal/vocab/group-12
+#flashcards/verbal/vocab/gregmat/group-12
 
 acrimonious
 ?

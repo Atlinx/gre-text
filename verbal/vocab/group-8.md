@@ -1,5 +1,5 @@
 # Group 8
-#flashcards/verbal/vocab/group-8
+#flashcards/verbal/vocab/gregmat/group-8
 
 accentuate
 ?
@@ -26,7 +26,7 @@ convivial
 	- **Ex.** The family reunion was a convivial event with laughter and storytelling.
 	- Synonyms
 		- amiable, cordial, genial
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 decadent
 ?
@@ -35,7 +35,7 @@ decadent
 	- **Ex.** The extravagant party was a display of decadent luxury.
 	- Synonyms
 		- dissolute, depraved, corrupt
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-30,3,250-->
 
 egregious
 ?

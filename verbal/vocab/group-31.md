@@ -1,5 +1,5 @@
 # Group 31
-#flashcards/verbal/vocab/group-31
+#flashcards/verbal/vocab/gregmat/group-31
 
 abrogate
 ?
@@ -8,7 +8,10 @@ abrogate
 	- **Ex.** The government decided to abrogate the outdated law.
 	- Synonyms
 		- axe, repeal, repudiate
-<!--SR:!2025-10-26,1,230-->
+- verb
+	- evade
+	- **Ex.** We believe the board is abrogating its responsibilities to its shareholders.
+<!--SR:!2025-10-30,3,250-->
 
 aghast
 ?
@@ -17,7 +20,7 @@ aghast
 	- **Ex.** She was aghast at the news of the sudden tragedy.
 	- Synonyms
 		- appalled, dismayed, agog
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 apprise
 ?
@@ -26,7 +29,7 @@ apprise
 	- **Ex.** The manager apprised him of the changes in the plan.
 	- Synonyms
 		- intimate, illuminate, enlighten
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 beguile
 ?
@@ -35,7 +38,7 @@ beguile
 	- **Ex.** The magician's tricks beguiled the audience.
 	- Synonyms
 		- seduce, enchant, mesmerize
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,210-->
 
 boon
 ?
@@ -53,7 +56,7 @@ callous
 	- **Ex.** His callous remarks upset her deeply.
 	- Synonyms
 		- cruel, hard-bitten, ruthless
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-07,11,270-->
 
 coddle
 ?
@@ -62,7 +65,7 @@ coddle
 	- **Ex.** Some believe modern children are coddled too much.
 	- Synonyms
 		- indulge, cosset, gratify
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 crescendo
 ?
@@ -71,7 +74,7 @@ crescendo
 	- **Ex.** The music reached a crescendo during the finale.
 	- Synonyms
 		- apex, acme, pinnacle
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 extenuating
 ?
@@ -80,7 +83,7 @@ extenuating
 	- **Ex.** The judge considered the extenuating circumstances before sentencing.
 	- Synonyms
 		- alleviating, palliative, diminishing
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 frenetic
 ?
@@ -107,7 +110,7 @@ hapless
 	- **Ex.** The hapless traveler lost his luggage twice.
 	- Synonyms
 		- doomed, jinxed, forlorn
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 immaculate
 ?
@@ -116,7 +119,7 @@ immaculate
 	- **Ex.** She wore an immaculate white dress.
 	- Synonyms
 		- unsoiled, pristine, gleaming
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-06,10,270-->
 
 obfuscate
 ?
@@ -134,7 +137,7 @@ ossify
 	- **Ex.** Over time, his beliefs began to ossify.
 	- Synonyms
 		- rigidify, petrify, solidify
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 pastiche
 ?
@@ -143,7 +146,7 @@ pastiche
 	- **Ex.** The film was a pastiche of several genres.
 	- Synonyms
 		- parody, melange, patchwork
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-28,1,230-->
 
 perspicacious
 ?
@@ -152,7 +155,7 @@ perspicacious
 	- **Ex.** Her perspicacious insights solved the complex puzzle.
 	- Synonyms
 		- shrewd, observant, discerning
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-10-28,1,230-->
 
 ponderous
 ?
@@ -161,7 +164,7 @@ ponderous
 	- **Ex.** His speech had a ponderous tone, making it hard to follow.
 	- Synonyms
 		- clumsy, labored, lumbering
-<!--SR:!2025-10-26,1,210-->
+<!--SR:!2025-10-28,1,190-->
 
 recluse
 ?
@@ -188,7 +191,7 @@ rhapsody
 	- **Ex.** She went into a rhapsody about her favorite book.
 	- Synonyms
 		- ecstasy, elation, euphoria
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 serendipitous
 ?
@@ -197,7 +200,7 @@ serendipitous
 	- **Ex.** The unexpected meeting was a serendipitous event.
 	- Synonyms
 		- fluky, fortuitous, providential
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 shirk
 ?
@@ -206,7 +209,7 @@ shirk
 	- **Ex.** He was criticized for trying to shirk his responsibilities.
 	- Synonyms
 		- evade, dodge, shun
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-06,10,270-->
 
 sinecure
 ?
@@ -215,7 +218,7 @@ sinecure
 	- **Ex.** After years of hard work, she longed for a sinecure.
 	- Synonyms
 		- cushy job, plum job, free ride
-<!--SR:!2025-10-27,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 sinuous
 ?
@@ -224,7 +227,7 @@ sinuous
 	- **Ex.** The sinuous path followed the course of the river.
 	- Synonyms
 		- flexuous, tortuous, serpentine
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-08,12,270-->
 
 sordid
 ?
@@ -238,7 +241,7 @@ sordid
 	- **Ex.** The room's sordid conditions reflected years of neglect and decay.
 	- Synonyms
 		- grimy, muddy, shabby
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 stanch
 ?
@@ -256,7 +259,7 @@ surfeit
 	- **Ex.** There was a surfeit of food at the banquet.
 	- Synonyms
 		- surplus, glut, plethora
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-10-28,1,230-->
 
 ulterior
 ?

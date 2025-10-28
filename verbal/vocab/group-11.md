@@ -1,5 +1,5 @@
 # Group 11
-#flashcards/verbal/vocab/group-11
+#flashcards/verbal/vocab/gregmat/group-11
 
 abhor
 ?

@@ -1,5 +1,5 @@
 # Group 9
-#flashcards/verbal/vocab/group-9
+#flashcards/verbal/vocab/gregmat/group-9
 
 boorish
 ?
@@ -26,7 +26,7 @@ circumspect
 	- **Ex.** She was circumspect about sharing personal information at work.
 	- Synonyms
 		- wary, chary, guarded
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 comity
 ?
@@ -130,7 +130,7 @@ felicitous
 	- **Ex.** The team's victory came at a felicitous time, boosting morale when it was needed the most.
 	- Synonyms
 		- fortunate, encouraging, favorable
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 forbear
 ?

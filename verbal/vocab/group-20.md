@@ -1,5 +1,5 @@
 # Group 20
-#flashcards/verbal/vocab/group-20
+#flashcards/verbal/vocab/gregmat/group-20
 
 abreast
 ?

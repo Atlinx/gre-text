@@ -1,5 +1,5 @@
 # Group 28
-#flashcards/verbal/vocab/group-28
+#flashcards/verbal/vocab/gregmat/group-28
 
 abeyance
 ?
@@ -22,7 +22,7 @@ abstract
 	- **Ex.** She managed to abstract the main idea from the lengthy article.
 	- Synonyms
 		- extricate, disengage, segregate
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 affront
 ?
@@ -31,7 +31,7 @@ affront
 	- **Ex.** He took his friend's comment as an affront to his character.
 	- Synonyms
 		- snub, slur, malign
-<!--SR:!2025-10-26,1,208-->
+<!--SR:!2025-10-29,2,208-->
 
 agitate
 ?
@@ -49,7 +49,7 @@ august
 	- **Ex.** The august institution has stood for centuries as a beacon of knowledge.
 	- Synonyms
 		- venerable, eminent, majestic
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-10-28,1,208-->
 
 burnish
 ?
@@ -67,7 +67,7 @@ coy
 	- **Ex.** She gave him a coy smile across the room.
 	- Synonyms
 		- demure, reticent, timid
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-11-01,5,228-->
 
 deprecate
 ?
@@ -76,7 +76,7 @@ deprecate
 	- **Ex.** Environmentalists deprecate the use of plastic due to its long decomposition rate.
 	- Synonyms
 		- deplore, abhor, denounce
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-01,5,248-->
 
 disdain
 ?
@@ -94,7 +94,7 @@ disperse
 	- **Ex.** The smoke began to disperse after the fire was extinguished.
 	- Synonyms
 		- disseminate, diffuse, sprinkle
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-03,7,268-->
 
 distend
 ?
@@ -103,7 +103,7 @@ distend
 	- **Ex.** The balloon began to distend as it was filled with air.
 	- Synonyms
 		- bulge, dilate, bloat
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-11-01,5,228-->
 
 endemic
 ?
@@ -112,7 +112,7 @@ endemic
 	- **Ex.** The koala is endemic to certain parts of Australia, and cannot be found in the wild elsewhere.
 	- Synonyms
 		- native, indigenous, aboriginal
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-03,7,268-->
 
 enmity
 ?
@@ -121,7 +121,7 @@ enmity
 	- **Ex.** There was enmity between the two rival gangs.
 	- Synonyms
 		- acrimony, animus, loathing
-<!--SR:!2025-10-26,2,241-->
+<!--SR:!2025-11-01,5,241-->
 
 gauche
 ?
@@ -130,7 +130,7 @@ gauche
 	- **Ex.** His gauche comment about her dress made the evening uncomfortable.
 	- Synonyms
 		- inelegant, gawky, unrefined
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-11-01,5,228-->
 
 hysterical
 ?
@@ -139,7 +139,7 @@ hysterical
 	- **Ex.** Her hysterical laughter caught everyone's attention.
 	- Synonyms
 		- delirious, feverish, agitated
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-01,5,248-->
 
 impudent
 ?
@@ -148,7 +148,7 @@ impudent
 	- **Ex.** The student's impudent behavior got him sent to the principal's office.
 	- Synonyms
 		- brazen, insolent, flippant
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-11-02,6,248-->
 
 inchoate
 ?
@@ -157,7 +157,7 @@ inchoate
 	- **Ex.** Their plans for the business were still inchoate.
 	- Synonyms
 		- nascent, incipient, preliminary
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 penchant
 ?
@@ -166,7 +166,7 @@ penchant
 	- **Ex.** She has a penchant for classical music.
 	- Synonyms
 		- appetite, fondness, predilection
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-10-28,1,230-->
 
 quandary
 ?
@@ -175,7 +175,7 @@ quandary
 	- **Ex.** Choosing between the two job offers left her in a quandary.
 	- Synonyms
 		- plight, conundrum, predicament
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 quarantine
 ?
@@ -184,7 +184,7 @@ quarantine
 	- **Ex.** Authorities quickly quarantined the town to contain the unknown virus.
 	- Synonyms
 		- sequester, seclude, segregate
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-03,7,268-->
 
 quash
 ?
@@ -211,7 +211,7 @@ ravage
 	- **Ex.** The hurricane ravaged the coastal town.
 	- Synonyms
 		- raze, plunder, havoc
-<!--SR:!2025-10-27,3,268-->
+<!--SR:!2025-11-08,12,288-->
 
 recant
 ?
@@ -220,7 +220,7 @@ recant
 	- **Ex.** Under pressure, he recanted his statement.
 	- Synonyms
 		- abjure, disown, renege
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-11-01,5,228-->
 
 redoubtable
 ?
@@ -229,7 +229,7 @@ redoubtable
 	- **Ex.** The chess champion was a redoubtable adversary.
 	- Synonyms
 		- imposing, awe-inspiring, daunting
-<!--SR:!2025-10-27,2,228-->
+<!--SR:!2025-11-01,5,228-->
 
 retiring
 ?
@@ -238,7 +238,7 @@ retiring
 	- **Ex.** Despite being a brilliant scientist, she was a retiring individual who shunned the limelight.
 	- Synonyms
 		- bashful, reclusive, timorous
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 shrill
 ?
@@ -247,7 +247,7 @@ shrill
 	- **Ex.** The shrill ring of the telephone startled him.
 	- Synonyms
 		- shrieking, strident, squawky
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 sophistry
 ?
@@ -256,7 +256,7 @@ sophistry
 	- **Ex.** The politician's speech was pure sophistry, lacking genuine solutions.
 	- Synonyms
 		- casuistry, fallacy, paralogism
-<!--SR:!2025-10-26,1,208-->
+<!--SR:!2025-10-29,2,208-->
 
 substantiate
 ?
@@ -265,7 +265,7 @@ substantiate
 	- **Ex.** She was able to substantiate her claim with documents.
 	- Synonyms
 		- endorse, corroborate, validate
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-01,5,248-->
 
 wily
 ?
@@ -274,4 +274,4 @@ wily
 	- **Ex.** The wily fox managed to escape the trap every time.
 	- Synonyms
 		- cunning, shrewd, crafty
-<!--SR:!2025-10-26,2,248-->
+<!--SR:!2025-11-01,5,248-->

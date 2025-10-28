@@ -1,5 +1,5 @@
 # Group 6
-#flashcards/verbal/vocab/group-6
+#flashcards/verbal/vocab/gregmat/group-6
 
 admonish
 ?
@@ -31,7 +31,7 @@ affectation
 	- **Ex.** His French accent was an affectation as he had never been to France.
 	- Synonyms
 		- artificiality, posturing, airs
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,210-->
 
 alleviate
 ?
@@ -139,7 +139,7 @@ pertinacious
 	- **Ex.** Her pertinacious efforts to get the law changed eventually paid off.
 	- Synonyms
 		- assiduous, resolute, dogged
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 presumptuous
 ?
@@ -157,7 +157,7 @@ probity
 	- **Ex.** His reputation for probity in all aspects of his life is well known.
 	- Synonyms
 		- integrity, rectitude, virtue
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,210-->
 
 proliferate
 ?

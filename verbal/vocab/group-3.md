@@ -1,5 +1,5 @@
 # Group 3
-#flashcards/verbal/vocab/group-3
+#flashcards/verbal/vocab/gregmat/group-3
 
 abate
 ?
@@ -17,7 +17,7 @@ abjure
 	- **Ex.** Under enough pressure, many will abjure their principles.
 	- Synonyms
 		- renounce, relinquish, forgo
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-03,7,250-->
 
 anomalous
 ?
@@ -35,7 +35,7 @@ antipathy
 	- **Ex.** The two generals harbored significant antipathy toward each other.
 	- Synonyms
 		- animosity, aversion, enmity
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 arcane
 ?
@@ -86,7 +86,7 @@ ascetic
 	- **Ex.** The ascetic lived in a small cell, devoid of luxuries.
 	- Synonyms
 		- hermit, recluse, celibate
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 assuage
 ?
@@ -154,7 +154,7 @@ censure
 	- **Ex.** The senator was publicly censured for her vile remarks.
 	- Synonyms
 		- condemn, chastise, castigate
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 chicanery
 ?
@@ -163,7 +163,7 @@ chicanery
 	- **Ex.** His masterful chicanery allowed the realization of his political goals.
 	- Synonyms
 		- duplicity, subterfuge, skulduggery
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-07,11,270-->
 
 coalesce
 ?
@@ -273,7 +273,7 @@ dilatory
 	- **Ex.** The filibuster is a dilatory measure designed to impede Congressional operations.
 	- Synonyms
 		- sluggish, indolent, deferring
-<!--SR:!2025-10-27,3,250-->
+<!--SR:!2025-11-05,9,250-->
 
 equivocate
 ?

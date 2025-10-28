@@ -1,5 +1,5 @@
 # Group 2
-#flashcards/verbal/vocab/group-2
+#flashcards/verbal/vocab/gregmat/group-2
 
 adulterate
 ?

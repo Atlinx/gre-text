@@ -1,5 +1,5 @@
 # Group 4
-#flashcards/verbal/vocab/group-4
+#flashcards/verbal/vocab/gregmat/group-4
 
 abstain
 ?
@@ -116,7 +116,7 @@ intimate
 	- **Ex.** The professor intimated there would be a test next week.
 	- Synonyms
 		- insinuate, hint, allude to
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 invigorate
 ?

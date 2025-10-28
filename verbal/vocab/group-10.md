@@ -1,5 +1,5 @@
 # Group 10
-#flashcards/verbal/vocab/group-10
+#flashcards/verbal/vocab/gregmat/group-10
 
 acumen
 ?

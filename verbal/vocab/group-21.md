@@ -1,5 +1,5 @@
 # Group 21
-#flashcards/verbal/vocab/group-21
+#flashcards/verbal/vocab/gregmat/group-21
 
 abject
 ?
@@ -26,7 +26,7 @@ animosity
 	- **Ex.** There's a long history of animosity between the two rival groups.
 	- Synonyms
 		- enmity, acrimony, animus
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 aver
 ?
@@ -44,7 +44,7 @@ barrage
 	- **Ex.** The politician faced a barrage of questions from the reporters.
 	- Synonyms
 		- bombardment, deluge, plethora
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 cathartic
 ?

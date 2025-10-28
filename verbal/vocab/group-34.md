@@ -1,5 +1,5 @@
 # Group 34
-#flashcards/verbal/vocab/group-34
+#flashcards/verbal/vocab/gregmat/group-34
 
 abrasive
 ?
@@ -13,7 +13,7 @@ abrasive
 	- **Ex.** The carpenter used an abrasive material to smooth the wood.
 	- Synonyms
 		- coarse, caustic, mordant
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-29,2,230-->
 
 artful
 ?
@@ -82,7 +82,7 @@ circumstantial
 	- **Ex.** Her circumstantial account of the event painted a vivid picture, making it very believable.
 	- Synonyms
 		- particularized, minute, comprehensive
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 cloying
 ?
@@ -109,7 +109,7 @@ denigrate
 	- **Ex.** It's not right to denigrate someone's achievements without evidence.
 	- Synonyms
 		- deprecate, besmirch, calumniate
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-30,3,250-->
 
 disciple
 ?
@@ -141,7 +141,7 @@ forebode
 	- **Ex.** His sudden mood change seemed to forebode trouble in the office.
 	- Synonyms
 		- prognosticate, augur, foretoken
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 ideologue
 ?
@@ -173,7 +173,7 @@ imperative
 	- **Ex.** The sergeant issued an imperative order to the troops.
 	- Synonyms
 		- peremptory, authoritative, obligatory
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,210-->
 
 impulsive
 ?
@@ -191,7 +191,7 @@ interminable
 	- **Ex.** The meeting felt interminable, lasting for hours without a clear conclusion.
 	- Synonyms
 		- incessant, perpetual, relentless
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 intuitive
 ?
@@ -205,7 +205,7 @@ intuitive
 	- **Ex.** The intuitive user interface made the software accessible to beginners.
 	- Synonyms
 		- comprehensible, digestible, intelligible
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 lassitude
 ?
@@ -214,7 +214,7 @@ lassitude
 	- **Ex.** After a long day of hiking, a feeling of lassitude set in.
 	- Synonyms
 		- lethargy, languor, enervation
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 omit
 ?
@@ -259,7 +259,7 @@ prefigure
 	- **Ex.** Early innovations in technology often prefigure future societal changes.
 	- Synonyms
 		- foreshadow, presage, herald
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-30,3,250-->
 
 presage
 ?
@@ -273,7 +273,7 @@ presage
 	- **Ex.** The stock market's volatility was a presage of economic instability.
 	- Synonyms
 		- omen, harbinger, prognostication
-<!--SR:!2025-10-26,1,230-->
+<!--SR:!2025-10-28,1,230-->
 
 prescribe
 ?

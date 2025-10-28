@@ -1,5 +1,5 @@
 # Group 24
-#flashcards/verbal/vocab/group-24
+#flashcards/verbal/vocab/gregmat/group-24
 
 assail
 ?
@@ -8,7 +8,7 @@ assail
 	- **Ex.** The politician was assailed by critics on both sides of the aisle.
 	- Synonyms
 		- assault, censure, castigate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 benevolent
 ?
@@ -17,7 +17,7 @@ benevolent
 	- **Ex.** Her benevolent nature made her loved by all who knew her.
 	- Synonyms
 		- altruistic, humanitarian, magnanimous
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 berate
 ?
@@ -26,7 +26,7 @@ berate
 	- **Ex.** The coach berated the player for his lack of effort during the game.
 	- Synonyms
 		- rebuke, reprove, chastise
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 buoyant
 ?
@@ -35,7 +35,7 @@ buoyant
 	- **Ex.** Her buoyant spirit lifted everyone's mood.
 	- Synonyms
 		- bright, jovial, jaunty
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-10-29,2,250-->
 
 buttress
 ?
@@ -44,7 +44,7 @@ buttress
 	- **Ex.** The lawyer buttressed his argument with facts.
 	- Synonyms
 		- fortify, prop up, brace
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-06,10,270-->
 
 condone
 ?
@@ -62,6 +62,7 @@ contravene
 	- **Ex.** The company's actions contravene international law.
 	- Synonyms
 		- breach, infringe, flout
+<!--SR:!2025-10-30,3,260-->
 
 denounce
 ?
@@ -79,7 +80,7 @@ despotic
 	- **Ex.** The despotic regime was overthrown by the revolution.
 	- Synonyms
 		- autocratic, dictatorial, totalitarian
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 deviate
 ?
@@ -88,7 +89,7 @@ deviate
 	- **Ex.** It's risky to deviate from the accepted protocol.
 	- Synonyms
 		- diverge, digress, veer
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 disinterested
 ?
@@ -97,7 +98,7 @@ disinterested
 	- **Ex.** The judge remained disinterested and fair throughout the trial.
 	- Synonyms
 		- impartial, objective, just
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-03,7,250-->
 
 escalate
 ?
@@ -106,7 +107,7 @@ escalate
 	- **Ex.** The situation began to escalate, causing concern among the residents.
 	- Synonyms
 		- soar, mushroom, be magnified
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 exorcise
 ?
@@ -115,7 +116,7 @@ exorcise
 	- **Ex.** He was finally able to exorcise the haunting memories of her past.
 	- Synonyms
 		- cast out, expel, cleanse
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 finicky
 ?
@@ -124,7 +125,7 @@ finicky
 	- **Ex.** She's finicky about her food and only eats organic.
 	- Synonyms
 		- fastidious, overcritical, exacting
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 foil
 ?
@@ -133,7 +134,7 @@ foil
 	- **Ex.** The police managed to foil the robbery.
 	- Synonyms
 		- thwart, impede, hamper
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 intertwined
 ?
@@ -142,7 +143,7 @@ intertwined
 	- **Ex.** Their lives were deeply intertwined after years of friendship.
 	- Synonyms
 		- entwined, interwoven, coiled
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 inundate
 ?
@@ -151,7 +152,7 @@ inundate
 	- **Ex.** After the news broke, the office was inundated with phone calls.
 	- Synonyms
 		- overburden, deluge, engulf
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 ironclad
 ?
@@ -160,7 +161,7 @@ ironclad
 	- **Ex.** She had an ironclad alibi for the night of the crime.
 	- Synonyms
 		- impenetrable, unquestionable, inviolable
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 jeopardize
 ?
@@ -169,7 +170,7 @@ jeopardize
 	- **Ex.** Drinking and driving can jeopardize innocent lives.
 	- Synonyms
 		- endanger, menace, compromise
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 mercurial
 ?
@@ -178,7 +179,7 @@ mercurial
 	- **Ex.** He was known for his mercurial temperament.
 	- Synonyms
 		- capricious, temperamental, impulsive
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 oblivious
 ?
@@ -187,7 +188,7 @@ oblivious
 	- **Ex.** He was completely oblivious to the danger ahead.
 	- Synonyms
 		- heedless, ignorant, unsuspecting
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-11,15,290-->
 
 perpetrate
 ?
@@ -196,7 +197,7 @@ perpetrate
 	- **Ex.** The crimes were perpetrated by a masked individual.
 	- Synonyms
 		- execute, pull off, effectuate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 plaintive
 ?
@@ -205,7 +206,7 @@ plaintive
 	- **Ex.** The song had a plaintive melody that touched everyone's hearts.
 	- Synonyms
 		- mournful, doleful, woeful
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-11-01,5,230-->
 
 poignant
 ?
@@ -223,7 +224,7 @@ quiescent
 	- **Ex.** The volcano remains quiescent for now.
 	- Synonyms
 		- latent, inert, in abeyance
-<!--SR:!2025-10-27,2,210-->
+<!--SR:!2025-10-31,4,210-->
 
 reiterate
 ?
@@ -232,7 +233,7 @@ reiterate
 	- **Ex.** I must reiterate the importance of this task.
 	- Synonyms
 		- restate, belabor, recapitulate
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-12,16,290-->
 
 subside
 ?
@@ -241,7 +242,7 @@ subside
 	- **Ex.** The storm began to subside after a few hours.
 	- Synonyms
 		- abate, ebb, recede
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->
 
 subsume
 ?
@@ -250,7 +251,7 @@ subsume
 	- **Ex.** Most of these phenomena can be subsumed under two broad categories.
 	- Synonyms
 		- incorporate, encompass, consolidate
-<!--SR:!2025-10-26,2,230-->
+<!--SR:!2025-10-28,1,230-->
 
 surmount
 ?
@@ -259,7 +260,7 @@ surmount
 	- **Ex.** She had to surmount numerous challenges to achieve her goal.
 	- Synonyms
 		- prevail over, clear, conquer
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-08,12,270-->
 
 tangential
 ?
@@ -268,4 +269,4 @@ tangential
 	- **Ex.** Let's not go off on tangential issues during the meeting.
 	- Synonyms
 		- peripheral, incidental, extraneous
-<!--SR:!2025-10-26,4,270-->
+<!--SR:!2025-11-10,14,290-->

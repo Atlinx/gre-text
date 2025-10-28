@@ -1,5 +1,5 @@
 # Group 19
-#flashcards/verbal/vocab/group-19
+#flashcards/verbal/vocab/gregmat/group-19
 
 acolyte
 ?
