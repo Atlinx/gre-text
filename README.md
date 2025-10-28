@@ -1,3 +1,3 @@
 # GRE
 
-This repository stores notes + flashcards for the GRE exam. Test changes...
+This repository stores notes + flashcards for the GRE exam.
