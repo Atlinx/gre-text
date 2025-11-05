@@ -34,20 +34,6 @@ Point $(x, y)$
 ?
 - Point on the coordinate plane, defined by an $x$ and $y$ component
 
-Circle equation
-?
-- $$\huge (x - x_{0})^2 + (y - y_{0})^2 = r^2$$
-	- $(x_{0}, y_{0}) =$ center of circle
-	- $r =$ radius of circle
-	- It's very important that we're adding $x^2$ to $y^2$
-		- Otherwise, it's not a circle
-
-Parabola vertex form
-?
-- $$\huge y - y_{0} = a(x - x_{0})^2$$
-	- $(x_{0}, y_{0}) =$ center of parabola (tip of the U shape)
-	- $a =$ scaling factor
-
 Hyperbola
 ?
 - $$\huge y=\frac{1}{x}$$
@@ -56,12 +42,6 @@ Hyperbola
 	- Left right hyperbola
 - $$\huge \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$$
 	- Up down hyperbola
-- $$
-
-Parabola standard form
-?
-- $$\huge y = ax^2 + bx + c$$
-	- $c =$ y-intercept
 
 y-intercept
 ?
@@ -103,10 +83,12 @@ Reflecting over common lines
 	- $(x, y) \to (x, 2k - y)$
 - Reflecting a point over $x=k$ (horizontal line)
 	- $(x, y) \to (2k - x, y)$
+- Reflecting about the origin
+	- $(x, y) \to (-x, -y)$
+	- **NOTE:** This is **DIFFERENT** from reflecting from quadrant I to III
 - Reflecting diagonally from quadrant II to IV ($y = x$)
 	- $(x, y) \to (y, x)$
 - Reflecting diagonally from quadrant I to III ($y = -x$)
-	- AKA Reflecting about the origin
 	- $(x, y) \to (-y, -x)$
 
 y-intercept form
@@ -140,9 +122,3 @@ Distance between two points
 ?
 - $$\huge \text{dist} = \sqrt{ (x_{1} - x_{0})^2 + (y_{1} - y_{0})^2 }$$
 - Given two points $(x_{0}, y_{0})$ and $(x_{1}, y_{1})$
-
-Finding a perpendicular line
-?
-- Make a new line with the the negative reciprocal of the slope of the line
-- **Ex.** $y = \dfrac{3}{5}$
-	- Perpendicular line: $y = -\dfrac{5}{3}x$
