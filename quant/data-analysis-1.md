@@ -80,7 +80,10 @@ Mode
 Median = mean relationship
 ?
 - Median = mean
-	- By accident
+	- By coincidence
+		- **Ex.** $-20, 10, 20, 40, 50$
+			- Median = mean = 20
+			- However, the list is **NOT** symmetrical or evenly spaced
 	- If dataset is evenly spaced
 		- **Ex.** $3, 4, 5, 6, 7$
 		- Median = mean = 5
@@ -102,9 +105,9 @@ Weighted mean
 	- $$\frac{3 * 1 + 7 * 5 + 11 * 3}{9} = \frac{71}{9} \approx 7.889$$
 		- The unit is measured in the number
 
-Quartile
+Quartiles
 ?
-- Divides data into four even groups
+- Splitting data into four even groups
 	- Each group should contain 25% of the data
 - Boundaries
 	- **Min**
@@ -126,10 +129,14 @@ Quartile
 		- If boundary is between two numbers, then take the average of the two numbers as the boundary
 - ![[Pasted image 20251105002804.png]]
 
+Quintile
+?
+- Splitting data into 5 even groups
+
 Percentiles
 ?
-- Splitting data into 100 groups
-- If some is in the $n$th percentile, then they are better than $n$ people
+- Splitting data into 100 even groups
+- If someone is in the $n$th percentile, then they are better than $n$ people
 - **Ex.**
 	- $0^{th}$ percentile $\to$ Better than 0% (no one)
 	- $1^{th}$ percentile $\to$ Better than 1% of people

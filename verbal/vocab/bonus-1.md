@@ -148,3 +148,9 @@ rogue
 	- denoting a person or thing that behaves in an aberrant or unpredictable way, typically with damaging or dangerous effects.
 	- **Ex.** The soldier went rogue and deserted his post.
 <!--SR:!2025-10-31,3,250-->
+
+ignominy
+?
+- noun
+	- public shame or disgrace
+	- **Ex.** The ignominy of being imprisoned.
