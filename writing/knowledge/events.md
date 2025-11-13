@@ -1,0 +1,22 @@
+# Events
+- Unethical research
+	- 2018 -> Chinese researcher creating gene-edited twins using CRISPR
+		- Done without foresight about the future consequences of the twins
+		- Gene editing can potentially cause off-target mutations, leading to cancer
+	- 1900s -> Tuskegee Syphilis Study
+		- Study conducted by the CDC that tested the effects of syphilis to the point of death.
+		- Research withheld effective treatments like penicillin
+		- Participants in the study were poor Black American sharecroppers
+			- Unregulated studies can prey on vulnerable minorities
+- Business scandals
+	- 2001 -> ENRON
+		- CEO mislead investors
+		- CFO used accounting tricks to misrepresent losses
+		- Led to collapse of company and stock
+			- Stock tied to retirement funds of employees, leaving them penniless
+		- Led to Sarbanes-Oxley act, which enacted stricter reporting standards for public companies, as well as requiring the CEO to personally sign off on all financial statements
+	- 2008 -> Recession
+		- Mortgages are normally difficult to acquire because  
+		- Lenders repackaged high-risk or "subprime" mortgages into securities that were then sold  
+- COVID
+	- 2020 -> COVID-19 pandemic

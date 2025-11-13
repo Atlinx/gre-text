@@ -248,7 +248,7 @@ Count multiples in an interval
 		- If the interval is exclusive on the upper bound and $\dfrac{a}{m} = 0$, then $a_{1} = a_{1} + 1$
 	- $b_{1} - a_{1} + 1 =$ number of multiples of $m$ in the interval
 
-Sum of multiples in an interval
+Sum of multiples in an interval 
 ?
 - Given an interval $[a, b]$, we want to find the sum of the multiples of $m$ in the interval
 - Find the interval boundaries $[a_{1}, b_{1}]$ in the multiple number line

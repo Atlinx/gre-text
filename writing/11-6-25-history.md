@@ -1,0 +1,13 @@
+Historical accuracy should be prioritized over artistic freedom when depicting real events in films and books.  
+  
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+
+
+History documents both humanity's greatest achievements and it's darkest times. This wide-range of events, human emotions, turmoil and triumph is why filmmakers and novelist are so keen to cover its events on the big screen and in paperbacks. The given prompt argues that historical accuracy should be preserved over artistic freedom when depicting real events, and I mostly agree with this definition, as I will discuss in the following two paragraphs.
+
+In the currrent age of the Internet, misinformation quickly spreads like a wildfire. With AI tools, it's easier than ever to generate plausible sounding yet false information to misguide and manipulate others for personal gain or political power. For example, media discussing life in Germany during World War II should not shy away from discussing the Holocaust and the suffering faced by Jewish, queer, and disabled citizens who were systematically imprisioned and killed in a horrific genocide. If media set in World War II begins to gloss over this important event, it would give credence to holocaust denialism and encourage people to turn a blind eye to human oppression and suffering in the modern day.
+
+Historical accuracy in media is also important because it 
+For example, if a far-right filmmaker is producing a film about life in the old American South, they may gloss over details of slavery and present it as respectful and mutually beneficial servitude that gave African Americans food, shelter, and an eduction. However this rose-tinted view of the past would grossly misrepresent the lives of slaves, as they worked long hours in inhumane conditions, faced intense physical abuse as punishment for failing quotas, and suffered emotional trauma from the separation of family as they were bought and sold across plantations. While the truth of slavery may be uncomfortable to discuss, it's nonetheless important for society to understand and learn from it so we don't repeat the mistakes of the past. Therefore, it should be the responsibility of anyone making any form of media to ensure the veracity of their claims and described events.
+
+Artistic media is also incentivised to 

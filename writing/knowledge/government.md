@@ -1,0 +1,13 @@
+# Government
+- Government overreach/censorship
+	- CDC recently pulled research papers containing "forbidden terms" specified by Trump related to gender and sexuality
+	- Trump administration pulled federal grant funding from critical research topics such as climate change
+- Regulation
+	- Food safety
+		- Requiring nutritional labels
+			- Helps consumers make informed choices about their diet
+		- Additives
+			- E.U requires additives to be tested and proven unharmful before they can be used in food
+			- U.S. allows ingredients until they are proven harmful
+			- U.S. has "Generally Recognized as Safe" (GRAS) legislation that was intended for common ingredients like vinegar and salt to bypass regulation
+				- Food producers now use this as a loophole to sneak in ingredients that are self-tested by the company that uses them for safety

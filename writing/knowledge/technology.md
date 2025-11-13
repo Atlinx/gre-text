@@ -1,0 +1,31 @@
+# Technology
+- Advances in AI
+	- AlphaFold
+		- Searching for new protein shapes to design drugs to treat diseases
+	- Identifying if patient has lung cancer from CT and x-ray scans of their chest
+- ChatGPT
+	- Search tool
+	- Perform entry-level jobs
+	- Serve as partners in relationships
+		- Chatbots lack oversight, and 
+			- Fail to recognize and report signs of suicide
+			- Prone to gaslighting and hallucinating
+			- Doesn't push back against user, and unconditionally supports user's opinions and delusions
+				- Murder-suicide after man killed his mother believing she was a spy
+				- 16-year-old confided with ChatGPT before suiciding
+		- Safety measures easily bypassed
+- Online forums
+	- Find like-minded users
+	- Online anonymity encourages harassment, users feel less accountable
+		- Kiwifarms
+			- Forum tied to organized stalking, doxing, harrassment
+			- Anonymity encourages harassment, users feel less accountable
+- Dating apps
+	- Easier to find people who share similar interests
+	- Heavy focus on superficial pictures rather than spending time together and getting to know each other
+- Social media + Recommendation algorithms
+	- Create opinion bubbles
+		- Can breed extremism and dangerous views
+	- Can negatively affect mental health
+		- 
+	- Hook users

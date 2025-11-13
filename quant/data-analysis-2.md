@@ -182,6 +182,20 @@ Counting choices
 				- Exclude the topping
 			- Therefore you have $2$ options for each topping
 
+Combinatorics conditional choices
+?
+- If a choice is conditional, you can break it down into two or more mutually exclusive events that you then sum together
+- **Ex.** Phone numbers have ###-###-#### format. The first 3 digits specifies an area code. The remaining 7 digits specifies a unique identifier. First digit of the 7-digit identifier must be from 2-9 inclusive. The two digits immediately after cannot both be 1.
+	- How many unique identifiers are there for an area code of 103?
+	- 7 digit identifier combos:
+		- $8 \to$ First digit from 2-9 inclusive ($9 - 2 + 1 = 8$)
+		- $1 \cdot 9 + 9 \cdot 10$
+			- Here we have a conditional choice for the next 2 digits, therefore we break the choices down into two mutually exclusive cases that we then sum together
+			- $1 \cdot 9 \to$ Choose $1$, then choose any digit except $1$ ($9$ options)
+			- $9 \cdot 10 \to$ Choose anything except $1$, then choose any digit
+		- $10^4 \to$ Remaining 4 digits can be any digit
+	- $8 \cdot (1 \cdot 9 + 9 \cdot 9) \cdot 10^4 = 7,200,000$
+
 $n!$ permutation
 ?
 - $n!$ is the number of ways to permute $n$ objects
