@@ -5,14 +5,14 @@ eponym
 ?
 - noun
 	- a person after whom a discovery, invention, place, etc., is named or thought to be named.
-<!--SR:!2025-10-30,2,247-->
+<!--SR:!2025-11-14,2,227-->
 
 eponymous
 ?
 - adjective
 	- someone who gives their name to something; someone who is an eponym
 	- **Ex.** Jay Gatsby is the eponymous protagonist of the novel The Great Gatsby
-<!--SR:!2025-10-29,1,227-->
+<!--SR:!2025-11-17,5,227-->
 
 parvenu
 ?
@@ -21,7 +21,7 @@ parvenu
 	- **Ex.** The political inexperience of a parvenu.
 	- Synonyms
 		- arriviste, upstart
-<!--SR:!2025-10-29,1,227-->
+<!--SR:!2025-11-13,1,250-->
 
 nouveau riche
 ?
@@ -30,7 +30,7 @@ nouveau riche
 	- **Ex.** The long-term wealthy and the nouveau riche came flocking to Saint Laurent's show.
 - adjective
 	- relating to the nouveau riche
-<!--SR:!2025-10-29,1,227-->
+<!--SR:!2025-11-17,5,227-->
 
 upstart
 ?
@@ -47,7 +47,7 @@ arriviste
 	- an ambitious or ruthlessly self-seeking person, especially one who has recently acquired wealth or social status; a new arrival
 	- Synonyms
 		- parvenu, upstart
-<!--SR:!2025-10-29,1,227-->
+<!--SR:!2025-11-13,1,207-->
 
 surmise
 ?
@@ -68,7 +68,7 @@ noisome
 		- The noisome scandals.
 	- Synonyms
 		- nasty, off-putting
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-13,1,250-->
 
 mar
 ?
@@ -78,7 +78,7 @@ mar
 	- **Ex.**
 		- No wrinkles marred her face.
 		- Violence marred a number of New Year celebrations.
-<!--SR:!2025-10-29,1,227-->
+<!--SR:!2025-11-17,5,227-->
 
 embroil
 ?
@@ -87,7 +87,7 @@ embroil
 	- **Ex.** She became embroiled in a dispute between two women she hardly knew.
 	- Synonyms
 		- mire
-<!--SR:!2025-10-30,2,247-->
+<!--SR:!2025-11-13,5,247-->
 
 mire
 ?
@@ -99,7 +99,7 @@ mire
 - verb
 	- involve someone or something in (a difficult situation).
 	- **Ex.** The economy is mired in its longest recession since the war.
-<!--SR:!2025-10-31,3,250-->
+<!--SR:!2025-11-15,7,250-->
 
 quagmire
 ?
@@ -113,7 +113,7 @@ quagmire
 	- **Ex.** He was stuck in a legal quagmire.
 	- Synonyms
 		- predicament, quandary
-<!--SR:!2025-10-31,3,250-->
+<!--SR:!2025-11-16,8,250-->
 
 negotiate
 ?
@@ -127,7 +127,7 @@ negotiate
 	- **Ex.** The drivers have to negotiate sharp bends in challenging conditions.
 	- Synonyms
 		- navigate
-<!--SR:!2025-10-30,2,247-->
+<!--SR:!2025-11-13,5,247-->
 
 rake
 ?
@@ -137,7 +137,7 @@ rake
 	- to gather or move a rake
 - noun
 	- a fashionable or wealthy man of dissolute or promiscuous habits.
-<!--SR:!2025-10-30,2,247-->
+<!--SR:!2025-11-13,5,247-->
 
 rogue
 ?
@@ -147,7 +147,7 @@ rogue
 - adjective
 	- denoting a person or thing that behaves in an aberrant or unpredictable way, typically with damaging or dangerous effects.
 	- **Ex.** The soldier went rogue and deserted his post.
-<!--SR:!2025-10-31,3,250-->
+<!--SR:!2025-11-13,1,250-->
 
 ignominy
 ?
