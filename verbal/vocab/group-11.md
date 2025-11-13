@@ -8,7 +8,7 @@ abhor
 	- **Ex.** She abhors cruelty in any form.
 	- Synonyms
 		- loathe, despise, abominate
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-25,42,290-->
 
 boisterous
 ?
@@ -17,7 +17,7 @@ boisterous
 	- **Ex.** The boisterous crowd cheered for their favorite team.
 	- Synonyms
 		- animated, exuberant, ebullient
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-27,44,290-->
 
 chivalrous
 ?
@@ -26,7 +26,7 @@ chivalrous
 	- **Ex.** He displayed chivalrous behavior by holding the door open for her.
 	- Synonyms
 		- gallant, courteous, gentle
-<!--SR:!2025-11-02,9,250-->
+<!--SR:!2025-12-05,22,250-->
 
 churlish
 ?
@@ -35,7 +35,7 @@ churlish
 	- **Ex.** His churlish reply caught everyone off guard.
 	- Synonyms
 		- ungracious, boorish, loutish
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-29,46,290-->
 
 clandestine
 ?
@@ -44,7 +44,7 @@ clandestine
 	- **Ex.** They held clandestine meetings to plan the surprise party.
 	- Synonyms
 		- covert, furtive, stealthy
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-31,48,290-->
 
 complacent
 ?
@@ -53,7 +53,7 @@ complacent
 	- **Ex.** The team became complacent after their early successes.
 	- Synonyms
 		- self-congratulatory, gloating, proud
-<!--SR:!2025-11-05,11,270-->
+<!--SR:!2025-12-13,30,270-->
 
 cumbersome
 ?
@@ -62,7 +62,7 @@ cumbersome
 	- **Ex.** The old computer system was cumbersome and slow.
 	- Synonyms
 		- unwieldy, ungainly, hefty
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-27,44,290-->
 
 debilitating
 ?
@@ -71,7 +71,7 @@ debilitating
 	- **Ex.** The disease had a debilitating effect on him.
 	- Synonyms
 		- enervating, enfeebling, devitalizing
-<!--SR:!2025-11-03,10,270-->
+<!--SR:!2025-12-11,28,270-->
 
 deliberate
 ?
@@ -85,7 +85,7 @@ deliberate
 	- **Ex.** It was a deliberate act of kindness.
 	- Synonyms
 		- conscious, purposeful, premeditated
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-24,41,290-->
 
 droll
 ?
@@ -94,7 +94,7 @@ droll
 	- **Ex.** His droll anecdotes always made us chuckle.
 	- Synonyms
 		- mirthful, hilarious, humorous
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-11-14,1,230-->
 
 eccentric
 ?
@@ -103,7 +103,7 @@ eccentric
 	- **Ex.** The artist was known for his eccentric dress sense.
 	- Synonyms
 		- abnormal, aberrant, anomalous
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2026-01-08,56,310-->
 
 fractious
 ?
@@ -112,7 +112,7 @@ fractious
 	- **Ex.** The fractious toddler threw a tantrum in the store.
 	- Synonyms
 		- grouchy, irascible, intractable
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-11-16,3,250-->
 
 limpid
 ?
@@ -121,7 +121,7 @@ limpid
 	- **Ex.** The limpid waters of the lake reflected the clear blue sky.
 	- Synonyms
 		- lucid, coherent, comprehensible
-<!--SR:!2025-11-01,8,250-->
+<!--SR:!2025-11-14,1,230-->
 
 mawkish
 ?
@@ -130,7 +130,7 @@ mawkish
 	- **Ex.** The movie's mawkish ending left some audience members rolling their eyes.
 	- Synonyms
 		- cloying, saccharine, sickly
-<!--SR:!2025-10-31,7,250-->
+<!--SR:!2025-11-14,1,230-->
 
 obeisance
 ?
@@ -139,7 +139,7 @@ obeisance
 	- **Ex.** The knight paid obeisance to the queen.
 	- Synonyms
 		- homage, adoration, veneration
-<!--SR:!2025-10-31,7,250-->
+<!--SR:!2025-12-02,19,250-->
 
 ostentatious
 ?
@@ -148,7 +148,7 @@ ostentatious
 	- **Ex.** Her ostentatious jewelry drew many envious glances.
 	- Synonyms
 		- pretentious, flamboyant, affected
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-22,39,290-->
 
 panacea
 ?
@@ -157,7 +157,7 @@ panacea
 	- **Ex.** There's no single panacea for the economic challenges we face.
 	- Synonyms
 		- cure-all, elixir, nostrum
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-26,43,290-->
 
 perfunctory
 ?
@@ -166,7 +166,7 @@ perfunctory
 	- **Ex.** His handshake was perfunctory, lacking warmth.
 	- Synonyms
 		- cursory, desultory, superficial
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-23,40,290-->
 
 perilous
 ?
@@ -175,7 +175,7 @@ perilous
 	- **Ex.** The mountain climbers faced perilous conditions.
 	- Synonyms
 		- treacherous, precarious, insecure
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-22,39,290-->
 
 pervasive
 ?
@@ -184,7 +184,7 @@ pervasive
 	- **Ex.** The influence of technology is pervasive in modern society.
 	- Synonyms
 		- prevalent, rife, ubiquitous
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2026-01-15,63,310-->
 
 preclude
 ?
@@ -193,7 +193,7 @@ preclude
 	- **Ex.** His injury precluded him from competing in the race.
 	- Synonyms
 		- block, impede, hinder
-<!--SR:!2025-11-04,10,270-->
+<!--SR:!2025-12-21,38,290-->
 
 predilection
 ?
@@ -202,7 +202,7 @@ predilection
 	- **Ex.** He has a predilection for spicy foods.
 	- Synonyms
 		- fondness, partiality, penchant, proclivity
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-30,47,290-->
 
 rapacious
 ?
@@ -211,7 +211,7 @@ rapacious
 	- **Ex.** The rapacious corporation was always looking to expand, regardless of the consequences.
 	- Synonyms
 		- grasping, avaricious, acquisitive
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-11-14,1,230-->
 
 relish
 ?
@@ -220,7 +220,7 @@ relish
 	- **Ex.** She relished the opportunity to showcase her skills.
 	- Synonyms
 		- adore, savor, rejoice in
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-30,47,290-->
 
 satirical
 ?
@@ -229,7 +229,7 @@ satirical
 	- **Ex.** The satirical play poked fun at societal norms.
 	- Synonyms
 		- sarcastic, sardonic, scornful
-<!--SR:!2025-11-01,8,250-->
+<!--SR:!2025-12-03,20,250-->
 
 sham
 ?
@@ -238,7 +238,7 @@ sham
 	- **Ex.** The man peddled sham remedies to a gullible clientele.
 	- Synonyms
 		- bogus, spurious, fraudulent
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-24,41,290-->
 
 skirt
 ?
@@ -247,7 +247,7 @@ skirt
 	- **Ex.** He skirted the difficult question by changing the topic.
 	- Synonyms
 		- evade, sidestep, circumvent
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-28,45,290-->
 
 sluggish
 ?
@@ -256,7 +256,7 @@ sluggish
 	- **Ex.** After a large meal, he felt sluggish and ready for a nap.
 	- Synonyms
 		- inert, torpid, lethargic
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-29,46,290-->
 
 spartan
 ?
@@ -265,7 +265,7 @@ spartan
 	- **Ex.** The monk's room was spartan, with only essential items.
 	- Synonyms
 		- austere, stringent, ascetic
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2026-01-07,55,310-->
 
 truculent
 ?
@@ -274,4 +274,4 @@ truculent
 	- **Ex.** The truculent student constantly challenged the teacher's authority.
 	- Synonyms
 		- pugnacious, bellicose, obstreperous
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-11-21,8,270-->

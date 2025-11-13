@@ -8,7 +8,7 @@ acrimonious
 	- **Ex.** Their divorce was acrimonious, with both parties hurling insults.
 	- Synonyms
 		- caustic, scathing, astringent
-<!--SR:!2025-11-05,12,270-->
+<!--SR:!2025-12-14,31,270-->
 
 belligerent
 ?
@@ -17,7 +17,7 @@ belligerent
 	- **Ex.** His belligerent attitude made it hard to have a calm conversation.
 	- Synonyms
 		- pugnacious, bellicose, truculent
-<!--SR:!2025-11-09,14,296-->
+<!--SR:!2025-12-22,39,296-->
 
 beneficent
 ?
@@ -26,7 +26,7 @@ beneficent
 	- **Ex.** The beneficent organization provided meals to the homeless.
 	- Synonyms
 		- altruistic, humanitarian, benevolent
-<!--SR:!2025-11-02,5,256-->
+<!--SR:!2025-12-01,18,276-->
 
 canny
 ?
@@ -35,7 +35,7 @@ canny
 	- **Ex.** Her canny investments made her a millionaire.
 	- Synonyms
 		- astute, discerning, acute
-<!--SR:!2025-11-06,12,270-->
+<!--SR:!2025-11-19,6,250-->
 
 cavalier
 ?
@@ -44,7 +44,7 @@ cavalier
 	- **Ex.** His cavalier dismissal of the issue upset many.
 	- Synonyms
 		- offhand, insouciant, dismissive
-<!--SR:!2025-11-07,12,276-->
+<!--SR:!2025-11-14,1,230-->
 
 distressed
 ?
@@ -53,7 +53,7 @@ distressed
 	- **Ex.** The distressed child sought comfort from his mother.
 	- Synonyms
 		- tormented, perturbed, afflicted
-<!--SR:!2025-11-07,12,276-->
+<!--SR:!2025-12-16,33,276-->
 
 dwindling
 ?
@@ -62,7 +62,7 @@ dwindling
 	- **Ex.** The dwindling supplies made survival even more challenging.
 	- Synonyms
 		- diminishing, shrinking, contracting
-<!--SR:!2025-11-06,11,276-->
+<!--SR:!2025-12-13,30,276-->
 
 eclipse
 ?
@@ -71,7 +71,7 @@ eclipse
 	- **Ex.** The success of her latest book eclipsed all her previous works.
 	- Synonyms
 		- outshine, outstrip, upstage
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2026-01-17,65,310-->
 
 encyclopedic
 ?
@@ -80,7 +80,7 @@ encyclopedic
 	- **Ex.** His encyclopedic knowledge of history impressed everyone.
 	- Synonyms
 		- exhaustive, wide-ranging, all-inclusive
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-23,40,290-->
 
 exacerbate
 ?
@@ -89,7 +89,7 @@ exacerbate
 	- **Ex.** His shouting only served to exacerbate the argument.
 	- Synonyms
 		- inflame, compound, aggravate
-<!--SR:!2025-11-11,16,296-->
+<!--SR:!2026-01-21,69,316-->
 
 exasperated
 ?
@@ -98,7 +98,7 @@ exasperated
 	- **Ex.** She was exasperated by the constant interruptions.
 	- Synonyms
 		- infuriated, enraged, vexed
-<!--SR:!2025-11-05,10,276-->
+<!--SR:!2025-12-11,28,276-->
 
 fungible
 ?
@@ -107,7 +107,7 @@ fungible
 	- **Ex.** Oil and cash are considered fungible commodities.
 	- Synonyms
 		- exchangeable, equivalent, indistinguishable
-<!--SR:!2025-11-06,11,276-->
+<!--SR:!2025-12-12,29,276-->
 
 hackneyed
 ?
@@ -116,7 +116,7 @@ hackneyed
 	- **Ex.** "Love at first sight" is a hackneyed plot in romance novels.
 	- Synonyms
 		- trite, banal, pedestrian
-<!--SR:!2025-11-05,8,250-->
+<!--SR:!2025-12-04,21,250-->
 
 incongruous
 ?
@@ -125,7 +125,7 @@ incongruous
 	- **Ex.** The modern building looked incongruous in the historic district.
 	- Synonyms
 		- clashing, jarring, discordant
-<!--SR:!2025-11-06,11,276-->
+<!--SR:!2025-12-12,29,276-->
 
 interchangeable
 ?
@@ -134,7 +134,7 @@ interchangeable
 	- **Ex.** The parts are interchangeable between the different models.
 	- Synonyms
 		- fungible, uniform, homogeneous
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-28,45,290-->
 
 laconic
 ?
@@ -143,7 +143,7 @@ laconic
 	- **Ex.** His laconic reply was simply, "No."
 	- Synonyms
 		- terse, pithy, taciturn
-<!--SR:!2025-11-02,5,256-->
+<!--SR:!2025-11-16,3,236-->
 
 lucrative
 ?
@@ -152,7 +152,7 @@ lucrative
 	- **Ex.** Selling rare antiques can be a lucrative business.
 	- Synonyms
 		- gainful, remunerative, fruitful
-<!--SR:!2025-11-10,15,296-->
+<!--SR:!2026-01-14,62,316-->
 
 magisterial
 ?
@@ -166,7 +166,7 @@ magisterial
 	- **Ex.** His magisterial tone left no room for debate.
 	- Synonyms
 		- domineering, dictatorial, overbearing
-<!--SR:!2025-11-06,11,276-->
+<!--SR:!2025-11-16,3,250-->
 
 onerous
 ?
@@ -175,7 +175,7 @@ onerous
 	- **Ex.** The onerous task of cleaning the entire house was left to her.
 	- Synonyms
 		- formidable, taxing, Herculean
-<!--SR:!2025-11-11,16,296-->
+<!--SR:!2025-11-20,7,276-->
 
 opprobrium
 ?
@@ -184,7 +184,7 @@ opprobrium
 	- **Ex.** He faced opprobrium for his unethical actions.
 	- Synonyms
 		- vilification, vituperation, obloquy
-<!--SR:!2025-11-07,12,276-->
+<!--SR:!2025-12-17,34,276-->
 
 parsimonious
 ?
@@ -193,7 +193,7 @@ parsimonious
 	- **Ex.** His parsimonious habits meant he rarely treated others.
 	- Synonyms
 		- miserly, stinting, penurious
-<!--SR:!2025-11-05,10,276-->
+<!--SR:!2025-11-14,1,230-->
 
 peripheral
 ?
@@ -202,7 +202,7 @@ peripheral
 	- **Ex.** The issue was only of peripheral importance to the main discussion.
 	- Synonyms
 		- subsidiary, tangential, trivial
-<!--SR:!2025-11-10,15,296-->
+<!--SR:!2025-12-26,43,296-->
 
 provocative
 ?
@@ -211,7 +211,7 @@ provocative
 	- **Ex.** His provocative statements stirred up controversy.
 	- Synonyms
 		- goading, affronting, galling
-<!--SR:!2025-11-04,11,270-->
+<!--SR:!2025-12-23,40,290-->
 
 renounce
 ?
@@ -220,7 +220,7 @@ renounce
 	- **Ex.** She decided to renounce her citizenship.
 	- Synonyms
 		- forswear, abjure, disavow
-<!--SR:!2025-11-07,12,276-->
+<!--SR:!2025-12-17,34,276-->
 
 tempestuous
 ?
@@ -234,7 +234,7 @@ tempestuous
 	- **Ex.** Only one boat captain was crazy enough to enter the tempestuous waters.
 	- Synonyms
 		- blustery, gusty, squally
-<!--SR:!2025-11-07,12,276-->
+<!--SR:!2025-11-19,6,256-->
 
 tenable
 ?
@@ -243,7 +243,7 @@ tenable
 	- **Ex.** His argument was hardly tenable in the face of clear evidence.
 	- Synonyms
 		- sound, plausible, sustainable
-<!--SR:!2025-10-29,2,230-->
+<!--SR:!2025-11-14,1,230-->
 
 transgression
 ?
@@ -252,7 +252,7 @@ transgression
 	- **Ex.** For his transgressions, he was sentenced to community service.
 	- Synonyms
 		- peccadillo, misdemeanor, indiscretion
-<!--SR:!2025-11-11,16,296-->
+<!--SR:!2026-01-20,68,316-->
 
 urbane
 ?
@@ -261,7 +261,7 @@ urbane
 	- **Ex.** He was urbane in manner, making everyone feel comfortable.
 	- Synonyms
 		- suave, debonair, cultivated
-<!--SR:!2025-11-09,14,296-->
+<!--SR:!2025-12-25,42,296-->
 
 verisimilitude
 ?
@@ -270,7 +270,7 @@ verisimilitude
 	- **Ex.** The film had an impressive verisimilitude due to its attention to detail.
 	- Synonyms
 		- authenticity, credibility, lifelikeness
-<!--SR:!2025-11-09,14,296-->
+<!--SR:!2025-12-24,41,296-->
 
 vitiate
 ?
@@ -279,4 +279,4 @@ vitiate
 	- **Ex.** Excessive use of clichés will vitiate the effectiveness of a speech.
 	- Synonyms
 		- taint, contaminate, sully
-<!--SR:!2025-11-02,5,256-->
+<!--SR:!2025-11-14,1,230-->

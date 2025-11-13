@@ -8,7 +8,7 @@ acumen
 	- **Ex.** Her business acumen is evident in the company's continued growth.
 	- Synonyms
 		- shrewdness, acuity, sharpness
-<!--SR:!2025-11-04,11,270-->
+<!--SR:!2025-12-12,29,270-->
 
 antithesis
 ?
@@ -17,7 +17,7 @@ antithesis
 	- **Ex.** Calm is the antithesis of chaos.
 	- Synonyms
 		- converse, reverse, inverse
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2026-01-19,67,310-->
 
 ascribe
 ?
@@ -26,7 +26,7 @@ ascribe
 	- **Ex.** The teacher ascribed his success to hard work and determination.
 	- Synonyms
 		- assign, accredit, impute
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-28,45,290-->
 
 befuddled
 ?
@@ -35,7 +35,7 @@ befuddled
 	- **Ex.** The complex equations left him completely befuddled.
 	- Synonyms
 		- baffled, stumped, nonplussed
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-27,44,290-->
 
 eschew
 ?
@@ -44,7 +44,7 @@ eschew
 	- **Ex.** He decided to eschew alcohol for a month.
 	- Synonyms
 		- forgo, abjure, renounce
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-11-14,1,230-->
 
 esoteric
 ?
@@ -53,7 +53,7 @@ esoteric
 	- **Ex.** The esoteric lecture was only understood by a few specialists in the audience.
 	- Synonyms
 		- recondite, arcane, abstruse
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2026-01-18,66,310-->
 
 evasive
 ?
@@ -62,7 +62,7 @@ evasive
 	- **Ex.** When asked about his plans, he gave an evasive answer.
 	- Synonyms
 		- prevaricating, equivocal, vague
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-28,45,290-->
 
 exculpate
 ?
@@ -71,7 +71,7 @@ exculpate
 	- **Ex.** The evidence served to exculpate the defendant from the accusations.
 	- Synonyms
 		- acquit, absolve, exonerate
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-23,40,290-->
 
 expedite
 ?
@@ -80,7 +80,7 @@ expedite
 	- **Ex.** We paid an extra fee to expedite the delivery of the package.
 	- Synonyms
 		- hasten, quicken, facilitate
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2026-01-07,55,310-->
 
 fastidious
 ?
@@ -89,7 +89,7 @@ fastidious
 	- **Ex.** She is fastidious about her appearance, ensuring every detail is perfect.
 	- Synonyms
 		- scrupulous, punctilious, painstaking
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-26,43,290-->
 
 feign
 ?
@@ -98,7 +98,7 @@ feign
 	- **Ex.** She tried to feign surprise, but I knew she'd already heard the news.
 	- Synonyms
 		- affect, posture, masquerade
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-24,41,290-->
 
 furtive
 ?
@@ -107,7 +107,7 @@ furtive
 	- **Ex.** The student gave a furtive glance to his neighbor's paper during the exam.
 	- Synonyms
 		- surreptitious, covert, clandestine
-<!--SR:!2025-11-06,12,270-->
+<!--SR:!2025-12-15,32,270-->
 
 hamper
 ?
@@ -116,7 +116,7 @@ hamper
 	- **Ex.** The storm hampered our travel plans.
 	- Synonyms
 		- inhibit, curb, foil
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2026-01-06,54,310-->
 
 indispensable
 ?
@@ -125,7 +125,7 @@ indispensable
 	- **Ex.** Fresh water is indispensable for human survival.
 	- Synonyms
 		- crucial, requisite, imperative
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-25,42,290-->
 
 lament
 ?
@@ -134,7 +134,7 @@ lament
 	- **Ex.** She lamented the loss of her cherished necklace.
 	- Synonyms
 		- mourn, wail, weep
-<!--SR:!2025-10-31,7,250-->
+<!--SR:!2025-12-01,18,250-->
 
 myopic
 ?
@@ -143,7 +143,7 @@ myopic
 	- **Ex.** A myopic approach to environmental issues can lead to long-term problems.
 	- Synonyms
 		- narrow-minded, insular, parochial
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-29,46,290-->
 
 nonchalant
 ?
@@ -152,7 +152,7 @@ nonchalant
 	- **Ex.** Despite the chaos around her, she remained nonchalant.
 	- Synonyms
 		- collected, blasé, insouciant
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-31,48,290-->
 
 partial
 ?
@@ -161,7 +161,7 @@ partial
 	- **Ex.** He's partial to chocolate desserts over fruity ones.
 	- Synonyms
 		- partisan, skewed, discriminatory
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-26,43,290-->
 
 pensive
 ?
@@ -170,7 +170,7 @@ pensive
 	- **Ex.** She sat in a pensive mood, gazing out the window.
 	- Synonyms
 		- reflective, introspective, ruminative
-<!--SR:!2025-11-03,10,270-->
+<!--SR:!2025-11-14,1,230-->
 
 portend
 ?
@@ -179,7 +179,7 @@ portend
 	- **Ex.** The dark clouds portend an approaching storm.
 	- Synonyms
 		- presage, augur, foreshadow
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-11-22,9,270-->
 
 provincial
 ?
@@ -188,7 +188,7 @@ provincial
 	- **Ex.** Despite his provincial attitudes, he was a kind-hearted man.
 	- Synonyms
 		- insular, parochial, myopic
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2025-12-30,47,290-->
 
 rudimentary
 ?
@@ -197,7 +197,7 @@ rudimentary
 	- **Ex.** His understanding of the subject is still quite rudimentary.
 	- Synonyms
 		- primitive, crude, embryonic
-<!--SR:!2025-11-10,16,290-->
+<!--SR:!2026-01-16,64,310-->
 
 salutary
 ?
@@ -206,7 +206,7 @@ salutary
 	- **Ex.** A morning jog can have a salutary effect on your mood.
 	- Synonyms
 		- productive, valuable, salubrious
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2026-01-12,60,310-->
 
 sever
 ?
@@ -215,7 +215,7 @@ sever
 	- **Ex.** He decided to sever all ties with his former colleagues.
 	- Synonyms
 		- cleave, suspend, rupture
-<!--SR:!2025-11-02,9,250-->
+<!--SR:!2025-12-06,23,250-->
 
 slight
 ?
@@ -224,7 +224,7 @@ slight
 	- **Ex.** He felt slighted when they didn't invite him to the party.
 	- Synonyms
 		- snub, disregard, rebuff
-<!--SR:!2025-11-05,12,270-->
+<!--SR:!2025-12-15,32,270-->
 
 somnolent
 ?
@@ -233,7 +233,7 @@ somnolent
 	- **Ex.** The lecture's monotone delivery had a somnolent effect on the audience.
 	- Synonyms
 		- soporific, enervated, languorous
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-22,39,290-->
 
 stoic
 ?
@@ -242,7 +242,7 @@ stoic
 	- **Ex.** Despite the challenges, she remained stoic and resolute.
 	- Synonyms
 		- phlegmatic, resigned, impassive
-<!--SR:!2025-11-09,15,290-->
+<!--SR:!2025-12-27,44,290-->
 
 supersede
 ?
@@ -251,7 +251,7 @@ supersede
 	- **Ex.** New technologies often supersede the old ones.
 	- Synonyms
 		- displace, supplant, succeed
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-23,40,290-->
 
 tout
 ?
@@ -260,7 +260,7 @@ tout
 	- **Ex.** He was always touting the benefits of a healthy lifestyle.
 	- Synonyms
 		- commend, endorse, urge
-<!--SR:!2025-11-04,11,270-->
+<!--SR:!2025-12-14,31,270-->
 
 wane
 ?
@@ -269,4 +269,4 @@ wane
 	- **Ex.** As the night progressed, the party's energy began to wane.
 	- Synonyms
 		- dwindle, subside, ebb
-<!--SR:!2025-11-08,14,290-->
+<!--SR:!2025-12-25,42,290-->

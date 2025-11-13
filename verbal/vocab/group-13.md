@@ -13,7 +13,7 @@ affinity
 	- **Ex.** There's a natural affinity between math and physics.
 	- Synonyms
 		- resemblance, kinship, parallelism
-<!--SR:!2025-11-06,11,272-->
+<!--SR:!2025-12-13,30,272-->
 
 altruistic
 ?
@@ -22,7 +22,7 @@ altruistic
 	- **Ex.** The altruistic volunteer spent weekends helping at the homeless shelter.
 	- Synonyms
 		- compassionate, benevolent, magnanimous
-<!--SR:!2025-11-05,10,272-->
+<!--SR:!2025-12-20,37,292-->
 
 baroque
 ?
@@ -31,7 +31,7 @@ baroque
 	- **Ex.** The dress she wore to the event was decidedly baroque, with frills and embroideries everywhere.
 	- Synonyms
 		- overelaborate, extravagant, rococo
-<!--SR:!2025-11-09,14,292-->
+<!--SR:!2025-12-22,39,292-->
 
 byzantine
 ?
@@ -40,7 +40,7 @@ byzantine
 	- **Ex.** Navigating the byzantine regulations required the help of an expert.
 	- Synonyms
 		- convoluted, involved, serpentine
-<!--SR:!2025-11-06,11,272-->
+<!--SR:!2025-12-26,43,292-->
 
 compromise
 ?
@@ -49,7 +49,7 @@ compromise
 	- **Ex.** Using low-quality ingredients can compromise the dish's flavor.
 	- Synonyms
 		- undermine, jeopardize, imperil
-<!--SR:!2025-11-06,11,272-->
+<!--SR:!2025-12-12,29,272-->
 
 conciliatory
 ?
@@ -58,7 +58,7 @@ conciliatory
 	- **Ex.** His conciliatory gesture helped to resolve the argument.
 	- Synonyms
 		- placatory, pacifying, mollifying
-<!--SR:!2025-11-11,16,292-->
+<!--SR:!2026-01-01,49,292-->
 
 countenance
 ?
@@ -72,7 +72,7 @@ countenance
 	- **Ex.** Her countenance fell when she heard the bad news.
 	- Synonyms
 		- No great synonyms really.
-<!--SR:!2025-10-30,4,212-->
+<!--SR:!2025-11-16,3,250-->
 
 covert
 ?
@@ -81,7 +81,7 @@ covert
 	- **Ex.** The spy was involved in several covert missions.
 	- Synonyms
 		- furtive, surreptitious, clandestine
-<!--SR:!2025-11-05,10,272-->
+<!--SR:!2025-12-10,27,272-->
 
 credible
 ?
@@ -90,7 +90,7 @@ credible
 	- **Ex.** The evidence was credible enough to support her case.
 	- Synonyms
 		- valid, tenable, compelling
-<!--SR:!2025-11-10,15,292-->
+<!--SR:!2025-12-28,45,292-->
 
 diffuse
 ?
@@ -104,7 +104,7 @@ diffuse
 	- **Ex.** The light was diffuse, casting soft shadows across the room.
 	- Synonyms
 		- dispersed, spread out, distributed
-<!--SR:!2025-11-05,11,272-->
+<!--SR:!2025-12-13,30,272-->
 
 documentary
 ?
@@ -113,7 +113,7 @@ documentary
 	- **Ex.** The film was documentary in nature, capturing the reality of life in that region.
 	- Synonyms
 		- recorded, chronicled, archived
-<!--SR:!2025-11-07,12,272-->
+<!--SR:!2025-12-16,33,272-->
 
 exhaustive
 ?
@@ -122,7 +122,7 @@ exhaustive
 	- **Ex.** She conducted an exhaustive review of the literature on the topic.
 	- Synonyms
 		- all-inclusive, all-encompassing, encyclopedic
-<!--SR:!2025-11-07,12,270-->
+<!--SR:!2025-12-30,47,290-->
 
 exhilarating
 ?
@@ -131,7 +131,7 @@ exhilarating
 	- **Ex.** The roller coaster ride was an exhilarating experience.
 	- Synonyms
 		- thrilling, intoxicating, invigorating
-<!--SR:!2025-11-05,10,272-->
+<!--SR:!2025-12-10,27,272-->
 
 extraneous
 ?
@@ -140,7 +140,7 @@ extraneous
 	- **Ex.** Please remove any extraneous information from the report.
 	- Synonyms
 		- immaterial, inapposite, incidental
-<!--SR:!2025-11-06,11,272-->
+<!--SR:!2025-12-14,31,272-->
 
 fervor
 ?
@@ -149,7 +149,7 @@ fervor
 	- **Ex.** The crowd's fervor was evident during the final match.
 	- Synonyms
 		- ardor, zeal, keenness
-<!--SR:!2025-11-11,16,292-->
+<!--SR:!2026-01-01,49,292-->
 
 futile
 ?
@@ -158,7 +158,7 @@ futile
 	- **Ex.** Despite their efforts, the search proved futile.
 	- Synonyms
 		- fruitless, ineffectual, vain
-<!--SR:!2025-11-09,14,292-->
+<!--SR:!2026-01-09,57,312-->
 
 illusory
 ?
@@ -167,7 +167,7 @@ illusory
 	- **Ex.** His sense of victory was illusory, as new challenges awaited.
 	- Synonyms
 		- delusional, bogus, sham
-<!--SR:!2025-11-02,5,252-->
+<!--SR:!2025-11-26,13,252-->
 
 invidious
 ?
@@ -181,7 +181,7 @@ invidious
 	- **Ex.** The invidious policy discriminated against certain groups, causing widespread resentment.
 	- Synonyms
 		- unjust, discriminatory, iniquitous
-<!--SR:!2025-10-30,2,230-->
+<!--SR:!2025-11-14,1,230-->
 
 lethargic
 ?
@@ -190,7 +190,7 @@ lethargic
 	- **Ex.** After the heavy meal, he felt lethargic and drowsy.
 	- Synonyms
 		- torpid, inert, languid
-<!--SR:!2025-11-07,12,272-->
+<!--SR:!2025-12-31,48,292-->
 
 metaphorical
 ?
@@ -199,7 +199,7 @@ metaphorical
 	- **Ex.** "A sea of troubles" is a metaphorical expression.
 	- Synonyms
 		- figurative, allegorical, allusive
-<!--SR:!2025-11-11,16,292-->
+<!--SR:!2026-01-01,49,292-->
 
 mimic
 ?
@@ -208,7 +208,7 @@ mimic
 	- **Ex.** He could mimic his favorite actors perfectly.
 	- Synonyms
 		- emulate, caricature, satirize
-<!--SR:!2025-11-10,15,292-->
+<!--SR:!2025-12-29,46,292-->
 
 numinous
 ?
@@ -217,7 +217,7 @@ numinous
 	- **Ex.** The church had a numinous aura that calmed the visitors.
 	- Synonyms
 		- sacred, otherworldly, transcendent
-<!--SR:!2025-10-30,5,232-->
+<!--SR:!2025-11-14,1,230-->
 
 obscure
 ?
@@ -231,7 +231,7 @@ obscure
 	- **Ex.** The author intentionally obscures the true meaning of his books.
 	- Synonyms
 		- obfuscate, cloud, muddy
-<!--SR:!2025-11-06,11,272-->
+<!--SR:!2025-12-14,31,272-->
 
 overt
 ?
@@ -240,7 +240,7 @@ overt
 	- **Ex.** Her overt criticism was surprising to many.
 	- Synonyms
 		- plain, manifest, patent
-<!--SR:!2025-11-10,15,292-->
+<!--SR:!2025-12-27,44,292-->
 
 pellucid
 ?
@@ -250,11 +250,11 @@ pellucid
 	- Synonyms
 		- lucid, unambiguous, straightforward
 - adjective
-	- (of a body of water or substance) transparent and clear
+	- (of a body of water or substance) translucent and clear
 	- **Ex.** Lake Tahoe is famous for its pellucid water.
 	- Synonyms
 		- limpid, translucent, crystalline
-<!--SR:!2025-11-05,10,272-->
+<!--SR:!2025-12-09,26,272-->
 
 perpetuate
 ?
@@ -263,7 +263,7 @@ perpetuate
 	- **Ex.** The movie served to perpetuate the myth of the noble outlaw.
 	- Synonyms
 		- sustain, maintain, prolong
-<!--SR:!2025-11-07,12,272-->
+<!--SR:!2025-12-29,46,292-->
 
 rational
 ?
@@ -272,7 +272,7 @@ rational
 	- **Ex.** He made a rational decision after considering all options.
 	- Synonyms
 		- cogent, coherent, judicious
-<!--SR:!2025-11-05,10,272-->
+<!--SR:!2025-12-09,26,272-->
 
 scathing
 ?
@@ -281,7 +281,7 @@ scathing
 	- **Ex.** The review was scathing, criticizing every aspect of the product.
 	- Synonyms
 		- mordant, blistering, caustic
-<!--SR:!2025-11-09,14,292-->
+<!--SR:!2025-12-25,42,292-->
 
 subtle
 ?
@@ -290,7 +290,7 @@ subtle
 	- **Ex.** The dish had a subtle hint of rosemary.
 	- Synonyms
 		- minute, understated, subdued
-<!--SR:!2025-11-07,12,272-->
+<!--SR:!2025-12-31,48,292-->
 
 superficial
 ?
@@ -304,4 +304,4 @@ superficial
 	- **Ex.** Sarah gave the car merely a superficial cleaning.
 	- Synonyms
 		- cursory, desultory, perfunctory
-<!--SR:!2025-11-02,5,252-->
+<!--SR:!2025-11-27,14,252-->

@@ -21,7 +21,7 @@ parvenu
 	- **Ex.** The political inexperience of a parvenu.
 	- Synonyms
 		- arriviste, upstart
-<!--SR:!2025-11-13,1,250-->
+<!--SR:!2025-11-14,1,230-->
 
 nouveau riche
 ?
@@ -39,7 +39,7 @@ upstart
 	- **Ex.** The upstarts who dare to challenge the legitimacy of his rule.
 	- Synonyms
 		- parvenu, arriviste
-<!--SR:!2025-10-29,1,230-->
+<!--SR:!2025-11-14,1,210-->
 
 arriviste
 ?
@@ -47,7 +47,7 @@ arriviste
 	- an ambitious or ruthlessly self-seeking person, especially one who has recently acquired wealth or social status; a new arrival
 	- Synonyms
 		- parvenu, upstart
-<!--SR:!2025-11-13,1,207-->
+<!--SR:!2025-11-15,2,207-->
 
 surmise
 ?
@@ -56,7 +56,7 @@ surmise
 	- **Ex.** He surmised that something must be wrong.
 	- Synonyms
 		- conjecture, guess
-<!--SR:!2025-10-30,2,247-->
+<!--SR:!2025-11-18,5,247-->
 
 noisome
 ?
@@ -68,7 +68,7 @@ noisome
 		- The noisome scandals.
 	- Synonyms
 		- nasty, off-putting
-<!--SR:!2025-11-13,1,250-->
+<!--SR:!2025-11-14,1,230-->
 
 mar
 ?
@@ -87,7 +87,7 @@ embroil
 	- **Ex.** She became embroiled in a dispute between two women she hardly knew.
 	- Synonyms
 		- mire
-<!--SR:!2025-11-13,5,247-->
+<!--SR:!2025-11-30,17,267-->
 
 mire
 ?
@@ -127,7 +127,7 @@ negotiate
 	- **Ex.** The drivers have to negotiate sharp bends in challenging conditions.
 	- Synonyms
 		- navigate
-<!--SR:!2025-11-13,5,247-->
+<!--SR:!2025-11-25,12,247-->
 
 rake
 ?
@@ -137,7 +137,7 @@ rake
 	- to gather or move a rake
 - noun
 	- a fashionable or wealthy man of dissolute or promiscuous habits.
-<!--SR:!2025-11-13,5,247-->
+<!--SR:!2025-11-16,3,227-->
 
 rogue
 ?
@@ -147,7 +147,7 @@ rogue
 - adjective
 	- denoting a person or thing that behaves in an aberrant or unpredictable way, typically with damaging or dangerous effects.
 	- **Ex.** The soldier went rogue and deserted his post.
-<!--SR:!2025-11-13,1,250-->
+<!--SR:!2025-11-16,3,250-->
 
 ignominy
 ?

@@ -53,7 +53,7 @@ astringent
 	- **Ex.** Her critique was astringent but fair.
 	- Synonyms
 		- trenchant, acerbic, caustic
-<!--SR:!2025-10-30,5,230-->
+<!--SR:!2025-11-24,11,230-->
 
 collaborate
 ?
